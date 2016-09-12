@@ -1,0 +1,2 @@
+word = "Tere!"
+print(word)
