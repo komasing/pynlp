@@ -1,0 +1,99 @@
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"> 
+<xi:include href="../../bin/koondkorpus_main_header.xml" /> 
+<teiCorpus> 
+<xi:include href="../bin/header_aja_maaleht.xml" /> 
+	<TEI> 
+		<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:lang="et" xml:id="koondkorpus_local_header" n="$Id:$"> 
+			<fileDesc> 
+				<titleStmt> 
+					<title> Maaleht 17.05.2001 ( number 20 ( 710 ) ) </title> 
+  				</titleStmt> 
+				<publicationStmt> 
+  					<p> Vt publitseerimisandmeid failist 
+						<ref target="#publicationStmt-main">koondkorpus_main_header.xml</ref> 
+					</p> 
+  				</publicationStmt> 
+				<sourceDesc> 
+					<p> Vt allkorpuse päis 
+						<ref target="#header_aja_maaleht">header_aja_maaleht.xml</ref> 
+					</p> 
+  				</sourceDesc> 
+  			</fileDesc> 
+		</teiHeader>
+  <text>
+    <body>
+      <div1 type="ajalehenumber">
+        <head> Maaleht 17.05.2001 ( number 20/2001 ( 710 ) ) </head>
+        <div2 type="rubriik">
+          <head> Päevateema </head>
+          <div3 type="artikkel"><head> Uus mats maarahvale </head>
+<p> <s> <hi rend="kaldkiri"> 17.05.2001 <bibl> <author> Rein Raudvere </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Bussifirmad sulgevad küladesse sõitvaid kaugliine </hi> </s> </p>
+<p> <s> Veerand sajandit Mikitamäe vallasekretärina töötanud <hi rend="rasvane"> Tiiu Kallari </hi> on tööpäeva lõpus koju Võõpsu ikka bussiga sõitnud . </s> <s> Buss on läinud heal ajal , veidi enne viit . </s> </p>
+<p> <s> Nüüd on Kallari mures . </s> <s> Värska-Tallinna liini sõitnud AS SEBE sulgeb 15. juunist 14 suure kahjumiga töötanud liini . </s> <s> Kaob ka see buss , millega Kallari koju sai . </s> <s> “ Bussifirma on vist nõuks võtnud , et mul polegi vaja tööl käia , ” imestab ta ning arutleb : kas oodata seitsmeni , siis läheb järgmine buss . </s> <s> Jala minna on maa pikk , rattagagi sõita na palju , ikkagi kümme kilomeetrit . </s> </p>
+<p> <s> <hi rend="rasvane"> Maarahvas jalameheks </hi> </s> </p>
+<p> <s> “ Kui nii ei toimiks , läheksime pankrotti , ” pole AS SEBE juhatuse esimehel <hi rend="rasvane"> Toivo Lehel </hi> valikut . </s> <s> SEBE 73 kaugliinist pole enam veeranditki kasumis . </s> <s> Lisaks 14 suletavale liinile sulgeb SEBE peatselt veel seitse . </s> </p>
+<p> <s> Ainuüksi aprillis tõi Värska liin SEBE-le 45 000 kr kahjumit . </s> <s> Koos mitme teise Põlvamaale ulatuva liiniga küündis kahjum üle 200 000 kr. “ Liinilt ühes kuus 50 000 kahjumit saada teeb aastas 600 000 kr , peaaegu sama palju maksavad uuemad kasutatud bussid , mida Eestisse ostetakse , ” märgib Leht . </s> </p>
+<p> <s> Mikitamäe vallavanem <hi rend="rasvane"> Inara Luigas </hi> peab bussiliinide kadumist järjekordseks löögiks maarahvale , selle näiteks , et meie riigis ei maksa inimlikud , vaid ärilised väärtused . </s> <s> “ Lihtne öelda , et ei tasu , aga milleks on meil riik , kui ei leia lahendust inimeste probleemidele , kelle elu ja töö on seatud vastavalt bussiliiklusele , ” pahandab ta . </s> </p>
+<p> <s> Mureliku pilguga vaadatakse homsesse mujalgi Eestis . </s> <s> Kümnendiku kaugbussiliinidest on otsustanud sulgeda Pärnu ATP . </s> <s> Sama kavatsevad veel mitmed bussifirmad . </s> <s> Suur osa suletavatest kaugliinidest läbib aga just külasid ja väikelinnu . </s> </p>
+<p> <s> <hi rend="rasvane"> Käes on anarhia aeg </hi> </s> </p>
+<p> <s> Enamikku bussiettevõtteid koondava Autoettevõtete Liidu direktori <hi rend="rasvane"> Villem Tori </hi> sõnul valitseb praegu bussinduses anarhia . </s> </p>
+<p> <s> “ Kõik sai alguse sellest , kui teede- ja sideministeerium hiljuti otsustas , et mida teravam konkurents , seda toredam , ” selgitab Tori . </s> <s> Kümme aastat on liine koostöös maavalitsustega üles ehitatud , ikka vastavalt sõitjate vajadustele . </s> <s> Kolmandik liine tõi korralikku tulu , ülejäänud tulid omadega välja . </s> <s> Maakondi läbivaid kaugliine kooskõlastati maavalitsustega . </s> <s> Ja oli lepe , et otstarbekas on konkurentsi piirata tingimusel , kui bussiettevõtjad sõidavad ka väherentaableid liine . </s> </p>
+<p> <s> Tori väitel lepe toimis . </s> <s> Kogu Eestit kattis suhteliselt efektiivne , riigi poolt vähe toetust vajanud bussiliiklus . </s> <s> Ilma igasuguse dotatsioonita bussifirmad suutsid kasumit tootvate kaugliinide arvel käigus hoida ka kahjumiga töötavaid , paljude peatustega , küladesse jõudvaid kaugliine . </s> <s> Mitut maakonda läbides täitsid nad ka maakonnaliini rolli . </s> <s> Riigisisesest 233 kaugliinist oli selliseid üle poole . </s> </p>
+<p> <s> “ Tänavu tuli turule AS Taisto Bussid ja ministeerium avas turu piiramatule konkurentsile , mingu ühele liinile korraga või mitu bussi , ” ahastab Tori . </s> <s> Ta peab ministeeriumi otsust hukatuslikuks . </s> <s> Enam ei peeta vajalikuks liinilubade kooskõlastamist maavalitsustega , sõnaõigust ei jäetud ka autoettevõtete liidule . </s> </p>
+<p> <s> Taisto Bussid langetas Tartu-Tallinna piletihinna 50 kroonile . </s> <s> Peagi olid teised sunnitud samaga vastama . </s> <s> Ent Tori usub , et selle hinnaga ei suuda paljud konkureerida ja lähevad pankrotti . </s> <s> Seda aga Taisto Bussid ootavatki , et ülejäänudki liinid endale saada ning siis piletihinnad kiirelt lakke lüüa . </s> <s> Praegu sõitja veel kiidab neid madalaid hindu , kuid lõppkokkuvõttes ikkagi kaotab . </s> </p>
+<p> <s> Tori arvutuste järgi ei saa ausalt toimides sõiduhind nii madalal olla . </s> <s> Maksuamet uurivatki praegu väidetavat ümbrikupalkade maksmist Taistos . </s> </p>
+<p> <s> <hi rend="rasvane"> Pilet odav , buss täis </hi> </s> </p>
+<p> <s> “ Olen seda meelt , et konkureerime bussijaamas , mitte ajalehes , ” ei taha ASi Taisto Bussid asedirektor <hi rend="rasvane"> Riho Kartau </hi> mõista ega kommenteerida kolleegide halvakspanu . </s> <s> “ Mitte konkurents ei sulge bussiliine , liinide käigusolek sõltub majandamisoskusest , ” ütleb ta . </s> </p>
+<p> <s> Kartau teab - kauba hind paneb äri paika . </s> <s> Tal oli valida , kas kallis pilet ja lasta bussil tühjalt sõita . </s> <s> Või odava pileti ja suurte bussidega võimalikult palju rahvast vedada . </s> </p>
+<p> <s> “ Mis on bussisõidu idee ? ” küsib ta . </s> </p>
+<p> <s> “ Võimalikult soodne hind , ” vastab ta ise . </s> <s> “ Bussipileti hind peab olema selline , mille puhul mul ei tekiks mõtet , et autoga oleks sama hind sõita . ” </s> </p>
+<p> <s> AS Taisto Bussid tekkis ASi Suure-Jaani Buss baasil . </s> <s> Aastaid teenindati kolmandikku Viljandi maakonna liine , areneti ja ihaldati üle-eestilisele turule tulla . </s> <s> Nüüdseks on kaugliine kümmekond . </s> <s> Kuna aga läheb oodatust paremini , noolitakse uusi liine . </s> </p>
+<p> <s> “ Tallinna-Antsla liinil läbi Viljandi ja Valga ei taha rahvas enam tihtipeale bussi ära mahtuda , kavatseme samaks kellaajaks teisegi bussi sõitma panna , ” märgib Kartau . </s> </p>
+<p> <s> Kartau ei mõista , mis siis selles halba , kui korraga mitu bussifirmat liinile läheb . </s> <s> “ Las rahvas otsustab , kelle bussi valib . ” </s> </p>
+<p> <s> “ Turule tulles ütlesid suurkolleegid , et nii odavalt sõita on absurd , et see on majandusime . </s> <s> Nüüd sõidavad ise ka sama hinnaga , järelikult olid nad kasumimarginaali liialt kõrgeks ajanud , ” ütleb Kartau , lisades , et tänu neile jõudis konkurents nüüd kaugliinidelegi . </s> </p>
+<p> <s> Kartau ei pea õigeks ühtede liinide arvelt teisi ülal pidada . </s> <s> Keegi peab selle kinni maksma , kas reisija või riik . </s> </p>
+<p> <s> “ Kui mul on kasu toov kaubamaja , ei ehita ma teist kaubamaja , mida esimese arvelt ülal pean , ” ütleb ta . </s> </p>
+<p> <s> <hi rend="rasvane"> Liiniloa saab igaüks </hi> </s> </p>
+<p> <s> “ Praegu käib üksteise väljasöömine , rumal majandamine , mis võib kunagi pauguga lõhkeda , siis pole aga enam vedajaid , ” arutleb ASi Võru Autobaas juhataja <hi rend="rasvane"> Jüri Kikkas </hi> . </s> </p>
+<p> <s> Uued tulijad ihkavad loomulikult tulusaid liine . </s> <s> Kõige magusamat otsa - Tallinna ja Tartu vahet - sõidab juba nii palju busse , et üks ei jõua tihti peatusest välja sõita , kui teine juba ootab sinna saamist . </s> <s> Mitut puhku väljub ühele liinile kaks bussi korraga . </s> <s> Pole ime , kui üks neist sõidab välja ainsagi reisijata . </s> </p>
+<p> <s> Kikkase sõnul on aastaga toimunud teede- ja sideministeeriumis liinilubade andmisel suur muutus . </s> <s> Liiniloa saab peaaegu igaüks , kes sõita tahab . </s> <s> Kikkas kirub ministeeriumi liigliberaalset liiniloapoliitikat . </s> <s> Ta ei välista , et ka tema firma on lähiajal sunnitud paljude peatustega kaugliinid sulgema . </s> <s> Kui seni sai tulusate liinide arvelt kahjumis liine ristsubsideerida , siis üha vähemaks jääb neid tulusaid liine . </s> </p>
+<p> <s> “ Mõistus ütleb , et praegu küll ei tasu seda Värska liini endale võtta , ” kaalutleb Kikkas . </s> </p>
+<p> <s> <hi rend="rasvane"> Pole riigi mure </hi> </s> </p>
+<p> <s> “ Nägime ette , et piiramatu konkurents ei sobi bussiveondusse ja protestisime seda ministeeriumis , kuid meid ei võetud kuulda , ” räägib Põlva maavalitsuse majandustalituse juhataja <hi rend="rasvane"> Arvo Jää </hi> . </s> </p>
+<p> <s> “ Riik peab piiramatu konkurentsi korral senisest rohkemgi raha bussiliiklusele kulutama . </s> <s> Maksma uute liinide eest , mida muidu kommertsliinid ilma toetuseta oleks sõitnud , ” ohkab Jää . </s> </p>
+<p> <s> Raha ärajäävate liinide asendamiseks maakonnaliinidega pole . </s> <s> Dotatsioon on aasta lõpuni kõigi liinide vahel jagatud . </s> <s> “ Vaevalt et ükski omavalitsus oleks nõus mõnda liini ära andma sinna , kus bussiühendus kaob , ” kurdab Jää . </s> </p>
+<p> <s> Teede- ja sideministeeriumi pressiesindaja <hi rend="rasvane"> Aap Tänava </hi> kinnitusel on ministeeriumi eesmärk võimalikult vähe sekkuda turumajandusse , ja vabaturust bussinduses ei kavatseta taganeda . </s> <s> “ Kõigil vedajail olgu võimalus sõita , ” toonitab ta . </s> </p>
+<p> <s> Tänava väitel on riigi funktsiooniks lahendada vaid neid olukordi , kus turumajandus ei suuda seda teha . </s> <s> Kui aga mõnes kohas jääb vajalik bussiliin ära , on küsimus maavalitsuse lahendada , nende kätte on antud kohaliku bussiveonduse korraldamine . </s> <s> “ See pole ministeeriumi mure , ” ütleb Tänav . </s> </p>
+<p> <s> <hi rend="rasvane"> Aini Proos , Konkurentsiameti peadirektori asetäitja </hi> : </s> </p>
+<p> <s> “ Konkurents on aus ja õilis , kui kõiki kümmet käsku täidetakse . </s> <s> Nii lihtne see ongi . </s> </p>
+<p> <s> Mingile bussiliinile uut luba taotledes tekivad tihtipeale küsimused , kas turg juba täis pole ja kas põhjendused , miks keeldutakse , on objektiivsed . </s> <s> Kui pole , peaks kõigile loa andma . </s> <s> Eks meie amet olegi selline turukohtuniku amet . </s> <s> Täidame tasakaalustavat rolli . </s> </p>
+<p> <s> Kui pole numbriliselt piiratud , palju liine antud marsruudil sõidab , peaks ka uutel tulijatel olema õigus sinna konkureerida . </s> <s> Kui ühel ja samal kellaajal väljub kaks bussi , peaksid lubade väljaandjad ikkagi tegelikku situatsiooni hindama - kas see kellaaeg nõuab kaht bussi . </s> <s> Hullem veel , kui viieminutise erinevusega antakse luba üht liini sõita . </s> <s> Kui siis ka hinnamuutused on , võib küsida , kas pole see selleks , et konkurendile ära teha . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Kuidas on bussiliiklusega Lätis ? </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Egita Tereze Jonane </hi> , Latgales Laiksi ajakirjanik , Daugavpils : </s> </p>
+<p> <s> “ Konkurents kaugliinidel on Lätiski teravaks läinud . </s> <s> Lausa nii , et autobussid väljuvad ühes suunas ühel ajal , spetsiaalselt tehakse nii , et konkurendi buss sõidaks tühjalt ja ta teenida ei saaks . </s> <s> On üsna tavaline , et ühed bussifirmad lähevad pankrotti , teised tulevad asemele . </s> </p>
+<p> <s> Kaugliinidega konkureerivad paljudel liinidel ka kohalikud liinid . </s> <s> Küsimus on ka rahas , iga aastaga väheneb riigi dotatsioon bussiliiklusele . </s> <s> Kohalikud omavalitsused ei suuda väikesi liine ülal hoida ja neidki kaob üha . </s> <s> Väikeliine sõidavad ka erafirmad , kuid see on siiski harv nähtus , ent neilegi on raha vaja . </s> <s> Kahjumiga ei saa keegi sõita . ” </s> </p>
+<p> <s> <hi rend="rasvane"> SEBE 14. juunil suletavad kaugliinid </hi> </s> </p>
+<p> <s> nr 41 Tallinn-Paide-Põltsamaa-Tartu-Värska nr 53 Tallinn-Tartu-Põlva nr 60 Tallinn-Rakvere-Jõhvi-Kauksi-Remniku nr 79 Tallinn-Aegviidu-Tamsalu-Laekvere nr 105 Tartu-Kanepi-Võru-Antsla nr 130 Pärnu-Tõrva-Jõgeveste-Tartu nr 138 Tartu-Elva-Rõngu-Pikasilla-Tõrva nr 160 Rakvere-Koeru-Jõgeva-Tartu nr 164 Tartu-Luua-Kuremaa-Jõgeva nr 171 Tartu-Mustvee-Jõhvi-Narva nr 172 Tartu-Mustvee-Jõhvi-Narva-Jõesuu nr 175 Jõgeva-Palamuse-Pataste-Tartu nr 203 Haapsalu-Lihula-Pärnu-Viljandi-Tartu nr 804 Antsla-Osula-Kanepi-Tartu </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Uudised </head>
+          <div3 type="artikkel"><head> Varanduslik kihistumine süveneb </head>
+<p> <s> <hi rend="kaldkiri"> 18.05.2001 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Statistikaameti analüütilisest kogumikust selgub , et üleminekuperioodi Eesti ühiskonda iseloomustab süvenev hariduslik kihistumine ning jätkuv varandusliku ebavõrdsuse kasv . </hi> </s> </p>
+<p> <s> Samal ajal kui üha rohkem noori pürib omandama kõrgharidust , kasvab nende noorte hulk , kes katkestavad haridustee juba enne põhihariduse omandamist . </s> </p>
+<p> <s> Viimase kümnendi sotsiaalseid suundumusi kajastava kogumiku andmeil jääb politseile teatamata kaks kolmandikku kuritegudest . </s> <s> Kuritegevuse tase on kõrgeim Tallinnas ja madalaim Lääne-Eesti saartel . </s> </p>
+<p> <s> Elanikkonna turvatunne pole 1990. aastate teisel poolel muutunud , teatas BNS . </s> </p></div3>
+          <div3 type="artikkel"><head> Maapanga komisjoni volitused lõpevad </head>
+<p> <s> <hi rend="kaldkiri"> 18.05.2001 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Maapanga pankroti uurimiskomisjoni volituste pikendamise arutelu teisipäeval Riigikogus katkes ja seega jääb otsus ajapuudusel vastu võtmata . </hi> </s> </p>
+<p> <s> Kuigi eelnõu pidi selle menetlust juhtinud põhiseaduskomisjoni enamuse otsusega minema teisipäeval lõpphääletusele , esitas Isamaaliidu fraktsioon muudatusettepaneku , mis katkestas arutelu . </s> </p>
+<p> <s> Muudatusettepanekuid saab põhiseaduskomisjonile esitada 17. maini , kuid uurimiskomisjoni volitused lõpevad juba 27. mail . </s> <s> Kuna järgmisel nädalal Riigikogu istungeid ei ole , jäävad komisjoni volitused pikendamata . </s> </p>
+<p> <s> “ On põhjust oletada , et selle otsuse taga on Isamaaliidu endise peasekretäri Tiit Arge ja tema Nordika-firmade ebaselge roll Maapanga pankrotistumisel , ” teatas Rahvaliit BNSile . </s> </p></div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>
+</teiCorpus>
+</teiCorpus>

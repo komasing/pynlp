@@ -1,0 +1,807 @@
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"> 
+<xi:include href="../../bin/koondkorpus_main_header.xml" /> 
+<teiCorpus> 
+<xi:include href="../bin/header_aja_maaleht.xml" /> 
+	<TEI> 
+		<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:lang="et" xml:id="koondkorpus_local_header" n="$Id:$"> 
+			<fileDesc> 
+				<titleStmt> 
+					<title> Maaleht 11.07.2002 ( number 28 ( 770 ) ) </title> 
+  				</titleStmt> 
+				<publicationStmt> 
+  					<p> Vt publitseerimisandmeid failist 
+						<ref target="#publicationStmt-main">koondkorpus_main_header.xml</ref> 
+					</p> 
+  				</publicationStmt> 
+				<sourceDesc> 
+					<p> Vt allkorpuse päis 
+						<ref target="#header_aja_maaleht">header_aja_maaleht.xml</ref> 
+					</p> 
+  				</sourceDesc> 
+  			</fileDesc> 
+		</teiHeader>
+  <text>
+    <body>
+      <div1 type="ajalehenumber">
+        <head> Maaleht 11.07.2002 ( number 28/2002 ( 770 ) ) </head>
+        <div2 type="rubriik">
+          <head> </head>
+          <div3 type="artikkel"><head> Jõhker tulnukas vallutab Eestit </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Heino Laiapea </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Mürgine Sosnovski karuputk tekitab inimesele raskeid haavu ja rikub Eesti maastikku </hi> </s> </p>
+<p> <s> Viimastel aastatel jõudsalt levinud Sosnovski karuputke läbi on kannatada saanud sajad eestlased . </s> </p>
+<p> <s> Taime lehtede või varrega kokku puutudes tekivad nahale raskesti paranevad põletushaavad . </s> <s> Sagedasti saavad viga lapsed , kellele meeldib suure taimega mängida . </s> </p>
+<p> <s> <hi rend="rasvane"> Lapsed ei tea karta </hi> </s> </p>
+<p> <s> Mullu pöördus Viljandis nahaarsti poole mitu linnalaagri last , kes olid lossimägedes koristustöödel pahaaimamatult Sosnovski karuputke niitnud . </s> </p>
+<p> <s> “ Karuputke rakumahl sisaldab naha päikesetundlikkust suurendavaid aineid , ” ütles Viljandi haigla nahaarst Marge Tampere . </s> <s> “ Ultraviolettkiirgus suurendab nende mõju . </s> <s> Raviks tuleks kasutada pantenooliga põletusvahtu või niiskeid kummelimähiseid . </s> <s> Suuremate kahjustuste korral käsi kinni siduda , et see ei saaks päikesevalgust . </s> <s> Lihtsam on karuputkest eemale hoida , seda peaks lastele selgitama . ” </s> </p>
+<p> <s> Järva maavalitsuse majandustalituse juhataja Toomas Tippi ütles , et sageli ei oska lapsevanemad aimata , millest on lastel tekkinud nahale vigastused . </s> </p>
+<p> <s> “ Ka meie peres juhtus nii , et tütar sai kätele villid , ” nentis Timmi . </s> <s> “ Alles hiljem saime jälile , et tegemist on Sosnovski karuputke kahjustusega . </s> <s> Seni arvasime , et see on allergia . ” </s> </p>
+<p> <s> Timmi kiitis Paide elamuhoolduse töötajaid , kes linnas suurte majade vahel kasvanud karuputked välja kaevasid ja hävitasid . </s> <s> Mullu olid Paides poisid samasuguse taime lehtedest ja vartest onni ehitanud ja saanud jalgadele põletusi . </s> </p>
+<p> <s> <hi rend="rasvane"> Ohtlik ka loodusele </hi> </s> </p>
+<p> <s> “ Sosnovski karuputk on ohtlik nii inimesele kui loodusele . </s> <s> Tapab kõik muud taimed ja vallutab kolooniatena alad , ” ütles EPMÜ botaanika ja zooloogia instituudi teadur , põhjalikult karuputkesid uurinud Toomas Kukk . </s> </p>
+<p> <s> “ See on mitmeaastane taim , ” selgitas Kukk . </s> <s> “ Olenevalt kasvutingimustest võib kuluda kolm-neli aastat , enne kui ta õitsema hakkab , vahel kauemgi . </s> <s> Taim õitseb ja annab seemneid vaid kord elus . ” </s> </p>
+<p> <s> Mitu vallavalitsust on taotlenud keskkonnainvesteeringute keskusest karuputke tõrje projektidele raha , kuid pole seda seni saanud . </s> </p>
+<p> <s> Viljandimaa keskkonnateenistuse looduskaitse peaspetsialist Hille Lapp ütles , et maakonna fondist on tänavu rahastatud Sosnovski karuputke hävitamise projekti Karksi maastikukaitsealal . </s> </p>
+<p> <s> “ Karksi kiriku taga nõlvadel on täielik karuputkepadrik . </s> <s> Ühekordne hektari niitmine maksab 1200 krooni , niita tuleb aga kolm korda , kokku kolmel hektaril , ” selgitas Lapp . </s> </p>
+<p> <s> “ Projekti eesmärk on alustada Sosnovski karuputke leviku piiramist kaitsealadel ja väärtuslikel maastikel . </s> <s> Omavalitsustel puuduvad teadmised ja vahendid selle leviku piiramiseks , ” on kirjas Karksi vallavalitsuse esitatud projektis . </s> </p>
+<p> <s> “ Et karuputkest lahti saada , tuleb seda tööd teha viis aastat järjest , ” ütles Hille Lapp . </s> </p>
+<p> <s> Sõmeru valla keskkonna- ja majandusspetsialist Arvo Toming ütles , et Ubja ja Uhtna kandis on Sosnovski karuputk massiliselt levinud . </s> <s> “ Esitame sügisel projekti uuesti . </s> <s> Õieti võiks seda teha mitme valla peale ühiselt , sest karuputk on kõigi mure . ” </s> </p>
+<p> <s> Väike-Maarja valla keskkonnanõuniku Leie Arula sõnul on karuputk ohtralt levinud ka Väike-Maarja kandis . </s> </p>
+<p> <s> “ Püüame seda niita vähemalt nendelt aladelt , kus liiguvad lapsed . </s> <s> Oleme putke hävitanud ka eramaadel , sest teinekord on lihtsam töö ise ära teha , kui maaomanikku otsida , ” lisas Arula . </s> </p>
+<p> <s> <hi rend="rasvane"> Hästi kodunenud </hi> </s> </p>
+<p> <s> Sosnovski karuputk on Eestis kujunenud botaanika mõistes naturaliseerunud liigiks . </s> <s> Need on tulnukad või kultuurtaimed , mis suudavad ka looduslikes või poollooduslikes kooslustes iseseisvalt paljuneda . </s> </p>
+<p> <s> Sosnovski karuputk ( Heracleum sosnowskyi ) toodi Eestisse dekoratiiv- ja söödataimena 1960. aastatel . </s> <s> Esmakordselt on teda märgitud 1957. aastal . </s> </p>
+<p> <s> Ühe legendi järgi on see aga Eestisse toodud juba mõisate ajal. </s> <s> Näiteks olevat Saare mõisnik eelmise sajandi lõpul selle oma naise kiusamiseks aeda toonud . </s> </p>
+<p> <s> Otsesel kokkupuutel tekitab taim inimesele nahapõletust . </s> <s> Raskemal juhul tekivad halvasti paranevad põletushaavad . </s> <s> Mõnele allergilisele inimesele võivad mürgised putked juba eemalt halvasti mõjuda . </s> </p>
+<p> <s> Sosnovski karuputke keemiliseks tõrjeks soovitab taimetoodangu inspektsioon üldhävitava toimega taimekaitsevahendeid Roundup , Roundup Classic , Roundup Bio , Agro-Glyfo , Ouragan , Glyfos , All Out Bio , Rodeo . </s> <s> Kuna taim on mürgine ja selle puudutamine tekitab põletust , saab tõrjuda vaid käsipritsiga . </s> <s> Seda juhul , kui on tegu üksikute taimedega . </s> </p>
+<p> <s> <hi rend="rasvane"> Hirmuäratav tulevik </hi> </s> </p>
+<p> <s> Kui karuputk katab juba hektareid , on see võigas ja ähvardav vaatepilt . </s> <s> Rõuges on rikutud Ööbikuorg , karuputk lokkab Muhus ja Saaremaal , Keila , Rakvere , Viljandi , Tartu , Jõgeva ja teiste linnade ümbruses . </s> </p>
+<p> <s> Paari nädala eest võis õitsvaid karuputki näha koguni Tallinna südalinnas Pärnu maanteel lillepoe ukse juures . </s> </p>
+<p> <s> “ Kirde-Eestis on teda massiliselt , ka Lõuna-Eestis on kolded jõekallastel ja orunõlvadel kiiresti laienenud , ” ütles teadur Toomas Kukk . </s> <s> “ Üks põhjus on see , et paljud heinamaad on niitmata . </s> <s> Karuputke tuleb niita just praegu , õitseajal , et seemned valmis ei saaks . </s> <s> Niitmine on ohtlik , kuid kui seda teha hommikul vara või niiske ilmaga , siis ei tohiks kahjustusi tekkida . </s> <s> Tuleks kasutada kaitseriietust . </s> </p>
+<p> <s> Vaja oleks riiklikku tõrjekava , nagu see 1940. aastal koostati tõlkja ehk rakvere raipe väljatõrjumiseks . ” </s> </p>
+<p> <s> Mitmes Euroopa riigis on Sosnovski karuputk kuulutatud karantiinseks umbrohuks ja selle tõrjet korraldatakse riiklikult . </s> <s> Eestis peab taime levikut tõkestama maaomanik . </s> </p>
+<p> <s> <hi rend="rasvane"> Otsedemokraatia ei aidanud </hi> </s> </p>
+<p> <s> Viljandi linnavalitsuse peaspetsialist Riho Karjus esitas mullu 17. juulil otsedemokraatia portaali TOM kaudu ettepaneku kehtestada maaomanikule kohustus tõrjuda Sosnovski karuputke nii linnas kui maal . </s> </p>
+<p> <s> Idee saadeti 28. augustil peaminister Mart Laari resolutsiooniga keskkonnaminister Heiki Kranichile menetlemiseks . </s> </p>
+<p> <s> 15. novembril sai Karjus vastuse , milles keskkonnaminister teatas , et selle taimeliigi tõrjet ei reguleeri Eestis ükski seadusandlik akt . </s> </p>
+<p> <s> “ Keskkonnaministeerium on teadlik probleemi tõsidusest ja koostöös põllumajandusministeeriumiga püütakse olukorrale lahendust leida , olgu see siis tulevikus kas seadusandluse parandamine , riikliku programmi loomine või muu . ” </s> </p>
+<p> <s> Samal ajal saatis keskkonnaministeerium Sosnovski karuputke tõrje kohta põllumajandusministeeriumile kirja , millele sai vastuse tänavu 8. jaanuaril . </s> </p>
+<p> <s> Põllumajandusministeerium tõdeb , et Sosnovski karuputke ja hiid-karuputke tõrje probleeme pole võimalik lahendada , sest need ei kuulu taimekaitseseaduse reguleerimisalasse . </s> </p>
+<p> <s> Uue seaduse tegemisest pole kummagi ministeeriumi kirjas sõnagi . </s> <s> “ Ametkondlik demagoogia , ” ütleb ettepaneku teinud Riho Karjus vastuste kohta . </s> </p>
+<p> <s> Siiski pole ministeeriumid karuputkele selga pööranud . </s> <s> Juulis teraviljatoetuste taotlejate põlde kontrollivatele taimetoodangu inspektsiooni inspektoritele on tehtud ülesandeks fikseerida kõik Sosnovski karuputke kasvukohad . </s> </p>
+<p> <s> Keskkonnaministeerium on esimese sammuna välja andnud Sosnovski karuputke tutvustava voldiku . </s> <s> Seda saab maakondade keskkonnateenistustest . </s> </p>
+<p> <s> Juhan Aare aga teeb karuputke teemal filmi . </s> <s> 15minutine film on mõeldud nii eesti- kui venekeelsena kasutamiseks koolides ja peab valmima sügisel . </s> </p></div3>
+          <div3 type="artikkel"><head> Õpilaskodu on enamat kui vaid magamiskoht </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 <bibl> <author> Sirje Pärismaa </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Sügisel üle Eesti avatavad õpilaskodud peaksid toimetulekuraskustega peredel laste koolitamise kergemaks tegema </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Enne suvepuhkusele jäämist võttis Riigikogu vastu põhikooli- ja gümnaasiumiseaduse ning alaealise mõjutusvahendite seaduse muutmise seaduse , millega loodi õiguslik alus õpilaskodude asutamiseks ja nende kaudu peredele riigi toetuse eraldamiseks . </hi> </s> <hi rend="rasvane"> <s> Haridusminister Mailis Rand , miks me vajame õpilaskodusid ? </s> </hi> </p>
+<p> <s> Õpilaskodude loomise mõte tekkis eelmise haridusministri ajal. </s> <s> Leiti , et tuleks asutada kaks-kolm suurt riigikooli , kuhu kogutakse eri taustaga probleemsed lapsed . </s> <s> Asja asusid arutama haridus- ja sotsiaalministeeriumi töötajad , sotsiaalpedagoogid , omavalitsuste esindajad . </s> <s> Leiti , et laste tuleviku seisukohalt on vale neid niimoodi kokku koguda ja sildistada . </s> <s> Samuti kaheldi , milline saab olla efekt , kui võtame ühesuguse sotsiaalse taustaga lapsed ja pakume neile omasuguste keskkonda . </s> </p>
+<p> <s> Niisugune suur riigikool võis end õigustada pärast sõda , kui lapsed olid vanemad kaotanud või tuli kaugelt kooli käia . </s> <s> Praegu võib tekkida aga vaestekooli maine . </s> <s> Nii hakatigi arutama varianti , et paari-kolme suure kooli asemel oleksid üle Eesti õpilaskodud , mis asuksid soovitatavalt tavakoolide juures . </s> </p>
+<p> <s> <hi rend="rasvane"> Miks õpilaskodu , aga mitte internaat ? </hi> </s> </p>
+<p> <s> Nimemuutus tuli põlvkondade erineva suhtumise pärast . </s> <s> Vanemate inimeste meelest oli internaat midagi positiivset , nooremad peavad seda pigem karistusasutuseks . </s> </p>
+<p> <s> Järva-Jaanis , Krabis ja Ida-Virus ongi juba püütud selliseid õpilaskodusid luua . </s> <s> Osa on kirikute juures , osa töötab fondide , osa omavalitsuste najal . </s> </p>
+<p> <s> Seaduse järgi võib õpilaskodu luua kooli omanik - kohalik omavalitsus , riik või eraomanik . </s> <s> Õpilaskodu on vaja siis , kui lapsed käivad väga kauge maa tagant kooli . </s> <s> Või siis , kui kool tahab pakkuda huvitegevust ja lastel pole võimalik bussidega edasi-tagasi sõita . </s> <s> Kuid riigi toetus on mõeldud ikkagi vaid sotsiaalsete probleemidega lastele , kelle pered ei tule omadega toime ja vanematel pole võimalik pakkuda kõike , mis laste arenguks vajalik . </s> </p>
+<p> <s> Õpilaskodusse minek ei tähenda , et laps võetakse perelt ära . </s> <s> Kui vanemaõigused on ära võetud , siis on lapse koht juba lastekodus , mitte õpilaskodus . </s> <s> See pole ka turvakodu , kuhu tullakse üheks ööks - õpilaskodu annab lapsele alternatiivse kodu pikemaks ajaks . </s> <s> Seega võib öelda , et õpilaskodu on omamoodi vaheaste . </s> <s> Ehk vähendab see põhikoolist väljalangevust , sest praegu on just sotsiaalsed põhjused peamised , miks kool pooleli jääb . </s> </p>
+<p> <s> <hi rend="rasvane"> Kui palju on lapsi , kes vajaksid õpilaskodu ? </hi> </s> </p>
+<p> <s> Haridusosakondades korraldatud küsitluse andmeil on selliseid lapsi 60-80 igas maakonnas . </s> <s> Seega umbes tuhat kogu Eesti kohta . </s> <s> Sotsiaaltöötajate statistika järgi võib see arv ulatuda aga isegi kolme tuhandeni . </s> </p>
+<p> <s> Tänavu eraldab riik seaduse rakendamiseks viis miljonit , järgmisel aastal peaks see summa kasvama 70 miljonini . </s> <s> Suurtesse linnadesse pole mõtet selliseid koole luua , sest kui tänavalaps läheb õpilaskodusse , peaks ta välja saama oma tavapärasest keskkonnast . </s> </p>
+<p> <s> Võib tekkida mure , et saadame linna pätid ära maale . </s> <s> Nii see siiski pole . </s> <s> Vägivaldsete , teisi terroriseerivate laste koht pole õpilaskodus . </s> <s> Seega ei maksa karta , et rikume head koolid ära . </s> </p>
+<p> <s> Inglismaal said õpilaskodudest lõpuks eliitkoolid , kuhu taheti lapsi panna , sest sinna eraldati palju raha ja seal oli tugevam rõhk huviharidusel . </s> <s> Siiski arvan , et alternatiiviks kodule ei saa õpilaskodu olla . </s> </p>
+<p> <s> Nende loomiseks ei tule mingit kampaaniat . </s> <s> Iga maavanem ei pea leidma kooli , kuhu õpilaskodu teha . </s> <s> See peab sündima ikka vastavalt vajadusele . </s> </p>
+<p> <s> <hi rend="rasvane"> Kas viiest miljonist jagub raha ka nendele koolidele , kus on internaadid , et lapsed saaksid mujalt Eestist süvaõppega klassidesse tulla ? </hi> </s> </p>
+<p> <s> Praegu ei oska veel öelda , kas jagub . </s> <s> Riigi toetus on eeskätt mõeldud ikkagi sotsiaalsete probleemidega lastele . </s> <s> Eks see piir ole muidugi ebamäärane . </s> <s> Kui laps peab kodunt kaugel koolis käima , on see vanematele kulukas . </s> <s> Kõik omavalitsused ei toeta iga bussisõitu . </s> </p>
+<p> <s> Perspektiivis tahaksime laiendada seadust kõigile lastele . </s> <s> Samas on oht , et mõned üsna jõukad vanemad võivad olla altid andma last riigi najale . </s> <s> Me ei tahaks võimaldada , et jõukal perel oleks õigus nõuda samasugust riigi toetust kui vaesel perel . </s> </p>
+<p> <s> <hi rend="rasvane"> Kas õpilaskodude loomisega saadakse hakkama ? </hi> </s> </p>
+<p> <s> Oleme omavalitsustelt saanud elavat vastukaja ja see on tore . </s> <s> Projektid ja kirjad on näidanud , et selle küsimusega on juba varem põhjalikult tegeldud nii fondide najal kui omavalitsuste kulul . </s> </p>
+<p> <s> Aga vaidlusi tuleb kindlasti veel . </s> <s> On kohti , kus öeldi , et võtame maja , paneme lapsed sisse , ja küll nad hakkama saavad . </s> <s> Ei tajuta , et need lapsed vajavad palju rohkemat kui magamiskohta . </s> </p>
+<p> <s> Probleem on seegi , et esialgu on õpilaskodud vaid põhikooli astmes , sest meil on põhikoolikohustus . </s> <s> Gümnaasiumidele seadus ei laiene . </s> <s> Aga kas õpilaskodud peaksid olema alates esimesest klassist või hiljem ? </s> <s> Osa sotsiaaltöötajaid arvab , et võibolla on esimene klass liiga vara . </s> <s> Mina arvan , et liiga hilja . </s> <s> Kuueaastane on teinekord juba väga tugevad traumad üle elanud . </s> </p>
+<p> <s> Praegune tegelikkus on väga kurb . </s> <s> Kümne aastaga on riik teinud tohutu hüppe , kasvanud on investeeringud , areneb turism . </s> <s> Kuid hüpe on toimunud ka sotsiaalse kriisi poole . </s> <s> Me pole suutnud luua tasakaalu . </s> </p>
+<p> <s> <hi rend="rasvane"> Kas koolid on valmis selliste õpilaste vastuvõtuks ? </hi> </s> </p>
+<p> <s> Küsisime koolidelt , kas nad on valmis ega karda , et neid ära solgitakse , nagu mõned on väljendunud . </s> <s> Vastati , et oleneb sellest , mis kontingent tuleb . </s> <s> Kui tulevad sellised , kes panevad kaaslasel juuksed põlema , pole nad mõistagi oodatud . </s> <s> Kui aga tulevad lapsed , keda saab aidata , on nad teretulnud . </s> <s> See on imetore , et Eestimaal on veel armastust järele jäänud . </s> </p></div3>
+          <div3 type="artikkel"><head> Poliitik päästis kurepojad tulest </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 <bibl> <author> Viio Aitsam </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Tulekahju üle elanud linnupojad kosuvad Nigulas loomade turvakodus </hi> </s> </p>
+<p> <s> Riigikogulase Ülo Tootseni Rõuge kodu juures elektriposti otsas asuv kahe pojaga kurepesa läks tormi tõttu tekkinud lühisest põlema . </s> <s> Tootseni sõnul õnnestus kurepojad päästa tänu juhusele . </s> </p>
+<p> <s> <hi rend="rasvane"> Tuletõrjuja oli juhuslikult lähedal </hi> </s> </p>
+<p> <s> Kui kurepesa , mida Tootseni pere kevadest saadik jälginud oli , tervenisti põlema lahvatas , üritas Ülo Tootsen kontakti saada päästeteenistusega . </s> </p>
+<p> <s> “ Suure tsentraliseerimise tulemusena on nende keskus nüüd Elvas , “ rääkis Tootsen </s> </p>
+<p> <s> “ Läks hulk aega , enne kui suutsin neile selgeks teha , kus Rõuge üldse asub , rääkimata meie täpsemast asupaigast . ” </s> </p>
+<p> <s> Juhuse tahtel sõitis aga just sel hetkel mööda kohalik vabatahtlik tuletõrjuja Elev Luik , kes kohe poolteise kilomeetri kaugusel asuvasse garaaži kihutas ja vana tuletõrjeautoga naasis . </s> </p>
+<p> <s> “ Ma seletasin alles päästeteenistuse dispetšerile Võrumaa geograafiat , kui Luik oli tagasi ja kustutas pesa , ” rääkis Tootsen . </s> </p>
+<p> <s> Kurepojad kukkusid paksu suitsu ja auru seest tiibade laperdades alla ja esialgu paistis perele , et linnud on surma saanud . </s> </p>
+<p> <s> <hi rend="rasvane"> Loomaarst tegi lindudele süsti </hi> </s> </p>
+<p> <s> Teine juhus oli see , et peres oli käepärast Võru loomakliiniku valvetelefoni number , kuhu nad nõu saamiseks helistasid . </s> <s> Loomaarst Heiki Audo sõitis ise kohale . </s> </p>
+<p> <s> Tootsenid olid hädas sellega , et nad ei osanud õnneks põlemisjälgedeta linnupoegi ise toibutada . </s> <s> Lootus aga püsis , kuna vee piserdamise peale liigutas üks poegadest silmi . </s> </p>
+<p> <s> Heiki Audo tegi šokis lindudele süsti ja õpetas , kuidas neile glükoosivett ja kalatükke sööta . </s> <s> “ Meil õnnestuski nad panna paari kalatükikest alla neelama , ” rääkis Tootsen . </s> </p>
+<p> <s> Nad ei kujutanud siiski ette , kuidas võiks ülesturgutatud kurepoegi sauna juurde sätitud heinapesas üles kasvatada . </s> </p>
+<p> <s> Keskkonnainspektsiooni Võru osakonna vaneminspektor Udo Lyra aitas ühendust võtta Nigula loomade turvakodu töötajatega , et nõu saada . </s> <s> Turvakodu juhataja Kaja Kübar oli aga nõus kurepojad hoopis Nigulasse võtma . </s> <s> Sinna Udo Lyra nad seepeale sõidutaski . </s> </p>
+<p> <s> “ Viimastel andmetel kosuvad kurepojad hästi , aga vanalindude elu on kurvem . </s> <s> Nad on proovinud mitu korda uut pesa ehitada , kuid sel pole õiget hoogu olnud , ” ütles Tootsen . </s> </p></div3>
+          <div3 type="artikkel"><head> Hiiu Kalur taastas Saaremaa forellikasvatuse </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 <bibl> <author> Merike Pitk </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Eestis tegeldakse avamere kalakasvatusega veel ainult Harjumaal Salmistus </hi> </s> </p>
+<p> <s> Hiiu Kalurile kuuluv AS Veere Sadam käivitas Tagalahes avamere- vikerforellikasvatuse - pärast Saare Kalakasvatuse pankrotistumist üritatakse saarel kaubakalakasvatust taastada . </s> </p>
+<p> <s> “ Praegu on Veere sadamast 900 m kaugusele Tagalahte pandud üks sump . </s> <s> Kui asi õnnestub , tahetakse tuleval kevadel viia merre kolm sumpa , ” ütles Veere Sadama juhataja Ilmar Piilmann . </s> </p>
+<p> <s> Soome kalad Norra sumbas </s> </p>
+<p> <s> Sump osteti Norrast , 400grammised kaheaastased noorkalad , kokku 7 tonni , Soomest . </s> <s> Sumbas peaks olema 18 000-19 000 noorkala . </s> <s> Novembri lõpuks loodetakse saada 40 tonni 2-2,5 kiloseid vikerforelle , ehkki kavandatud 1. mai asemel said kalad pangalaenu hilinemise tõttu sumpa alles 18. juunil . </s> </p>
+<p> <s> “ Poolteist kuud kasvuaega on läinud aia taha , ” märkis Piilmann . </s> </p>
+<p> <s> Veetemperatuur meres on pikalt optimaalne olnud , 16-17 kraadi . </s> <s> Ka vee hapnikusisaldus on haruldaselt hea . </s> </p>
+<p> <s> Hiiu Kalur võttis Piilmanni sõnul forellikasvatuse ette selleks , et omakasvatatud kalast toodangut teha . </s> <s> Seda veel ei teata , kas forelli hakkavad töötlema Hiiu Kaluri tsehhid või lastakse seda teenustööna teha mõnel teisel firmal . </s> <s> Forellikasvatuse projekti maksumus on üle kahe miljoni krooni , ainuüksi sump maksis 800 000 krooni . </s> </p>
+<p> <s> Saaremaal soovib hakata avamere-forellikasvatusega tegelema ka kalapüügifirma OÜ Keskpunkt . </s> <s> Vee erikasutuse luba saadi juba mullu suvel . </s> </p>
+<p> <s> “ Kui luba taotlesime , oli vikerforelli hind hulgiostjaile müües 50 krooni ümber kilo , praeguseks on see langenud 30-35 kroonini , ” põhjendab OÜ Keskpunkt juhataja Andro Ots viivitamist . </s> </p>
+<p> <s> Kui hind järgmiseks kevadeks tõuseb ja Hiiu Kaluri sump ka sügistormidele vastu peab , lubab Ots järgmisel kevadel oma sumbagi Küdema lahte viia . </s> </p>
+<p> <s> Põllumajandusministeeriumi kalamajandusosakonna peaspetsialisti Iris Haiba sõnul peaks Eestis praegu olema 13 vikerforellikasvandust , neist avamere omi ainult kaks . </s> </p>
+<p> <s> “ Eesti rannikumeri on madal ja vesi liiga soe , ” põhjendab Haiba vähest huvi asja vastu . </s> </p>
+<p> <s> Merepõhjast peab sumba põhjani jääma vähemalt 4 m. </s> <s> AS Veere Sadama sumba sügavus on 11 m. </s> <s> Kuna meri on 17 m sügav , jääb sumba ja merepõhja vahele 7 m vett . </s> </p>
+<p> <s> Toodang Eesti turule </s> </p>
+<p> <s> Alkoholitootja AS Remedia tütarfirma AS Poseidon Foods kasvatab Harjumaal Salmistus avamerel kolmes sumbas vikerforelli kolmandat hooaega . </s> <s> Siiani on ostetud sisse 40grammiseid kalu ja kasvatatud neid aasta otsa Lõuna-Eestis magedas vees . </s> <s> Kuid ettekasvatamisest on plaanis loobuda . </s> </p>
+<p> <s> “ Meie mahud pole nii suured , et tasuks osta endale korralikku kalatranspordivahendit , selle rentimine läheb aga põhjendamatult kalliks , ” ütles Poseidon Foodsi kalakasvatusprojekti juht Tiit Siiboja . </s> </p>
+<p> <s> Juba tänavu katsetatakse lasta Salmistus merre Soomest toodud 160grammised kalad . </s> <s> Meres kasvatatud vikerforell fileeritakse , soolatakse ja suitsutatakse oma kalatööstuses Tartu külje all . </s> <s> Toodang jääb põhiliselt Eestisse . </s> </p>
+<p> <s> “ Hakkasime vikerforelli kasvatama , et saada kvaliteetset toorainet , “ ütleb Siiboja . </s> </p></div3>
+          <div3 type="artikkel"><head> Tuul lammutas hoone tellisteks </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 <bibl> <author> Viio Aitsam </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Kümme minutit marutuult tekitas talule 100 000kroonise kahju </hi> </s> </p>
+<p> <s> Nädal tagasi lükkas tormituul Raplamaal Loodna valla Rehe talus tervenisti pikali masinate hoidmise hoone tellisseinad . </s> <s> Peaaegu terveks jäänud eterniitkatus maandus koos talade ja sarikatega masinatele , osaliselt jäi aga pidama mulluste heinarullide hunnikule . </s> </p>
+<p> <s> Peremees Arvi Kondi arvates on 430m2 kokkuvarisenud hoone kahjustused 100 000 krooni . </s> <s> “ Masinate taastamise kulusid ei oska veel hinnata , “ ütles Kont . </s> </p>
+<p> <s> Kõige rohkem sai kannatada lauda- ja põllutööde põhimasin , tõstuki ja höövliga varustatud T 16 , mille esisild on purunenud ja kabiin pealekukkunud laetala all lömastunud . </s> <s> Veoauto ja väikese Saksa traktori vigastused on väiksemad . </s> </p>
+<p> <s> “ Ma kartsin kõige muu pärast , aga selle hoone lagunemist ei osanud karta.See oli tegelikult üks päris korralikult tehtud kolhoosiaegne ehitis , ” ütles Arvi Kont esmaspäeval , olles just viimase masina rusude alt välja päästnud . </s> </p>
+<p> <s> <hi rend="rasvane"> Uksed olid kinni </hi> </s> </p>
+<p> <s> Muiates kirjeldas Kont pilti , mis talle eelmise neljapäeva õhtul turbarabatöölt koju tulles avanes : hoone uksed veel ilusasti kinni , kuigi koos seintega vastu maad surutud . </s> <s> Ühes tükis maha langenud seinad olid aga tormijõu käes enamasti üksikuteks tellisteks pudenenud . </s> </p>
+<p> <s> “ Pere oli tormi ajal kodus küll , aga nad võitlesid laudaustega , et lehmad lendu ei läheks . </s> <s> Natuke eemal põllul asuva masinahoone kokkuvajumist nad ei märganud ja selles mürinas polnud võimalik ka midagi kuulda , ” rääkis Arvi Kont . </s> </p>
+<p> <s> Tema kinnitusel polnud kümmekond minutit väldanud maru keeristorm , vaid julm otserünnak . </s> </p>
+<p> <s> <hi rend="rasvane"> Õnn , et ise terved </hi> </s> </p>
+<p> <s> “ Jumala õnn , et kõik on terved ja endal katus pea kohal , ” ütles peremees . </s> <s> “ Üks kuur nüüd ka elu ei määra . ” </s> </p>
+<p> <s> Ta pidas siiski üsna suureks kahjuks , et masinatel nüüd enam üldse katusealust pole . </s> <s> Midagi kohe ette võtta ei saa . </s> <s> “ Kõigepealt tuleb heinatöö , siis viljavõtt ja eks pärast seda näe , mida teha . </s> <s> Ehitusmehi pole mul võimalik palgata . ” </s> </p>
+<p> <s> Õnneks sai ta just selleks kevadeks töökorda tõstukiga Belarussi , millega nüüd talus hädapärast tööd saab teha . </s> </p>
+<p> <s> Torm on selles talus kahju teinud ka ükskord varem : Eesti aja lõpul tõstis maru elumaja katuse pealt . </s> <s> Seekord jõudis tuul veidi küll ka ühte kuurikatust koorida . </s> </p></div3>
+          <div3 type="artikkel"><head> Uppunuid loetakse sügisel </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Valvatud randades inimesed enamasti ei upu , küll juhtub seda vetelpäästetsoonist väljaspool </hi> </s> </p>
+<p> <s> Suvel on nii hea ujuda ! </s> <s> Kahjuks on ujumine üsna ohtlik ajaviide nii lastele kui täiskasvanutele . </s> </p>
+<p> <s> Viimastel aastatel ühiskonnas toimunud uutmisprotsesside käigus on muutunud ka vetelpäästesüsteem . </s> <s> Kui palju on Eestis tänavu inimesi uppunud , jääb selles loos küll saladuseks . </s> </p>
+<p> <s> Eesti vetelpääste A ja O on Helgi Lutvei , kes teab vetelpääste ajalugu 1930. aastatest peale . </s> <s> Vetelpäästeühingu spetsialisti Olav Lukini sõnul ei eraldatud Lutveile tänavu statistika tegemiseks raha . </s> <s> Aga tragi naine teeb ikka oma tööd ning on ainus inimene Eestis , kes uppunute kohta arvet peab . </s> <s> Loo kirjutamise ajal oli ta puhkusel . </s> <s> Nii ei tea keegi täpseid andmeid , isegi mitte Eesti Pääseteenistus ega politsei . </s> </p>
+<p> <s> <hi rend="rasvane"> Iga omanik rannavalvet pidada ei saa </hi> </s> </p>
+<p> <s> Vetelpäästesüsteemi on oldud kiire likvideerima , kuid uut samal tasemel pole ette näidata . </s> <s> Praegu tegutseb enamikus valvatavates supluspaikades vetelpääste asemel turvafirma Falck Eesti AS . </s> <s> Mullu 1. aprillil jõustus seadus , mille kohaselt iga vald vastutab oma uppunute eest ise . </s> <s> Osa valdu on rikkad ja saavad endale rannavalvet lubada , teised mitte . </s> </p>
+<p> <s> Tervisekaitse inspektsiooni peaspetsialist Niina Sossulina räägib eelmise aasta uue määrusega kehtima hakanud põhimõttest , mis lubab ranna haldajatel omatahtsi talitada . </s> </p>
+<p> <s> “ Supluspaigad on jaotatud kahte kategooriasse . </s> <s> Supluskoht on rannariba , kus tavaliselt käib vähemalt sada inimest päevas , ” selgitab dr Sossulina . </s> <s> “ Suplusrannad seevastu on need , kus rannal on omanik . </s> <s> Need on suured ja populaarsed paigad . </s> <s> Rannaks nimetamine toob kaasa avaliku ranna kohustused . </s> <s> Paljud loobuvad , sest sisustamine maksab palju . ” </s> </p>
+<p> <s> Kaupo Kaasik ( 31 ) on olnud pikka aega Mustvee ranna vetelpääste vaimne isa . </s> <s> Aastal 1997 hakkas ta metsamehetöö kõrvalt vabatahtlikult Mustvee rannas valvet pidama . </s> <s> Südames lootus , et ehk toovad uued tuuled selle töö eest ka mingi raha . </s> </p>
+<p> <s> “ Nüüd on aga kõik soikus , sest linn meid ei aktsepteeri . </s> <s> Nad lihtsalt pole huvitatud aktiivsetest eesti noortest , ” arvab Kaasik . </s> <s> “ Alguses käisime ja küsisime . </s> <s> Nemad vastu , et kui tahad , siis valva , aga raha anda ei saa . </s> <s> Eelmisel aastal me veel käisime valves , sel aastal aga lammutas linn meie valveputkagi ära . ” </s> </p>
+<p> <s> Praegu on viis energilist poissi ümber orienteerunud tulusamale lastelaagrite valvamisele . </s> </p>
+<p> <s> Mustvee rannas peaks aga seni uppujaid päästma tuletõrje . </s> <s> “ Kui nad ka viie minuti jooksul sinna jõuavad , tulevad nad siiski vaid laiba järele , ” on Kaupo Kaasik kindel . </s> </p>
+<p> <s> Mustvee rand on muidu õnnelik rand , sest seal läheb aeglaselt sügavaks . </s> <s> Kaupo teada pole seal ujudes veel keegi uppunud . </s> </p>
+<p> <s> Miks Kaupo oma tööd teeb ? </s> </p>
+<p> <s> “ Sest mulle lihtsalt meeldib ! </s> <s> Entusiasmist . </s> <s> Eks meid motiveeris ka lootus , et saame toetajaid . ” </s> </p>
+<p> <s> Avalikus rannas on vetelpääste hädavajalik . </s> <s> Mustvee linnapea kohusetäitja Margus Kütt on sama meelt . </s> <s> Vetelpääste puudumist nende avalikus rannas põhjendab ta rahanappusega . </s> <s> “ Me oleme teinud palliplatsi ja riietuskabiinid . </s> <s> Hetkel käib sadamaehitus ja sellepärast võtsime ka maja maha . </s> <s> Kui sadam valmis , ehitame uue , ” lubab ta . </s> </p>
+<p> <s> Praegu aga on nii , et vetelpäästjad süüdistavad valda . </s> <s> Vallal jälle on teisigi muresid . </s> <s> Teeks küll , aga mujale on raha rohkem vaja . </s> </p>
+<p> <s> <hi rend="rasvane"> Pühajärv Peipsist ohtlikum </hi> </s> </p>
+<p> <s> Mis aga siis saab , kui veekogu looduslikud tingimused pole nii head kui Peipsi rannas ? </s> <s> Näiteks Pühajärve ohtusid teab suurepäraselt 40aastase staažiga endine vetelpäästejaama juht Vello Meema ( 63 ) . </s> <s> Selle mehe tööd on medalitega hinnatud nii Nõukogude ajal kui ka kaks aastat tagasi president Meri poolt . </s> </p>
+<p> <s> “ Pühajärv on selline karakteriga järv , sopiline ning läheb kähku sügavaks . </s> <s> Lapsed hüppavad silla pealt vette ega oska aimatagi , milline põhi on , ” kirjeldab Meema Pühajärve . </s> </p>
+<p> <s> Aastatega on ta veest välja toonud 60-70 uppumisohus inimest . </s> <s> Meema silme all pole keegi küll surnud , kuid ümberkaudsetest järvedest uppunute otsimine ning väljatoomine kuulus ka tema töökohustuste hulka . </s> </p>
+<p> <s> “ Kõige raskem on vetelpäästjana olnud laste väljatoomine , kui veel vanemad ka kõrval on . </s> <s> Emotsioonid on väga tugevad . </s> <s> Sellised juhtumid võtavad enese elustki mitu aastat maha , ” ohkab Meema . </s> </p>
+<p> <s> Mees toob oma tööst näiteks lihtsa , kuid praktikas sagedase loo . </s> <s> Kord oma kabineti aknast välja vaadates nägi ta veepeeglil kerget virvendust . </s> <s> “ Asi tundus kahtlane , kuigi mehed olid väljas . </s> <s> Nad lihtsalt polnud märganud , kuidas 29aastasel ujuval mehel oli jalg krampi läinud ja ta vee alla vajus . ” </s> <s> Temal õnnestus päästa seegi inimene . </s> </p>
+<p> <s> Praegune rannavalve teeb Vello Meema meelest oma tööd hästi ja innukalt , kuid poiste varustus on kehv . </s> <s> “ Neil on kahekesi väga raske tsooni jälgida , kui rand on rahvast täis . </s> <s> Samuti pole võimalik vaadelda vee peal toimuvat . </s> <s> Kuuma päikesega väsivad silmad ära juba füüsiliselt , ” teab ta omast käest . </s> </p>
+<p> <s> <hi rend="rasvane"> Vetelpääste on elustiil </hi> </s> </p>
+<p> <s> Seda arvab 40 aastat vetelpäästega seotud ja Eesti Vetelpääste Ühingu spetsialistina töötav Olav Lukin ( 58 ) . </s> <s> Tema elutöö algas ujumisharrastusest . </s> <s> Vetelpäästja ametit hakkas ta pidama kooli ajal Tartus kohalikus vetelpäästejaamas . </s> <s> 1971 sai temast Tallinnas vetelpääste ühingu spetsialist . </s> </p>
+<p> <s> Tegelikult on Lukinil hoopis TPIist saadud ehitajadiplom ja temast olekski tulnud insener , kuid loodus tõmbas rohkem . </s> </p>
+<p> <s> “ Vetelpäästja töö pole ainult inimeste veest väljatoomine või purjus inimeste eemalepeletamine . </s> <s> Sama suur roll oli ja peaks olema ennetustööl , ” kinnitab Olav Lukin . </s> <s> Vanasti koosneski vetelpäästejaam kolme sorti töötajatest : tuukrid , vetelpäästjad ja madrused . </s> <s> Ja praeguse kolme-nelja inimese asemel oli tööl ligi kaheteistkümnene rühm . </s> </p>
+<p> <s> “ Meil olid ka korralikud kiired kaatrid ja raadiojaamad , ” kirjeldab endisi aegu mees , keda tänapäeva varustus imestama paneb . </s> <s> “ Ei mahu nad hästi isegi paati , kuidas sinna veel teine inimene sisse saab ! ? </s> <s> Uppumine käib ju kiiresti , kahe-kolme minutiga . ” </s> </p>
+<p> <s> Tema arvates peaks vetelpääste tegev olema aasta läbi . </s> <s> “ Praegu on valveperiood kuni neli kuud . </s> <s> Mis see inimene ülejäänud osa aastast teeb ? </s> <s> Valvab poodi ? </s> <s> Vetelpäästja töö aga nõuab pidevat erialast treeningut . ” </s> </p>
+<p> <s> Ka ujumisoskus võiks Olav Lukini meelest kõvasti parem olla . </s> <s> “ On suur vahe , kas ujud basseinis 15 meetrit või suurel veel 2-3 või isegi 10 kilomeetrit . </s> <s> Vetelpäästja töö nõuab head kehalist ja vaimset vormi , ” räägib vetelpäästjate mitmevõistlusel viis korda Eesti meistriks tulnud mees . </s> </p>
+<p> <s> Eesti vetelpääste loodi 1956. a , 1971 aga asutati Eesti Vetelpääste Ühing . </s> <s> Sinna alla käisid statistika , ennetustöö , ujumiskursused , paadisõidu õpetus , loengud koolis . </s> </p>
+<p> <s> “ Praegu olukord tasapisi stabiliseerub , ” rõõmustab Lukin . </s> <s> Suur Tartu linngi , mis oli aastaid ilma oma ujulata , sai mullu sügisel veekeskuse . </s> <s> Aura veekeskuse ujula juhi Gunnar Tõnningu andmetel on sellest ajast kuni tänaseni saanud ujumisõpetust kaks tuhat last . </s> <s> Õppusi on tellinud nii omavalitsused kui ka eraldi koolid ja klassid . </s> <s> Õpetajad on oma ujula instruktorid , kes õpivad kehakultuuri teaduskonnas ujumiseriala või on juba lõpetanud . </s> </p>
+<p> <s> Tegu on väga tõsise murega , sest Eesti on oma uppunutega kindlasti üks Euroopa esiriike . </s> <s> “ Rohkem kui meil upub ainult Venemaal . </s> <s> Pilt on väga sünge , ” arutleb Lukin . </s> <s> “ Kui Rootsis on 100 000 inimese kohta 1-2 uppunut , siis meil 12. ” </s> </p>
+<p> <s> Selle kurva numbri taga on ka inimeste oma rumalus ning kehv ujumisoskus . </s> <s> “ Millegipärast meie inimestega juhtub kõik nii lihtsalt , ” nendib Lukin . </s> </p>
+<p> <s> <hi rend="rasvane"> Uputakse vaikselt ja märkamatult </hi> </s> </p>
+<p> <s> Olav Lukin toob elulisi näiteid . </s> <s> “ Oleme hämaras rannas ja näeme riideid kaldal . </s> <s> Tekib paanika , otsime inimest , aga tema ilmub järgmisel päeval elusalt välja . </s> <s> Oli riieteta koju läinud ! ” räägib ta ja jätkab : “ Uppumiselgi on oma spetsiifika . </s> <s> Inimesed ei upu just sageli karjudes . </s> <s> Ikka rohkem vaikselt ja märkamatult . ” </s> </p>
+<p> <s> Sageli juhtub , et šokis olles ujumisoskus kaob . </s> <s> Ja teised imestavad pärast : kuidas ta küll ära uppus , ta oli ju nii hea ujuja . </s> </p>
+<p> <s> Kes ei teaks Eestis reeglit , et uppuja päästmine on uppuja enda asi . </s> <s> Aga ei tohiks olla . </s> <s> Lukini arvates on meie inimesed liiga häbelikud ja loodavad sageli omal jõul välja rabelda . </s> </p>
+<p> <s> “ Varem oli vetelpääste igal pool - Kloogal ja Väänas ja kus kõik veel . </s> <s> Nüüd mitte . </s> <s> Aga ma usun , et tulevikus läheb asi paremaks ja raha jagub rohkem , ” on Lukin lootusrikas . </s> </p>
+<p> <s> <hi rend="rasvane"> Moonika Siimets </hi> <hi rend="rasvane"> OLAV LUKIN : </hi> </s> </p>
+<p> <s> “ Rohkem kui meil upub ainult Venemaal . </s> <s> Kui Rootsis on 100 000 inimese kohta 1-2 uppunut , siis meil 12. ” </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Uudised </head>
+          <div3 type="artikkel"><head> Nädala Uba </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Ärevad minutid Soome lahel </hi> </s> </p>
+<p> <s> ASi Lindaliinid katamaraan Linda Express hakkas reede pärastlõunal Soome lahel lekkima , laeva mootoriruumi tungis vesi ning laev kaldus kreeni . </s> <s> Kõik 232 reisijat pääsesid vigastusteta . </s> <s> Siiski pidid nad päästevesti selga panema ja kindlasti elas suurem osa neist üle kõva ehmatuse . </s> </p>
+<p> <s> Helsingist väljunud Eesti suurim kiirlaev oli jõudnud õnnetuse hetkeks teel olla pool tundi . </s> <s> Tallinna sadamasse jõudis laev tunniajase hilinemisega . </s> </p>
+<p> <s> Lindaliini juht Enn Rohula pidas juhtumi esialgseks põhjuseks mootori võlli tihendi purunemist . </s> <s> Pärast õnnetust võttis veeteede amet Linda Expressilt reisijateveo tunnistuse ja sõiduloa . </s> </p>
+<p> <s> <hi rend="rasvane"> Veeteede ameti peadirektori asetäitja Arvo Veskimetsa kommentaar : </hi> Katamaraani liinile naasmist ei takista remondiks kuluv aeg , vaid eelkõige litsentsi tagasisaamine . </s> <s> Iga sellise õnnetuse järel võetakse laevalt tunnistused , mis tal sõitu võimaldavad . </s> <s> Seejärel alustatakse uurimist . </s> </p>
+<p> <s> <hi rend="rasvane"> Linnavalitsuse saal öömajaks </hi> </s> </p>
+<p> <s> Kümned kurikuulsatest ühiselamutest väljatõstmise hirmus elavad tallinlased on veetnud mitu ööd Tallinna linnavalitsuse saalis madratsitel . </s> </p>
+<p> <s> Umbes 60 väljatõstmise vastu protestivat majaelanikku , sealhulgas lapsed , kogunesid ööl vastu 9. juulit linnavalitsuse teenindussaali . </s> <s> Linnavalitsus tõi neile madratseid , tekke , patju ja joogivett . </s> </p>
+<p> <s> Teiseks ööks jäi linnavalitsuse majja 30 inimest . </s> </p>
+<p> <s> Abilinnapea Anders Tsahkna lubas ühiselamute elanikele , et linn püüab ühiselamuid munitsipaalomandisse tagasi saada , kuid ei söandanud seda siiski garanteerida . </s> </p>
+<p> <s> Kriisi tekkimise põhjuseks peavad nii abilinnapea kui üürnikud riigi otsust kuus ühiselamut maha müüa . </s> </p>
+<p> <s> <hi rend="rasvane"> Maalehe kommentaar : </hi> Kodanikualgatus on igati teretulnud . </s> <s> Oma õiguste eest tuleb seista . </s> <s> Linnavalitsus võiks aga süüdlaste otsimise kõrval rohkem sellele mõelda , kuhu hätta sattunud inimesed elama panna . </s> </p>
+<p> <s> <hi rend="rasvane"> Lahke valitsus </hi> </s> </p>
+<p> <s> Sellel nädalal eraldas vabariigi valitsus põllumajandusministeeriumile 90 000 kr konkursi “ Parim Eesti talu 2002 ” auhinnafondi toetamiseks , sotsiaalministeeriumile 200 000 kr aidsivastase noortele suunatud selgituskampaania “ Oska ja julge ennast kaitsta ” korraldamiseks ning presidendi kantseleile 1,2 miljonit krooni välisvisiitide ja kodukaunistuse konkursi tarvis . </s> </p>
+<p> <s> Aidsi-kampaania käigus valmistatakse ette ja trükitakse infomaterjale , viiakse läbi seminare ja üritatakse probleemi teadvustada kõigil suvistel noorteüritustel . </s> </p>
+<p> <s> Põllumajandusministeerium jagab raha parima tootmistalu , parima alternatiivse ettevõtlusega tegeleva talu ja kõige paremini hooldatud talumetsa konkursi võitja vahel . </s> <s> Igaüks saab 30 000 krooni . </s> </p>
+<p> <s> Konkursil hinnatakse talude tootmistaset , efektiivsust ja uuendusmeelsust , samuti keskkonnahoidu , maastikukujundust , heakorda ja haljastust . </s> <s> Konkurss toimub alates aastast 1993. </s> </p>
+<p> <s> <hi rend="rasvane"> Maalehe kommentaar : </hi> Rõõm kuulda , et kodud ja maaelu on au sees ning et ka valitsus noorte tervise pärast südant valutab . </s> </p>
+<p> <s> <hi rend="rasvane"> Sekeldused Eesti pättidega </hi> </s> </p>
+<p> <s> Reedel jooksis Stockholmi Eesti saatkonda mees , kes põgenes kahe valgevenelase eest . </s> <s> Ajakirjanduse andmeil on mees allilmategelane Janek Klais , kes poolteist aastat tagasi Soome vanglast vabanenuna võttis endale uueks nimeks Martin Rand . </s> </p>
+<p> <s> Rootsi politsei kahtlustab , et nii eestlane kui valgevenelased kuuluvad kuritegelikku gruppi , kes valmistus tapma üht Tšernogooria ärimeest . </s> <s> Kuritegu plaaninud meeste vahel tekkis aga tüli , mille käigus üks valgevenelane tapeti , tükeldati ja tükid valati betooniseguga üle . </s> </p>
+<p> <s> Rootsi politsei on teinud kindlaks pool tuhat baltlast , kes on kuritegelikel eesmärkidel Rootsi läinud . </s> <s> Pooled neist on Leedu päritolu , 150 on aga pärit Eestist . </s> <s> Peamiselt varastavad nad autodest , villadest ja suvilatest kodumaal hästi kaubaks minevaid tarbeesemeid . </s> <s> Paljud on seotud pangaröövidega . </s> </p>
+<p> <s> Mullu suvel sõitis üks eestlane laevaga Stockholmi , tappis sadama lähedal haamrilöökidega 79aastase mehe ja ootas kohapeal politseid , et siis Rootsi vanglasse pääseda . </s> </p>
+<p> <s> <hi rend="rasvane"> Maalehe kommentaar : </hi> Mõne rahvuskaaslase tegude pärast tahaks küll häbi pärast maa alla vajuda . </s> </p>
+<p> <s> <hi rend="rasvane"> Rahvaliit alustab allkirjakampaaniat </hi> </s> </p>
+<p> <s> Rahvaliidu juhatus otsustas algatada üleriigilise allkirjade kogumise , et keelata põllu- ja metsamaa müük välismaalastele . </s> </p>
+<p> <s> Rahvaliit peab vajalikuks nõuda valitsuselt välismaalastele maa müümise piiramist vähemalt aastani 2012. </s> <s> Partei peasekretär Lea Kiivit ütles , et tänu Rahvaliidu sekkumisele peatati ka elektrijaamade erastamise protsess , mille vastu koguti 163 000 allkirja . </s> </p>
+<p> <s> Allkirjade kogumine algab tõenäoliselt augustis ja kestab paar kuud . </s> </p>
+<p> <s> <hi rend="rasvane"> Eestimaa Rahvaliidu esimehe Villu Reiljani kommentaar : </hi> Kui välismaalastele maa müügi keelustamine on rahva huvides , tuleb euroliiduga läbirääkimistel vastav peatükk uuesti avada . </s> </p>
+<p> <s> Praegu on viimane aeg asi käsile võtta . </s> <s> Kes majanduselust midagigi taipab , on välismaalastele maa müümise vastu . </s> <s> Kahjuks ei saa suur osa poliitikutest aru , mis tagajärjed maa äramüümisel on . </s> </p></div3>
+          <div3 type="artikkel"><head> Sillapää suur käsitööpäev </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 </hi> </s> </p>
+<p> <s> 27. juulil korraldab Sillapää küla Räpina lähedal Kopli-Tamme talus üle-eestilise käsitööpäeva . </s> <s> Külarahva kõrval panevad ettevõtmisele õla alla Kagu-Eesti Bios ja Räpina Vabahariduse Ühendus . </s> </p>
+<p> <s> “ Eelmisel suvel oli talus Kagu-Eesti mahetootjate kokkusaamine , ” rääkis Kopli-Tamme talu peremees Kalju Johanson . </s> <s> Nüüdki ootab ta lisaks käsitöötegijatele tallu mahetootjaid oma toodanguga , samuti tarbijaid . </s> </p>
+<p> <s> 27. juulil tehakse tema talutubades , õuel ja põllul vanu talutöid : õpitakse käsivikatiga niitma ja hobust rakendama , küntakse kaeramootoriga , aetakse käsitsi piimast koort ja võid , valmistatakse vanaaegseid toite , kraasitakse villa ja vannutatakse vilti . </s> <s> Üles seatud on kangasteljed . </s> </p>
+<p> <s> Päeva peakorraldaja , Sillapää külavanema Mati Kirotari kinnitusel töötab sel päeval talus seitse-kaheksa käsitöötuba Räpina Rahvakooli , Lüllemäe Rahvaõpistu ja Võru Avatud Hariduse käsitööõpetajate juhendamisel . </s> <s> Lapsed proovivad jõudu lille- ja taimeseadevõistlusel . </s> </p>
+<p> <s> Meelelahutust pakuvad pillimehed ja sõnakunstnikud . </s> <s> Külarahvas kavatseb üles astuda käsitööpäeva puhuks õpitud näidendiga . </s> </p></div3>
+          <div3 type="artikkel"><head> Ühinemispreemiat loodetust rohkem </head>
+<p> <s> <hi rend="kaldkiri"> 11.07.2002 </hi> </s> </p>
+<p> <s> Räpina linn ja vald saavad valitsuselt ühinemistoetust 2,22 miljonit krooni , tänavu jõuab nendeni sellest 600 000 krooni . </s> </p>
+<p> <s> “ Seda on isegi natuke enam , kui lootsime , ” rõõmustas Räpina linnavolikogu esimees Oskar Tuvik uudist kuuldes . </s> </p>
+<p> <s> Linn oli lootnud kaht miljonit . </s> <s> “ Küllap saime rohkem seepärast , et ühinevaid valdu oli Eestis arvatust vähem ja meile tehti meelehead . ” </s> </p>
+<p> <s> Tuviku sõnul läheb osa rahast ühinemiskuludeks , samuti töötajatele makstavateks hüvitisteks . </s> <s> Osa kulub linnavalitsuse maja remondiks ja ruumide juurdeehitamiseks . </s> <s> Kõik ühinenud omavalitsuse töötajad ei mahuks sinna muidu ära . </s> </p>
+<p> <s> “ Kõige suurema summa tarvitame valla teede korrastamiseks . </s> <s> Et üle poole rahast peab vallale minema , selles leppisime juba enne ühinemisotsust kokku , ” märgib linnavolikogu esimees . </s> <s> Summade täpsem jaotus selgub hiljem . </s> </p>
+<p> <s> Valitsus otsustas teisipäeval ühendada 11 praegust omavalitsusüksust viieks vallaks ja premeeris vabatahtlikke ühinejaid kokku 13,51 miljoni krooniga . </s> <s> Tänavu makstakse sellest välja 3,65 miljonit . </s> </p>
+<p> <s> Rapla linna ja valla liitmise toetussumma on ligi 3,8 miljonit . </s> <s> Liituvad Kehra linn ja Anija vald saavad 2,36 miljonit , Kohila alev ja Kohila vald 2,22 miljonit krooni . </s> <s> Märjamaa alevi , Märjamaa valla ja Loodna valla ühinemise toetus on 2,91 miljonit . </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Turg </head>
+          <div3 type="artikkel"><head> Õllesummer on kallis laat </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> Mis see Õllesummer muud on kui suur Poti laat ! </s> <s> Moosekandid lõbustavad rahvast , õlu voolab ojadena , ainult sead-hobused tunnevad end selle melu keskel veidi ebamugavalt . </s> <s> Koduloomi esindas seekordsel Õllesummeril Raja talu mini-loomaaed portatiivsete ponide , sigade ja kitsedega . </s> </p>
+<p> <s> Ainuke erinevus võrreldes teiste laatadega on see , et territoorium on piiratud kahekordse aiaga , mille vahel jooksevad kurjad verekoerad . </s> <s> Aga vastupidi vanglale tulevad inimesed selle aia sisse vabatahtlikult ja maksavad veel röögatu summa ka . </s> </p>
+<p> <s> Aasta parimaks turundusnipiks võidakse tänavu kuulutada Õllesummeri peldikumajandus . </s> <s> Vähemalt arvasid nii ärimehed , kes kümnemeetrises kempsusabas seisid . </s> <s> Viiekroonise piletiga võis keha kergendada kaks korda . </s> <s> Selleks oli pileti mõlemasse otsa trükitud kontramark , mis enne tualetti astumist ära rebiti . </s> </p>
+<p> <s> Lihtinimesed pidasid seda lihtsalt röövimiseks . </s> <s> Maksad summeri päevapileti eest 125 krooni ja siis pead veel paar kempsupiletit ostma , et terve päev üritusel vastu pidada . </s> <s> Teisest küljest , kui Õllesummeri pilet oleks maksnud 10 krooni , siis oleks pidutsejaid olnud ebamugavalt palju ja kempsusabad veninuks sajameetristeks . </s> </p>
+<p> <s> Saku Õlletehas jagas rahvale sinikaid . </s> <s> Kes selle firma õlut jõi , sai ihu peale sinist värvi templi . </s> <s> Mida kirjum mees , seda uhkem tunne . </s> <s> Paremuselt teine turundusnipp . </s> </p>
+<p> <s> Tagasihoidlikult pidutsedes kulutas üks summerdaja päevaga vähemalt 300 krooni : pilet koos õlle ja WCga 200 , taksosõit koju 70-100 krooni . </s> <s> Bussid lõpetavad Tallinnas töö kell 24 , summer kestis aga kella üheni . </s> </p>
+<p> <s> Kes süüa ihkas , pidi arvestama vähemalt 35-45kroonise väljaminekuga . </s> <s> Aga süüa sai ka 10 krooni eest . </s> <s> Seda Õllesummeri paremuselt kolmanda turundusnipi leiutaja Electroluxi pliitide müüja abiga . </s> <s> Igaüks võis kohapeal nende pliitide peal kaks muna ja peekonilõigu ära praadida ja nahka pista . </s> <s> Ainult et ports oli mehe jaoks väiksevõitu . </s> </p>
+<p> <s> <hi rend="rasvane"> Jaan Räni </hi> </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Juhtkiri </head>
+          <div3 type="artikkel"><head> Haldusreformist ei pääse </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> Eelmiste valitsuste poolt vaata et tähtsaima riikliku programmina ette võetud haldusreform , mis pidi puudutama pea iga omavalitsust ning muutma kogu Eesti kaarti , jõudis siis sel teisipäeval valitsuse istungil justkui tulemuseni . </s> </p>
+<p> <s> Kogu ettevõtmisse pandud aega , energiat ja raha arvestades sai tulemus üsna kesine , sest omavalitsuste arvu vähenemine seniselt 247-lt vaid kuue võrra väiksemaks pärast kohalikke valimisi ei annagi mingi õige reformi mõõtu välja . </s> </p>
+<p> <s> Samas ei ole ka põhjust imestada , miks antud juhul mägi hiire sünnitas ehk miks see reform - tunnistame ausalt - läbi kukkus või teisisõnu kalevi alla pandi . </s> </p>
+<p> <s> Tegelikult kujunes ju võitlus valdade (sund)ühendamise vastu paljudele osaks suuremast võitlusest Mart Laari vähepopulaarse ( eriti veel maapiirkondades ! ) valitsuse vastu . </s> <s> Mistõttu oli kerge tekkima tunne , et kõik , mida see seltskond üritab ette võtta , on nagunii halb . </s> </p>
+<p> <s> Teisalt tahtsid kõik suuremad erakonnad enne mulluseid presidendivalimisi hästi läbi saada praeguste vallajuhtidega , kelle käes oli valiku kaalukeel . </s> <s> Tundus , et valdade liitmise vastane hoiak võiks nende seas populaarne olla . </s> <s> Mis ilmselt vastas ka tõele valimiskogus toimunut vaadates , ainult et Reformierakonna suhteliselt viimasel hetkel tehtud pööre reformi vastasleeri ei äratanud enam piisavat usaldust võrreldes ammu välja kujunenud hoiakutega . </s> </p>
+<p> <s> Kas väiksemate valdade liitmise plaan oligi üks mõttetu ettevõtmine , mille läbikukkumisest tuleks täna ainult rõõmu tunda ? </s> </p>
+<p> <s> Karta on , et õige pea tuleb selle juurde ühel või teisel kujul niikuinii tagasi tulla , olgu valitsus parasjagu milline tahes , ja siis juba kahetsusega vahepeal kaotsi läinud aja pärast . </s> </p>
+<p> <s> Mitte asjata ei ütle Euroopa Komisjoni 2001. aasta raport Eesti edusammudest haldusreformi kohta , et “ see reform tuleb kindlasti lõpetada , võttes arvesse vajadust saavutada piisav suutlikkus acquis communautaire'i rakendamiseks ja jõustamiseks kohalikul tasandil ” . </s> <s> Teisisõnu : kui te seda ei tee , siis te ilmselt pole suutlikud euroliidus hästi toime tulema , pole suutelised näiteks Brüsselist saada olevat raha taotlemagi . </s> <s> Kas kõrvalt näeb paremini või oleme ise targemad ? </s> </p>
+<p> <s> Need , kes praegu liituvad , saavad väiksemate ees edumaa mitte ainult soliidse ühinemistoetuse , vaid ennekõike konkurentsieelise näol , mida annab tulevikus ühine ajupotentsiaal ja suurem rahakott . </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Arvamus </head>
+          <div3 type="artikkel"><head> Väike palverännak päikeses </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Maarius Suviste </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Miks ei võiks nii olla , et suvel , kui lapsed on koolist vabad , ostamegi laste käest </hi> </s> </p>
+<p> <s> Väike tüdruk istub rannas liivahunniku otsas ja tuul sasib hellalt ta õlgadeni ulatuvaid heledaid juukseid . </s> <s> Ta seob botaste paelad kinni , paneb punase nokamütsi pähe ning on jälle krapsti püsti . </s> <s> Ja alustab taas oma teekonda . </s> <s> Nagu palverändur põletava päikese all . </s> </p>
+<p> <s> Ta käib päevitajate juures , samuti pallimängijate ja lihtsalt jalutajate juures . </s> <s> Mõnega jääb ta pikalt vestlema , mõni ei tee üldse välja , põrnitseb . </s> <s> Tüdruk küsib midagi , inimesed raputavad pead . </s> <s> Ei , ei taha . </s> <s> Mõni ikka tahab . </s> </p>
+<p> <s> “ Onu , kas te kokakoolat soovite ? ” küsib päevitunud näoga tüdruk , külmakott üle õla . </s> <s> “ Või hoopis vett ? </s> <s> Aga mul on jäätist ja krõpse ka . ” </s> </p>
+<p> <s> “ Anna vett ja jäätist . </s> <s> Kõige tavalisemat , ” vastan . </s> </p>
+<p> <s> “ 14 krooni . ” </s> </p>
+<p> <s> “ Siin on kümnekas ja viiekas . ” </s> </p>
+<p> <s> “ Aitäh . ” </s> </p>
+<p> <s> Ta paneb kortsu läinud paberrahad oma vöökotti . </s> <s> Viskab külmakoti üle õla , ja läinud ta on . </s> </p>
+<p> <s> “ Tšau ! ” hüüab ta veel . </s> </p>
+<p> <s> “ Tšau , tšau ! ” </s> </p>
+<p> <s> <hi rend="rasvane"> Õnneks piisab 14 kroonist </hi> </s> </p>
+<p> <s> Külm karastusjook on väga hea , jäätis veel paremgi . </s> </p>
+<p> <s> Tüdruk käib endiselt ühe puhkaja juurest teise juurde . </s> <s> Möödub kümme minutit , viisteist . </s> <s> Tüdruk on uuel ringil , tuleb taas . </s> </p>
+<p> <s> “ Onu , ostke veel , ” palub ta . </s> </p>
+<p> <s> “ No ma ju alles ostsin su käest . </s> <s> Näe , jäätiski veel alles . ” </s> </p>
+<p> <s> “ Mis siis ! </s> <s> Ostke ikka ! ” ei jäta ta . </s> <s> “ No palun ostke ! </s> <s> Nii vähe inimesi ostab . ” </s> </p>
+<p> <s> “ Hea küll . </s> <s> Anna sama vesi , aga mõni teine jäätis . ” </s> </p>
+<p> <s> Tüdruk on saadud 14 krooni peale veelgi õnnelikum kui eelmisel korral . </s> <s> Ja juba on ta jälle läinud . </s> <s> Kuid see külmakott , mida ta kandma peab , ei taha ega taha kergemaks minna . </s> </p>
+<p> <s> Needsamad puhkajad , kes enne tüdrukule “ ei ” ütlesid , tõusevad püsti ja lähevad kioski poole . </s> <s> Tagasi tulevad , karastusjoogid ja jäätised käes . </s> </p>
+<p> <s> Seda väikest tüdrukut nad ei usaldanud . </s> <s> Küll aga vingus näoga kioskimüüjat , kes rahval tuju ära rikub . </s> <s> Ta on pidevast rabelemisest väsinud ja tal on peamine , et keegi midagi ostaks ja ruttu minema läheks . </s> <s> Veel parem aga , kui tülikaid ostjaid üldse ei oleks . </s> </p>
+<p> <s> <hi rend="rasvane"> Miks suur inimene last ei usalda ? </hi> </s> </p>
+<p> <s> Väike tüdruk ei olnud väsinud näoga , ei vaadanud tuima näoga vastu , ei rikkunud tuju ära . </s> <s> Ta tuli juurde , pakkus , oli aus ja siiras . </s> </p>
+<p> <s> Suvi on lastele selleks , et koolitööst puhata ja võimaluse korral ka taskuraha teenida . </s> <s> Et oleks oma raha , nii paljukest kui seda on . </s> <s> Peaasi et midagigi on . </s> </p>
+<p> <s> Miks peaksime mööda linna kioskit otsima , et värsket ajalehte osta , selmet osta lapse käest , kes juba varahommikul mööda linna ringi jookseb , ajaleht näpus ? </s> <s> Miks peaksime end rannas üles ajama ja lähima kioskini kõndima , et jäätist hankida , selmet osta lapse käest , kes ise su juurde tuleb ? </s> <s> Ja sa ei saa temalt mitte ainult jäätist , vaid ka hindamatu siiruse ja rõõmsa näo . </s> <s> See ei lähe meelest . </s> </p>
+<p> <s> Ning üleüldse - miks ei võiks siis nii olla , et suvel , kui lapsed on koolist vabad , ostamegi laste käest . </s> </p>
+<p> <s> Ärme vaata neid põlastava ja kahtlustava pilguga - et mis see võõras laps nüüd jälle tahab . </s> <s> Teeme neile hoopis rõõmu , oleme head ja lahked , vähemalt koolivaheajal . </s> <s> Meil , täiskasvanutel , ju ikka raha on . </s> </p>
+<p> <s> Ostame ükstapuha mida . </s> <s> Kas jäätise või karastusjoogi või ajalehe . </s> <s> Lihtsalt ostame ja tunneme heameelt , et just nimelt laps müüs ja sina ostsid . </s> <s> Sina sellest vaesemaks ei jäänud , laps miljonäriks ei saanud . </s> <s> Kuid lapsele on suur asi teenida iga müüdud seitsmekroonise jäätise pealt kaks krooni . </s> </p>
+<p> <s> Nagu väike tüdruk Pärnu rannas . </s> <s> Kuid kahjuks pole teda enam sealkandis nähtud . </s> <s> Ei tea , kus ta küll olla võiks , suvi ju alles poole peal ja 1. septembrini kõvasti aega . </s> </p>
+<p> <s> Meil siin on hoolivusest ja ligimesearmastusest puudu , muud ei midagi . </s> </p></div3>
+          <div3 type="artikkel"><head> Euroopas loeb sõprus </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Tõnis Kõiv Paide linnapea </hi> </s> </p>
+<p> <s> Õppides tundma teisi , tunneme ja tunnetame ka iseendid paremini </s> </p>
+<p> <s> Mais toimus Belgias Antwerpenis VIII Euroopa sõpruslinnade kongress . </s> <s> Esindatud olid Euroopa Liidu liikmes- ja ja kandidaatmaad , Eestist kaks välissuhtlejat Narvast , Kuressaare ja Pärnu abilinnapea ning kaks välissuhtlemise spetsialisti Eesti Linnade Liidu büroost . </s> </p>
+<p> <s> Kohal olid ka noored , kelle ülesanne oli reporteritena teha ülevaade toimunust . </s> <s> Noored tegid enne läbi konkursi - leida igast riigist üks . </s> <s> Rapla ja Tartu kandidaat olid niivõrd head , et pääsesid mõlemad kongressi reporteriks . </s> </p>
+<p> <s> <hi rend="rasvane"> Maailm on teadmisi täis </hi> </s> </p>
+<p> <s> Pool aastat enne kongressi küsiti e-kirjas : kellel on kogemusi , mida tasub teistele jagada . </s> <s> Paide poolt saatsime oma mõtted sõprussuhetest ja raha hankimisest . </s> <s> Teemat peeti ettekande vääriliseks ja seetõttu oli meie osalemine vastuvõtjate kulul . </s> </p>
+<p> <s> Kuidas muuta inimeste suhtumist sõprussuhete arendamisse positiivsemaks olukorras , kus raha vähe , aga lahendamata probleeme palju ? </s> <s> Kuidas suurendada sõprussuhete rahastamise vajalikkusest ja otstarbekusest arusaamist ? </s> <s> Neid küsimusi arutati kongressil . </s> </p>
+<p> <s> Ka meil ja teistel Eesti suurematel linnadel on sellesarnaseid probleeme . </s> <s> Uue linnajuhi tulekul või uue koalitsiooni loomisel kiputakse vähendama välissuhtlemist miinimumini . </s> </p>
+<p> <s> Põhjuseks tuuakse , et linnakodanike jaoks olulised probleemid on lahendamata . </s> <s> Omavalitsuse töösse sisse elades aga selle valdkonna tähtsuse mõistmine paraneb ning välissuhtlemine taastub . </s> </p>
+<p> <s> Tegelikkus on näidanud , et tihti saavad lahendused , uued mõtted ja võimalused alguse teiste tehtut analüüsides ja kasulikku üle võttes . </s> <s> Maailm on teadmisi täis , tuleb vaid teada , kust otsida ja mida otsida . </s> </p>
+<p> <s> Leidmiseks on vaja kontakte , sõprussuhteid , koostööpartnereid . </s> <s> Maailmast omandatud hea idee või kogemus ja selle eeskujul probleemi lahendamine jätab tulemuse ikkagi siia , mitte ei vii seda mujale . </s> </p>
+<p> <s> Paraku ei jõua välissuhtlemise kasulik seos kodulinna arenguga inimeste teadvusse . </s> </p>
+<p> <s> Paide tänavuse eelarve arutamise aegu jõudis avalikkuse ette vaidlus linna välissuhtlemise rahastamise üle . </s> <s> Opositsioon tegi ettepaneku vähendada välissuhtlemise eelarvet pea poole võrra ja suunata see raha tänavaaukude lappimiseks . </s> </p>
+<p> <s> Kui see muudatus oleks vastu võetud , jäänuks näiteks ära meie puhkpilliorkestri sõit Habo kommuuni ( Rootsi ) sõpruslinnade orkestrite festivalile . </s> <s> Seal osalenud muusikud poleks kunagi teada saanud Paide orkestri tasemest ega orkestrijuht saanud sõlmida eelkokkulepet , et järgmine selline üritus võiks toimuda Paides . </s> </p>
+<p> <s> Kui nii läheb , siis peaks meile tulema hulk külalisi , kes kõik meie majandust elavdavad , raha siia jätavad , meie inimestele teenistust annavad . </s> <s> Samuti avardab see meie inimeste silmaringi ning tutvustab Paidet laiemalt . </s> </p>
+<p> <s> Igatahes oli opositsiooni ettepanek ärevust tekitav sõnum : just nagu suhted sõpruslinnadega polekski tähtsad . </s> </p>
+<p> <s> Antwerpeni konverentsil kuuldu võiks kokku võtta : erurooplased loovad ja arendavad sõprussuhteid professionaalsel tasemel . </s> <s> Linnade ja regioonide piisav suurus ja rikkus lubab palgata ja tööl hoida inimesi , kelle põhitöö ongi välissuhtlemine . </s> </p>
+<p> <s> Väga oluline on omada struktuuri või vähemalt inimest , kes välissuhtlemise eest vastutab , sellega päevast päeva tegeleb . </s> <s> Samuti on väga tähtis kaasata linnavolikogu liikmeid kas vastava komisjoni kaudu või andes vähemalt ühele volinikule vastutuse välissuhete hoidmise ja arendamise eest . </s> </p>
+<p> <s> Oleme püüdnud suhteid laiendada kollektiivide tasandile ning vähendada ametnike ja poliitikute osakaalu , kuid teiste kogemused soovitavad poliitikuid siiski rohkem kaasata - parteide kaudu levib info inimeste seas laiemalt . </s> </p>
+<p> <s> <hi rend="rasvane"> Keel suhu ! </hi> </s> </p>
+<p> <s> Mõneks ajaks jääb keeleoskuse probleem . </s> <s> Muidugi pole keegi süüdi , et käis koolis ajal , mil võõrkeel teisejärguline . </s> <s> Nüüd saab ka ise keelt õppida , aga ilma keelepraktikata ei püsi ükski keel suus . </s> </p>
+<p> <s> Noortel on lihtsam . </s> <s> Paidel on mitmeaastane kogemus taanlastega Fredensborg-Humlebaekist . </s> <s> Toetusprogrammide abil toimunud noortevahetus on selles osalenud noortele ja nende vanematele andnud elukogemuse . </s> </p>
+<p> <s> Noortel on värskem keeleoskus , teistsugune maailmanägemine , ilma nõukogude taagata . </s> <s> Äkki tulekski välissuhtlemine jätta noortele ? </s> </p>
+<p> <s> Arvan siiski , et poleks õige linnakodanike eakamat osa millestki eemale jätta . </s> <s> Vabastades endid sisemistest kammitsatest , tuleb harjuda mõttega , et oleme osa vabast Euroopast ja maailmast . </s> </p>
+<p> <s> Kasutasin ettekandes pilte , mida olen ka Eestis näidanud : Paide asukoht maailma , Euroopa ja lõpuks Eesti kaardil . </s> </p>
+<p> <s> Arvan , et meie naabriteks ei ole ainult Paide vald või Türi linn . </s> <s> Vaadates laiemalt , on meie naabrid mulgid ja virulased , veelgi laiemalt lätlased , venelased , soomlased ja päris kaugelt : hiinlased , ameeriklased , aafriklased . </s> </p>
+<p> <s> Õppides tundma naabreid , tunneme ja tunnetame ka endid rohkem . </s> </p>
+<p> <s> <hi rend="kaldkiri"> Autor on Reformierakonna liige </hi> </s> </p></div3>
+          <div3 type="artikkel"><head> Kitä ulli , ull kargas kaivu </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Ivari Padar põllumees </hi> </s> </p>
+<p> <s> Euroopa Liidu kvoodipakkumisel Eestile kumab läbi suhtumine : tegite reforme , avasite oma turud , tublid olete olnud , aga mis siis </s> </p>
+<p> <s> Viimasel ajal olen kuulnud küllalt palju enda aadressil nurinat , et miks ma üldse valitsust ei sõima . </s> <s> Asja arutati hiljuti Võrus äia sünnipäeval ( kus oli kohal hulk asiseid inimesi ) , vaeti meie elu mitme külje pealt ja lõpuks otsustati : noorel valitsusel on raskel ajal tööd ja muret niigi palju , sõimust ja virinast piima ja liha juurde ei tule . </s> </p>
+<p> <s> Mõned mõtted arutatust usaldan siiski paberile panna . </s> </p>
+<p> <s> <hi rend="rasvane"> Ebanormaalne kvoot </hi> </s> </p>
+<p> <s> Selge see , et kõige tähtsam praeguse valitsuse tegemistest on läbirääkimised Euroopa Liiduga . </s> <s> Oma seisukohad on esitanud nii Eesti kui EL . </s> <s> Tundub , et ELi uus platvorm ei tule mingil juhul enne , kui Saksamaal parlamendivalimised läbi , seega mitte enne septembrit-oktoobrit . </s> </p>
+<p> <s> Eesti on oma liberaalse majanduse ja küllalt edukate reformidega viimase kümne aasta jooksul olnud nii ELi kui kogu maailma silmis musterlaps . </s> <s> Põllumajanduses on see tähendanud toodangumahtude 2-3kordset kahanemist ja paratamatult osa turu loovutamist importkaubale . </s> <s> Seda ka nende põllumajandussaaduste puhul , mis on Eestis täiesti toodetavad , olgu näiteks kas või teravili , lamba- ja loomaliha . </s> </p>
+<p> <s> Neid protsesse olen vähemalt mina võtnud kui ajutisi ja paratamatuid . </s> <s> Olen ikka lootnud , et põllumajanduse kosudes hakatakse uuesti tootma nii oma turu tarbeks kui ka ekspordiks . </s> </p>
+<p> <s> Selles kontekstis on ilmselgelt ebanormaalne , kui Eestile pakutav kvoot on väiksem kui siseturu vajadus ja ekspordipotentsiaal . </s> </p>
+<p> <s> Võib aru saada Euroopa Komisjoni läbirääkijate soovist käsitleda kõiki riike ühe mõõdupuuga - nii neid , kus on reformiga tegeldud tõsiselt , kui ka neid , kus on reformidega pinnapealsem oldud . </s> </p>
+<p> <s> Praegu pakutavad kvoodid tekitavad vägisi tunde , mille võru keeli saab kokku võtta ütlemisega : kitä ulli , ull kargas kaivu . </s> <s> Kirjakeeles oleks see : kiida lolli , loll kargab kaevu . </s> <s> Teisisõnu väljendab ELi kvoodipakkumine pisut suhtumist : no tegite reforme , avasite oma turud , tublid olete olnud , aga mis siis . </s> </p>
+<p> <s> Praegune peaminister , kes on vaieldamatult olnud üks liberaalse turumajanduse eestseisjaid Eestis , peaks hoolega mõtlema , kuidas garanteerida , et nende läbirääkimistega ei kaasneks vastu tuult laskmise efekt . </s> <s> Vaieldamatult oleks meie riigile ja rahvale alandav , kui kõneluste tulem oleks selline , et Eestis keelatakse toota toitu nii palju , kui meie rahvale vaja on . </s> </p>
+<p> <s> <hi rend="rasvane"> Ka põllumees tahab hinge tõmmata </hi> </s> </p>
+<p> <s> Lõpetada tahaks ühe väikse kõrvalepõikega elusse enesesse . </s> <s> Värskas äsja toimunud Rahvaerakonna Mõõdukad suvepäevadele sõitsid Haanja talumehed kohale suure loomaveokiga , lehmad kastis kaasas . </s> <s> Sinnasamasse laagriplatsi kõrvale seati üles karjaaed ja kõik need kaks ja pool päeva hoolitsesid mehed muu suvepäevade programmi kuuluva kõrval ka oma loomade eest . </s> <s> Mis see nüüd siis oli , kas nali , protest või praktiline vajadus ? </s> </p>
+<p> <s> Tundub , et selles laagrimiljöös oli pisut kõike kolme . </s> <s> Tegelikus elus hakkab see praktiline vajadus aga ennast üha teravamalt tunda andma . </s> <s> Neil meestel ei olnud loomi kellegi hoolde jätta selleks , et tulla kaheks päevaks suvepäevadele . </s> <s> Aina enam ja enam oluliseks hakkab kujunema asendustalunike süsteem . </s> <s> Õigemini selle puudumine Eestis . </s> </p>
+<p> <s> Enamik meist on kuulnud , et Soomes asi toimib . </s> <s> Muidugi läheb Eestil Soomele järele jõudmiseks veel kaua aega . </s> <s> Kuid tundub , et selles vallas saaks ka meie midagi konkreetset ära teha . </s> </p>
+<p> <s> Nii et põllumajandusministeerium võiks koostöös tootjate organisatsioonidega muude tähtsate probleemide kõrval ka seda teemat arutada . </s> <s> On üsna loomulik , et algatus ja võimalikud lahendid tuleksid tootjaorganisatsioonidelt . </s> </p>
+<p> <s> Seda asja tuleks vaadelda ka üldises kontekstis : ühelt poolt talupidaja sotsiaalse kaitse vaatenurgast , teiselt poolt kogu külaühiskonna elujõu vaatenurgast . </s> <s> Lähiajal ELi astumine tähendaks kindlasti nii talumeeste eelpensioni kui noortaluniku toetuse rakendamist , samuti kiirendaks see tõhusa asendustalunike süsteemi teket . </s> <s> See tähendab aga , et riik peab olema valmis neid ruttu kasutusele võtma . </s> </p>
+<p> <s> <hi rend="kaldkiri"> Autor kuulub Rahvaerakonda Mõõdukad </hi> </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Kommentaar </head>
+          <div3 type="artikkel"><head> Amneesia ja amnestia </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Toomas Paul </hi> </s> </p>
+<p> <s> Leninlik kommunism ja hitlerlik natsionaalsotsialism on kaksikud . </s> <s> Aga nii nagu kaksikutel tihti , on nende saatus erinev . </s> <s> Prantsuse ajaloolane Alain Besanēon kirjutab oma uurimuses “ Sajandi õnnetus ” : “ Kui natsirežiim oli hävitatud , ei tulnud mingit amnestiat . </s> <s> Kurjategijate üle mõisteti kohut ning nad mõisteti hukka . </s> <s> Kogu Saksamaa kutsuti oma tegude põhjalikule järelekaalumisele , lahti ütlema sellest , mis tema ajaloos ja mõttes oli võinud seda hukatust ette valmistada . </s> <s> See sai sündida ainult saksa hinge lõhkirebimise ning tema loova jõu närvutamise hinnaga . </s> <s> Viis , kuidas see ruineeritud , hävitatud , kaheks lõhestatud ning au kaotanud rahvas pani vastu meeleheitele ning asus taas tööle , leppides oma karistusega , väärib imetlust . </s> <s> Saksamaa kiire tõus pärast 1945. aastat ning Venemaa pikk seiskumine pärast 1991. aastat on seotud esimese lõpuks taasleitud alandlikkuse ja teise kõrkusega . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Kurjus kohusetundest </hi> </s> </p>
+<p> <s> Meie Riigikogu mõistis hukka kommunistliku režiimi kuriteod . </s> <s> See sündis sama üksmeelselt , nagu olnuks tegemist Lõuna-Aafrika Vabariigi apartheidi taunimisega . </s> <s> Mingit uut informatsiooni ei ole lisandunud , sellise otsuse võinuks langetada juba NLKP XX kongressi järel . </s> <s> Toimunu kinnitas Bertrand Russelli sõnu : “ Minu kindel veendumus on , et inimesed suudavad kokku leppida ainult selles , millest nad ei ole huvitatud . ” </s> </p>
+<p> <s> Enne juunipööret ei olnud Eestis kahtsadagi kommunisti . </s> <s> Need idealistid likvideeriti üsna pea . </s> <s> Eestlased ei ole leiutanud ei bolševismi ega holokausti ega iial neid südames pooldanud . </s> <s> Antisemiitlus ja ideeline kommunism ei ole meie rida . </s> <s> Jah , Vene aja lõpul oli ligi sada tuhat kompartei liiget . </s> <s> Aga tuletage meelde - kas ükski nende hulgast võttis asja tõsiselt ? </s> <s> Ei võtnud . </s> <s> Nad nimetasid oma parteipiletit leivakaardiks . </s> </p>
+<p> <s> Eestlased ei ole süüdi kommunismis ega holokaustis . </s> <s> Me oleme olnud kogu aja vaid passiivsed käsutäitjad , kes ei vastuta millegi eest . </s> <s> Just see teeb kõhedaks tuleviku ees . </s> <s> Amnestia ja amneesia , süü- ja mälukaotus . </s> </p>
+<p> <s> Ameerika politoloog Hannah Arendt vastandab kuuleka inimese “ banaalse kurjuse ” totalitaarse süsteemi “ radikaalsele kurjusele ” . </s> <s> Kurjuse banaalsus kehastub süsteemi mutrikese , mõtlematu funktsionääri isikus , kes ei tee kurja mitte sadismist , ahnusest ega kättemaksuhimust , vaid lihtsalt kohusetundest ja võimetusest hinnata , mida ta teod endaga kaasa toovad . </s> <s> Toetus süsteemile oli võimalik tänu banaalsele kurjusele , mis levib totalitaarse ideoloogia mõjul nagu hallitus , tagades tavaliste , kohusetundlike ja korralike inimeste koostöö ja toetuse mistahes kuritegudele . </s> <s> Kuulekus on tööriistaks radikaalse kurjuse käes . </s> </p>
+<p> <s> Totalitaristlik ideoloogia põhineb meie ja teiste vastandamisel , apelleerib kibestunud inimeste tunnetele . </s> <s> Poliitilised ja ühiskondlikud tendentsid , mis lõid soodsa pinnase totalitarismi tekkeks , ei ole kuhugi kadunud . </s> <s> Majandusliku kõrgklassi huvide ülemvõim poliitikas , terav konkurents ja kaotajate marginaliseerimine , eraldatus ja üksindus , ning muidugi rahvuskonfliktid . </s> </p>
+<p> <s> Arenguid suunavate jõudude anonüümsus ja kontrollimatus ning üksikisiku kasvav võõrandumine ja jõuetus võimu ees , üha suurem hulk “ ülearuseid ” inimesi ja äärmiselt arenenud tehnilised vahendid mille tahes täideviimiseks - kõik see viitab , et uue tehnokraatliku totalitarismi tekkimine reaktsioonina on vaid aja küsimus . </s> <s> Millise sõnaga seda siis tähistatakse , on üsna ükskõik . </s> </p>
+<p> <s> <hi rend="rasvane"> Tuleb ikkagi üritada </hi> </s> </p>
+<p> <s> See , et leninlik revolutsioon osutus veriseks läbikukkumiseks , ei tähenda veel , et maailm oleks äkki õiglaseks muutunud . </s> <s> Asi ei ole nii lihtne , me oleme palju üksildasemad . </s> <s> Nagu ütleb ühes oma novellis Francis Scott Fitzgerald , kes on ometi nii vähe angažeeritud kirjanik kui üldse võimalik : tuleb olla teadlik sellest , et olukord on lootusetu , kuid tahta seda siiski muuta . </s> </p>
+<p> <s> Pole olemas mitte midagi , mis ei võiks meelest ära minna . </s> <s> Ometi paistab , nagu läheks meelest ära kogu elu ja ajalugu . </s> <s> Keegi nagu ei mäletaks midagi ja mitte miski poleks olnud nagu mitte kellegi asi . </s> <s> Iga üksik inimene ja iga ühiskond seisab alati uute kannatuste vastas ega oska neid mitte millegagi mõõta ega võrrelda , kuna eelmised on meelest ära . </s> </p>
+<p> <s> <hi rend="rasvane"> Toomas Paul </hi> </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Sõna sekka </head>
+          <div3 type="artikkel"><head> Mõistmatu mure narkokullerite pärast </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Annika Poldre </author> </bibl> </hi> </s> </p>
+<p> <s> Tais eluaegset vanglakaristust kandvad kolm Eesti narkokullerit võivad peagi kodumaale pääseda . </s> <s> Selle eest on välisministeerium pikka aega hoolt kandnud , ajanud asju ja kaitsnud nende kui kodanike õigust istuda vangis oma kodumaal . </s> </p>
+<p> <s> Kõmuajakirjanikud on Tai vanglasse , kus eestlasi kinni peetakse , isegi kohale sõitnud ja lugejatele kaasakiskuvalt narkovedajate piinarikast elu kirjeldanud . </s> <s> Idamaa vangla on tõeline vangla , seal kehtivad kurjategijate puhul teistsugused reeglid kui läänes , kus neid poputatakse . </s> </p>
+<p> <s> Kui meie esimesed narkopääsukesed ükskord kodumaa eurovanglasse saabuvad , teeb meedia neist suure tõenäosusega vaat et rahvuskangelased . </s> <s> Võib pea anda , et siin saavad nad tubli vangipõlvepidamise eest enneaegu vabaks . </s> </p>
+<p> <s> Eesti on narkomaailmas paljutõotav paik : veel on enamik noori uimastavatest pulbritest , meelierutavatest suitsudest ja süstimisvedelikest puutumata . </s> <s> Veel on ärikatel võimalusi tegevusvälja laiendada . </s> </p>
+<p> <s> Narkopolitsei on lubanud senisest enam pöörata tähelepanu meelemürkide tarvitajate asemel kaubitsejatele . </s> <s> Viimastega tegelda on tunduvalt raskem ja ohtlikum kui püüda ostjaid , aga töö tulemused on ka märksa tõhusamad . </s> </p>
+<p> <s> Ilmselgelt on narkomaania meie riigis üha suurenev mure . </s> </p>
+<p> <s> Päris usutav , et tulevikus on meist igaüks mingil moel narkomaanidega silmitsi . </s> <s> Kellel jääb pere uimastitest puutumata , see ei pruugi veel pääseda narkomaanidest varaste ja röövijate eest . </s> </p>
+<p> <s> Seda enam hämmastab riigi mure kolme narkokulleri pärast , keda peame meie , maksumaksjad , hakkama ülal pidama . </s> <s> Ka need maksumaksjad , kellel peres sügav mure uimastite küüsi langenud laste pärast . </s> </p>
+<p> <s> Kodanikuna paneb mind imestama riigiametnike hool kolme kurjategija eest . </s> <s> Meil on ju teisigi kurikaelu , kes võõrsil vangis . </s> <s> Miks hoolitsetakse just uimastivahendajate käekäigu eest ? </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Nädala nägu </head>
+          <div3 type="artikkel"><head> Nädala nägu </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> 12. juulil peab tuntud tele- ja filmimees Märt Müür oma 60. sünnipäeva . </hi> </s> </p>
+<p> <s> <hi rend="kaldkiri"> Kuhu kadus Hiina müür - ilmakuulus avantüür ? </hi> </s> <hi rend="kaldkiri"> <s> Pole kuulnud-näinud keski ? </s> <s> Vaikselt töö teind viljaveski , millel jahvatas Märt Müür . </s> </hi> </p>
+<p> <s> Contra </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Ilm </head>
+          <div3 type="artikkel"><head> Lõikusaeg saabub varakult </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Vihmad jäid suvivilja jaoks hiljaks </hi> </s> </p>
+<p> <s> Aprillis ja mais kannatas Eesti põua käes . </s> <s> Juuni alguses rõõmustasime iga äikesevihma üle , kuigi see tõi 4. juunil kohati kaasa rahet . </s> <s> Oodatud tõsisem sajuaeg saabus 10.-12. juunini ja siis tuli vihma nädal otsa . </s> <s> Muld niiskus 10-20 cm sügavuseni . </s> <s> Põldudel ja peenardel tärkasid seni idanemata seemned , viljadel ei jäänud tulemata ka järelvõrsumine . </s> <s> Paiguti jäid aga sajud napiks , ka vihma saanud põldudel kadus sooja ilmaga vesi kiiresti . </s> <s> Jaanipäeva eel olid mullad taas kuivad . </s> </p>
+<p> <s> <hi rend="rasvane"> Saak tuleb nigel </hi> </s> </p>
+<p> <s> Järgmised korralikud sajud algasid jaanilaupäeval ja juuni lõpuks tekkis siin-seal liigniiskus . </s> <s> Enam vihma sai Järvamaa lõuna- ja Pärnumaa kirdeosa ning paiguti Jõgeva kant . </s> <s> Kui Kesk-Eestis sadas 140 mm ( enam kui kaks kuu normi ) , siis Kagu-Eestis ja saartel vaevu 60 mm ( vt joonis ) . </s> </p>
+<p> <s> Vihmad jäid suviviljadele , eriti odrale hiljaks . </s> <s> Ringi liikudes näeb arvukalt ebaühtlase tihedusega odrapõlde , kus vili 30-40 cm kõrge . </s> <s> Pead on keskmiselt ainult 12-14 arenenud pähikuga . </s> <s> Sääraselt põllult võib bioloogilist saaki oodata alla 2 t/ha . </s> <s> Kaera ja suvinisu seis on veidi parem . </s> </p>
+<p> <s> Silma hakkab umbrohu lokkamine . </s> <s> Vihmade eel polnud seemned veel tärganud , hiljem segasid sajud hooldust . </s> <s> Kuna vili on madal ja hõre , võib umbrohi hakata seda lämmatama . </s> <s> Paiguti võib viljapõldudel näha mitmerindelisust , mis on tekkinud osa terade hilisemast tärkamisest või järelvõrsumisest . </s> <s> Hiljem põhjustab see vilja ebaühtlast valmimist , halvendab saagi kvaliteeti , raskendab koristust . </s> </p>
+<p> <s> Talirukis elas põua tänu sügavamale juurestikule lahedamalt üle . </s> <s> Pindmises poolemeetrises mullakihis vähenes Jõgeval produktiivne veevaru küll närbumisniiskuseni , kuid rukist see märgatavalt ei kahjustanud ja vihmade järel seisund paranes . </s> <s> Kesk-Eestis aga tekitasid tugevad sajud rukki lamandumist , üksikutel põldudel kuni 60% . </s> <s> Praeguse seisu järgi võib oodata leivaviljalt teistest teraviljadest paremat saaki . </s> </p>
+<p> <s> Talinisu kannatas põua tõttu tunduvalt enam : lehed kolletusid enneaegu , võrsumine jäi väiksemaks ja vili hõredaks , nii et saak tuleb väike . </s> </p>
+<p> <s> Kartul tärkas põua tõttu ebaühtlaselt , areng oli pidurdunud nii veenappusest kui ka liiga kõrgest temperatuurist ( mulla pinnal kuni 50 kraadi ) . </s> <s> Vihmade järel seisund paranes . </s> <s> Varasemad sordid praegu õitsevad ja on kuni 60 cm kõrged . </s> <s> Korralik pealsete mass on ka hilistel sortidel , see eeldab head saaki . </s> </p>
+<p> <s> <hi rend="rasvane"> Kartuliga on hästi </hi> </s> </p>
+<p> <s> Varastel sortidel on alanud mugulate hoogne kasv ja veetarve on suur . </s> <s> Mullas niiskust jätkub . </s> <s> Mitmel pool kogunes rohkete sadude järel vesi vagude vahele , aga õnneks kadus see enamasti kiiresti ja kahju tekitamata . </s> <s> Pärnumaa Libatse vaatleja teatab siiski pikemaajalisest vee püsimisest põllul ja seal on kartul ohus . </s> <s> Soojad niisked ilmad on väga soodsad lehemädaniku jt seenhaiguste levikuks , mis võivad saaki vähendada . </s> </p>
+<p> <s> Heintaimedel on vihmade järel hea ädalakasv , mis annab lootust , et kesiseks jäänud esimesele niitele saab tublisti lisa . </s> </p>
+<p> <s> Vaatamata juuni lõpu jahedusele , on looduse areng tavalisest paar nädalat ees . </s> <s> Aedades on valminud karusmarjad , sõstrad ja esimesed vaarikad . </s> <s> Rukkil saabus piimküpsus Kesk-Eestis juba juuni viimastel päevadel , keskvalmival odral on see arengufaas lähenemas . </s> <s> Jääb loota , et juuli ei tule liiga kuum - siis ei täitu tera liiga kiiresti ja kasvab tuumakamaks . </s> <s> Tuleb varane lõikusaeg . </s> </p>
+<p> <s> <hi rend="rasvane"> Laine Keppart , agrometeoroloog </hi> </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Elu </head>
+          <div3 type="artikkel"><head> Ka Põlva ja Võru nägid tippratsutamist </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> Meie väikelinnades pole just tavapärane näha võistlemas Eesti parimaid ratsutajaid ja parimaid hobuseid . </s> <s> Sel suvel pakkus seda haruldast rõõmu Eestimaa eri paikades - Põlvas , Võrus , Kuressaares , Pärnus , Tartus , Rakveres ja Tallinnas - korraldatud seitsme etapiga takistussõiduvõistlus “ Palladium Cup 2002 ” . </s> </p>
+<p> <s> Tihedas konkurentsis võitis kogu jõuproovi Gunnar Klettenberg ( vasakul fotol ) Hanno Ellermanni ja Rein Pilli ( paremal fotol ) ees . </s> <s> Võidule viis ratsaniku perekond Kruudale kuuluv 13aastane trakeeni täkk Palladium . </s> <s> Peaauhind oli soliidne - kabriolett Peugeot 206cc . </s> </p>
+<p> <s> Ilus oli ka korraldajate otsus annetada piletitulust 35 000 krooni Põlva Intsikurmu laululava ülesehitamiseks . </s> </p></div3>
+          <div3 type="artikkel"><head> Vihma- ja eterniidisadu </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Viio Aitsam </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Möödunud nädala torm räsis Eestis mitut maakonda </hi> </s> </p>
+<p> <s> Sel esmaspäeval pääses Sipa külla juba sisse . </s> <s> Eelmise neljapäeva õhtul , pärast tormi , olid aga kõik sissepääsuteed mahalangenud puudest ummistatud . </s> </p>
+<p> <s> “ Kel saag oli , läks samal õhtul tegutsema , et me üldse liikuma saaksime , ” ütles Raplamaa keskkonnateenistuse metsanduse spetsialist Peeter Paunmaa , kes ka ise Sipas elab . </s> </p>
+<p> <s> Esmaspäevaks oli Sipa mõisapargi hooldaja Peeter Roosileht jõudnud pargis olevaid ummistusi lahti saagida ja puid jupitada . </s> <s> Torm oli näiteks vanast pärnaalleest noppinud kümme puud , terve väikese pargi kohta aga vähemalt nelikümmend . </s> </p>
+<p> <s> Rääkimata näiteks kurepesast , mille alusratta oli maru puu alla mitmeks tükiks virutanud . </s> </p>
+<p> <s> Kurepoegi ei leitud , aga vanad kured seisid veel esmaspäeval abitult puuladvas . </s> </p>
+<p> <s> “ Praegu pole pilt enam nii hirmus kui algul , ” ütles Peeter Paunmaa . </s> <s> Ta ise oli möllu ajal oma korteris . </s> <s> “ Oli päris kole vaadata , kuidas vastasmaja katus lagunes . </s> <s> Vihma asemel sadas eterniiditahvleid alla . ” </s> </p>
+<p> <s> “ Hirmus oli , ” rääkisid pargipuude riismete vahel uudistanud poisid Kirk Link ja Margus Salk . </s> </p>
+<p> <s> “ Mis te siin üksikuid puid kummardate , minge parem metsa . </s> <s> Seal on kõik haavad kahekorra ja kuused poolest saati maas , ” soovitas metsaomanik Milvi Meresmaa . </s> </p>
+<p> <s> “ Metsa ma pole tõesti veel jõudnud , kuigi esimesed metsateatiste esitajad olid täna juba kohal , ” ütles Peeter Paunmaa . </s> <s> Metsaomanikud peavad kõigist metsakahjustustest keskkonnateenistusele teatama . </s> </p>
+<p> <s> Võrdlemisi põgusal metsaskäigul me suurtele trombipesadele ei sattunud , aga üksikuid murtud puid hakkas see-eest silma igal sammul . </s> </p>
+<p> <s> “ Teatiste järgi paistab , et suuremad kahjustused on tüüpiliselt nendes metsaosades , mis jäävad mõne varasema langi kõrvale . </s> <s> Või siis seal , kus on tehtud hooldusraiet , aga mitte kõige õigemini . </s> <s> Näiteks pole jäetud tuulekaitseribasid või on mets raiutud liiga hõredaks , ” rääkis Paunmaa . </s> </p>
+<p> <s> Esmaspäeva hommikul oli Loodna valla Sipa kant keskkonnateenistuse andmeil tormist kõige rohkem kannatada saanud piirkond Raplamaal . </s> <s> Metsakahjude teateid tuleb aga iga päevaga eri paigust juurde . </s> </p></div3>
+          <div3 type="artikkel"><head> Ei taha olla negatiivne näide </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Viio Aitsam </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Kohanimenõukogu pooldab Turbuneemet , külarahvas Turbaneemet </hi> </s> </p>
+<p> <s> “ Meie küla inimesed leidsid nüüd veel ühe vana kaardi , kus on kirjas 1930 asutatud Turbaneeme turbaühistu , aga mina ei jaksa enam sellega tegelda , ” ütles Turbuneeme ( praegu ametlik nimi ) ehk Turbaneeme ( praegu mitteametlik nimi ) küla elanik Elve Kuuskmäe , kes on kaks aastat külarahvast vaidlustes esindanud . </s> </p>
+<p> <s> Siiski tahtis ta ära seletada , kuidas vaidlused kohanimenõukoguga seni käinud on . </s> </p>
+<p> <s> “ Maalehes ilmunud intervjuus märkis kohanimenõukogu sekretär Elvi Sepp meie küla vaidlust negatiivse näitena . </s> <s> Ei taha negatiivne näide olla , ” ütles Kuuskmäe . </s> </p>
+<p> <s> Harjumaal Loksa vallas asuva küla rahvas mäletab ta sõnul , kuidas 1970. aastate keskel muutus nende Turbaneeme küla ametlikult äkki Turbu-neemeks . </s> <s> Kohalikelt elanikelt ei küsinud keegi midagi . </s> </p>
+<p> <s> 80ndate algul püüdis kohalik kodu-uurija Väino Piikmann külanime muutmise vastu protesteerida . </s> <s> Kirjutas artikli Harju rajooni ajalehte , aga seda ei avaldatud . </s> </p>
+<p> <s> 90ndate lõpul , kui kohanimenõukogu algatas terves Eestis külanimede ennistamise , arutas külarahvas asja oma külakoosolekul ja võttis vastu otsuse , et ka nemad tahavad taotleda külanime ennistamist Turbaneemeks . </s> <s> Nad tegid vallavalitsusele kirja ja said Loksa vallavolikogu toetuse . </s> </p>
+<p> <s> 1999 asutati külas ka mittetulundusühing Turbaneeme ja korraldati Turbaneeme küla päev . </s> </p>
+<p> <s> <hi rend="rasvane"> Mitu korda öeldud “ ei ” </hi> </s> </p>
+<p> <s> Aga see külanime muutmise taotlus , mis vallavalitsusest liikus edasi siseministeeriumi ja sealt kohanimenõukogusse , sai eitava vastuse . </s> </p>
+<p> <s> “ Mitte nõustuda Turbunee-me muutmisega Turbaneemeks , sest selline nimekuju ei ole ajalooline ega vasta ka rahvalikule tarvitusele , ” seisis kohanimenõukogu otsuses . </s> </p>
+<p> <s> Nõukogu viitas , et Eesti Keele Instituudi kohanimekartoteegi andmetel on rahvasuus küla nimetatud Turbunee-meks või Turbineemeks . </s> <s> Samuti on nimekuju Turbunee-me kasutatud varasemates kirjalikes allikates . </s> </p>
+<p> <s> Kohanimenõukogu märkis veel , et 13 allkirja nime muutmise taotluse all ei pruugi väljendada külarahva enamuse soovi . </s> </p>
+<p> <s> Seepeale tegid külainimesed uue taotluse , millele kirjutas alla 30 inimest . </s> <s> “ Külas on üldse natuke üle 60 inimese . </s> <s> Kes hiljem on juurde tulnud , nendel on ükskõik , kas taastada nimi või mitte . </s> <s> Need , kes varasemat nime mäletavad , tahavad seda tagasi , ” selgitas Elve Kuuskmäe . </s> </p>
+<p> <s> Nüüd osales kohanimenõukogu koosolekul ka kodu-uurija Väino Piikmann , kes rõhutas , et külarahva soov tähendab nime ennistamist . </s> <s> Aga nõukogu polnud lõpuks ikka nimevahetusega nõus . </s> </p>
+<p> <s> “ Kui rahvas kasutab nüüd Turbuneeme asemel Turbaneeme nimekuju , siis on see rahvaetümoloogiline muutus toimunud võrdlemisi hiljuti , sest seda hääldust pole nimekogujad varem märganud , ” ütles koosolekul keelemees Peeter Päll , kes peab just nimekuju Turbuneeme ajalooliseks ja väärtuslikuks . </s> </p>
+<p> <s> Nõukogu liige Ants Kraut pakkus , et nimekuju Turbaneeme võiks säilitada näiteks kohalike seltside nimetustes . </s> <s> Aga nõukogu lõppotsus oli , et nad ka nendes nimetustes Turbaneemet ei aktsepteeri . </s> </p>
+<p> <s> Külarahvast esindanud Elve Kuuskmäe protestis nõukogu otsuse vastu eelmise aasta novembris kirjaga siseministrile . </s> <s> Sai selleaegselt ministrilt Tarmo Looduselt vastuse , et niivõrd värvikas nimekuju nagu Turbuneeme peaks säilima . </s> </p>
+<p> <s> <hi rend="rasvane"> Veider olukord </hi> </s> </p>
+<p> <s> “ Asi on veider selles mõttes , et külarahvas ja vallavolikogu tahavad ühte moodi , aga Tallinna saksad otsustavad teistmoodi ära , kuidas meie küla nimetada , ” ütles Elve Kuuskmäe . </s> </p>
+<p> <s> Külas moodustatud mittetulundusühing on endiselt Turbaneeme nimega . </s> <s> Paljud külainimesed kasutavad kõnes samuti just seda nimekuju . </s> </p>
+<p> <s> Kuuskmäe sõnul on nüüd nagu pahupidi olukord , kus teatud aegadel vaid rahvasuus kasutatud murdekeelne Tur-buneeme on ametlik külanimi , aga kaasaegne rahvasuu kinnitab kirjakeelset Turba-neemet . </s> </p>
+<p> <s> <hi rend="rasvane"> Peeter Päll , Eesti Keele Instituudi nimeuurija : </hi> </s> </p>
+<p> <s> Olgu kõigepealt öeldud , et Turbuneeme nime muutmata jätmise taga ei ole mitte ametnike kius ega Tallinna sakste jonn , vaid see , et kohanimenõukogu jäi uskuma kohanimespetsialistide kinnitust , et Turbuneeme nimi on tõesti vana , rahvapärane ja õige ning väärib sellisena kaitset . </s> </p>
+<p> <s> Tuntud kohanimekogujad ja oma kodukandi head tundjad ei ole miskipärast märganud nime hääldust kujul Turbaneeme . </s> <s> Ka kirjalikes allikates on alates sellest ajast , kui eesti keel muutus ametlikuks , nimekujuna märgitud valdavalt Turbuneeme . </s> </p>
+<p> <s> Miks tundus külarahvale , nagu oleks Turbaneeme alles 1970. aastatel nende selja taga ära muudetud , on raske öelda . </s> <s> Siiski võib seda oletada . </s> <s> Teatavasti polnud 1920.-1930. aastatel olemas üle-eestilist külade ametlikku nimestikku ja seetõttu oli nimekasutus kõikuv , valdades olid sageli omad nimekujud erinevalt üleriigilistest nimestikest . </s> </p>
+<p> <s> Arvatavasti sel ajal võttis Kõnnu vald oma asjaajamises kasutusele Turbaneeme kuju , nii nagu seda näitavad Elve Kuuskmäe dokumendid . </s> <s> Niisugune seis jätkus ka mõnda aega pärast sõda . </s> <s> Kui 1977. a esimest korda kehtestati Eesti maa-asulate ametlik nimekiri , hakati selle täpset järgimist kõigilt nõudma . </s> </p>
+<p> <s> Sellega koos vahetati teeviitasid , bussipeatuste silte , korrastati dokumentatsiooni jne. </s> <s> See ehk tekitaski mulje , et nimi on muutunud , kuigi , nagu näha , mingit nimemuutmisotsust polnud ega saanudki olla . </s> </p>
+<p> <s> Turbaneeme nimekuju seletuseks on rahvaetümoloogiline muutumine . </s> <s> See tähendab , et kui nimi või selle osa muutub kasutajale raskesti arusaadavaks , siis asendatakse see mõne tuntud sõna või muu nimega . </s> <s> Nime algusosa Turbu- on tänapäeval raskesti seletatav , Turba- seevastu kõigile tuntud sõna , sellest ka muutuse loogika kasutaja jaoks . </s> </p>
+<p> <s> Praegu me enam ei tea , kas see muutus tekkis spontaanselt või mõtles selle välja omaaegne vallaametnik , kes tahtis tundmatut nime kuidagi seletada . </s> <s> Viimasel juhul tuleks rääkida kantseleietümoloogiast , sest tegemist oleks siis n-ö sulepeast välja imetud nimekujuga . </s> </p>
+<p> <s> 1930. aastatel suhtuti kahjuks sageli suure halvakspanuga murdekeelde , mida peeti vigaseks ja eesti kirjakeelele kahjulikuks . </s> <s> Kohanimede puhul väljendus see suhtumine püüdes asendada kõik asjaosaliste meelest murdelised kujud . </s> </p>
+<p> <s> Külanime praegu muuta soovijate arvates on Turbuneeme murdeline nimi , Turbaneeme aga kirjakeelne nimi . </s> <s> Kuid seda saaks väita ainult siis , kui oleks kindlalt teada , et nime algusosa pärineb sõnast “ turvas ” . </s> <s> Keeleuurijad seda kinnitada ei söandaks . </s> <s> Turbuneeme on niisama kirjakeelne nimi nagu muudki Eesti kohanimed . </s> <s> Murdelised nimed oleksid seevastu näiteks Turbunieme või Turbinieme . </s> </p>
+<p> <s> Mis teha , kas külanimi tuleks tõesti ringi muuta , kui kogu külarahvas kasutab nüüd Turbaneeme nime ? </s> <s> Kui see tõesti nii on , siis tuleb ilmselt tõdeda , et ajalugu on veel ühe eesti kohanimega vingerpussi mänginud . </s> </p>
+<p> <s> Lohutuseks jäävad siis Elve Kuuskmäe read kirjast kohanimenõukogule : “ Pole vaja karta , et Turbuneeme nimi kaotsi läheb - kes rannamurret räägib , kasutab seda edaspidigi . ” </s> <s> Kuid kas on head seletust sellele , miks siiski pagendada vana ja väärikas kohanimi üksnes murdekeele rääkijate suhu , keda niigi jääb aastatega üha vähemaks ? </s> </p>
+<p> <s> P. S. Elve Kuuskmäe kirjas leiduv etteheide , et Loksa vallas oleks Loksa küla asemel tulnud nimekirja panna Aasuküla , mida kohapealne rahvas tarvitab , on aga igati põhjendatud . </s> </p>
+<p> <s> Tuleb üksnes kahetseda , et vald õiget nime ei esitanud ja kohanimeuurijad seda omal algatusel välja ei selgitanud . </s> <s> Niisuguse vigade paranduse peaks kindlasti ette võtma , selle saaks aga seaduse kohaselt algatada vallavolikogu . </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Reportaaž </head>
+          <div3 type="artikkel"><head> Kümme päeva kivi kallal tolmutamist </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Erika Klaats </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Paides lõppesid eile kuuendad paepäevad , mille tulemusel valmis Vallimäel kümmekond uut kiviskulptuuri </hi> </s> </p>
+<p> <s> “ Asume liiga Eestimaa keskel . </s> <s> Igale poole on kiviga visata ja inimesed lähevadki Paidest minema - kas Tallinna või mõnesse teise linna , ” muretseb Paide paepäevade ninamees Jaak Salmar . </s> <s> “ Selleks need paepäevadki said käima lükatud , et linnale atraktiivsust lisada . ” </s> </p>
+<p> <s> Viie eelmise aasta jooksul on paekivist kunstitöid Paidesse kogunenud üle viiekümne . </s> <s> Tuntuim kindlasti Laur Tiidemanni “ Hääletaja ” , kes tervitab linna sissesõitjaid Tallinna tänava alguses . </s> </p>
+<p> <s> Paidelased naljatavad , et kui samas tempos edasi läheb , on varsti terve linn skulptuuridega kaetud . </s> </p>
+<p> <s> Jaak Salmar unistab aga Vallimäe skulptuuripargist . </s> </p>
+<p> <s> Miks tulevad kunstnikud paekiviga jändama ? </s> </p>
+<p> <s> Kirke Kangro käis paepäevadel esimest korda neli aastat tagasi . </s> <s> Tollest ajast jäi meelde väga hea seltskond ja suurepärane korraldus . </s> </p>
+<p> <s> Eneken Maripuu pole varem Paides käinud , kuid tema meelest elavad selles linnas väga kunstisõbralikud inimesed . </s> <s> “ Kui tekib idee , aidatakse seda ellu viia . </s> <s> Kui on vaja mõnd detaili , tuuakse see kohale . ” </s> </p>
+<p> <s> Jaak Salmar nimetab seekordset seltskonda tohutult töiseks . </s> <s> Eelmistel kordadel on mõtlemise ja otsimise faas tunduvalt pikem olnud . </s> <s> “ Seekord kohe teisel päeval masinad undasid ja haamrid toksisid , ” kinnitab Salmar . </s> </p>
+<p> <s> Alati on grupis olnud keegi , kellega teistest rohkem arvestatakse , kelle poole vaadatakse . </s> <s> Tänavu nimetatakse Ants Viitmaad . </s> <s> “ Antsul on ilus skulptori käekiri , ” põhjendab üks . </s> <s> “ Ning ta on ainus , kes tuli ideekavandiga , ” lisab teine . </s> </p>
+<p> <s> Vabakutseline kunstnik Ants Viitmaa ise kiidab ühistegevuse head mõju . </s> <s> Keegi ei põe , et miski võiks viltu minna . </s> <s> Ja kui keegi hakkabki põdema , minnakse talle appi . </s> </p>
+<p> <s> Skulptuur läheb seistes paremaks nagu igasugune kunst , arvab Viitmaa . </s> <s> Kõik eelmistel aastatel tehtud kujud tunduvad tema meelest väga head . </s> <s> “ Nagu oma laps , keda pole mitu aastat näinud , ” võrdleb Olav Villmann . </s> <s> Tema meelest on kõige õigem teha tööd nii , et ükskõik mis hetkel see ka pooleli ei jää , tunduks ikka valmis . </s> </p>
+<p> <s> “ Kui hästi see närve rahustab ! ” vaimustub Kirke Kangro . </s> <s> Ja lisab kavalalt silmi vidutades : “ Minu meelest on kõige hullemad tööd külmkapi sulatamine ja puhastamine , aga kivi raiumine pakub esteetilist naudingut . ” </s> </p>
+<p> <s> Viitmaa kinnitab , et oskus asju mitme kandi pealt näha on ka skulptorite huumorisoont ergutanud . </s> </p>
+<p> <s> Kivi on mõnus materjal , kiidavad kõik koos . </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Inimesed </head>
+          <div3 type="artikkel"><head> Ants Käsperi sool ja pekk </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Tõnu Hagelberg </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Mulgimaa mees Ants Käsper murdis välja maailma ning sai kuulsaks ja rikkaks </hi> </s> </p>
+<p> <s> Talleggi juht Ants Käsper sai läinud pühapäeval 66aastaseks . </s> <s> Esmaspäevast on ta pensionär . </s> </p>
+<p> <s> Mis edasi ? </s> </p>
+<p> <s> “ Osalen juba paaris äriühingus . </s> <s> Võibolla tuleb kinnisvaraäri . </s> <s> Ehk lähen tööle nõuandjana Ukrainasse , ” kostab Käsper . </s> <s> Seni on tema töö olnud seotud kanade ja munadega . </s> </p>
+<p> <s> Kumb oli enne , muna või kana ? </s> </p>
+<p> <s> Käsper naerab . </s> <s> “ Ei sellele oska keegi vastata ! </s> <s> Mõlemad on tähtsad . ” </s> </p>
+<p> <s> Suure-Jaanist kilomeeter maad eemal , täpselt Võhma-Taevere teeristile jääva maja juures kiikab Ants Käsper alati üle aia , kui ta sealt mööda juhtub sõitma . </s> </p>
+<p> <s> Siin ta sündis . </s> </p>
+<p> <s> <hi rend="rasvane"> Kuuliaugud koduseinas </hi> </s> </p>
+<p> <s> Sõja lõpupäevadel voorisid Suure-Jaani kandis taganevad Saksa üksused nii tihedalt mööda teed , et karjapoiss Ants Käsper ei pääsenud kahe lehmaga üle tee isatallu tagasi . </s> </p>
+<p> <s> Järgmisel ööl tagusid venelased ukse taga . </s> <s> Antsu vanemad ei teinud kuulma . </s> <s> Hommikul näidati terve öö rahulikult maganud Antsule köögiaknast sisse tulistatud automaadivalangu jälgi . </s> <s> “ Ei tundnud ma mingit ärevust , ” meenutab Käsper . </s> </p>
+<p> <s> Kuigi isatalus on ammu võõrad inimesed , on Lõhavere jäänud tema südamesse kui armas sünni- ja kodukoht . </s> <s> “ Seitse-kaheksa hektarit põldu , heinamaa , kaks lehma , üks hobune , kanad , sead . </s> <s> Üks õde , kaks venda . </s> <s> Veel oli üks vend . </s> <s> Tema suri 12aastaselt . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Solvumispisarad </hi> </s> </p>
+<p> <s> Koolivend Suure-Jaani keskkoolist ning hilisem kursusekaaslane EPAs Heino Veldi kinnitab , et Ants Käsper polnud pealtnäha mingi eriline poiss . </s> <s> “ Ta oli enesesse tõmbunud , aga sõbralik ja heatahtlik , alati nõus kaasa tulema , ” räägib hilisem agrotööstuskomitee esimees ja ENSV Ministrite Nõukogu esimehe esimene asetäitja Heino Veldi . </s> </p>
+<p> <s> “ Tal läks õppimine paremini kui mul , mina olin rohkem koerusetegija , ” sõnab Suure-Jaanis elav Tõnis Käsper , kes vend Antsust kaks aastat noorem . </s> <s> “ Ants tegi poksi , suusatas , jooksis . </s> <s> Üldse pööras tervisele tähelepanu . ” </s> </p>
+<p> <s> Kas oli näha , et Ants saab kuulsaks ja rikkaks ? </s> </p>
+<p> <s> “ Ei seda oska küll öelda . </s> <s> Ta oli ikka täitsa tavaline poiss . </s> <s> Aga edasipüüdlik oli küll , läks omal käel EPAsse õppima . ” </s> </p>
+<p> <s> Ka klassiõde Silvi Linnu arvates polnud Ants liider . </s> <s> Poiss unistas meremehe elukutsest , aga tervis polnud nii hea . </s> <s> Veel varem aga tahtis ta isa eeskujul kolhoosi arveametnikuks saada . </s> <s> Selle mõtte laitis perekond maha . </s> </p>
+<p> <s> “ Mina seepeale nutsin , ” naerab Ants Käsper . </s> </p>
+<p> <s> Heino Veldi kinnitab muiates , et EPAs olid nad kõvad elumehed . </s> <s> Täpsustab aga kohe , et tegelikult olid nad ehtsad maapoisid . </s> <s> “ Ega meil hinge taga muud olnud kui ainult vastutus . ” </s> </p>
+<p> <s> Tooni andsid tollal EPAs Veldi mäletamist mööda Treffneri poisid . </s> <s> Käsperil olnud selge pea ning eelkõige mõistlik mõttelaad . </s> <s> “ Käisime koos Vitebski traktoritehases praktikal ja uudismaal Kasahstanis . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Mõistlik mõttelaad karmil ajal </hi> </s> </p>
+<p> <s> “ Karm elu tahab elamist , ” iseloomustab Ants Käsper sõjajärgset mõttelaadi . </s> <s> Tema pidi EPA ajal õhtuti raha pärast Tartu jaamas vaguneid laadima . </s> <s> Paari kuu tagant käis kodus ja kui Tartusse tagasi sõitis , oli vana puukohver soolapekki täis . </s> </p>
+<p> <s> “ Meil oli ühiselamus supiühing , kapsapea ostsime turult . </s> <s> Asja ette läksid viiekopikalised keedulihapirukad , sinna juurde pudel keefirit . </s> <s> Elasime mõistlikult . ” </s> </p>
+<p> <s> Veldi ja Käsper kinnitavad ühest suust , et ega neil erilisi ambitsioone olnud . </s> <s> Tahtsid lihtsalt korralikult oma tööd teha . </s> </p>
+<p> <s> Esimesest palgast ostis Ants Käsper endale lambanahkse kasuka . </s> <s> Esimene sõiduriist oli mootorratas K-175 . </s> <s> Keila majandi kolm osakonda tuli enne kella kaheksast koosolekut läbi sõita . </s> <s> “ Et siis direktorile ette kanda , mis seis on . ” </s> </p>
+<p> <s> “ Ants oli sile poiss , tüdrukutele meeldis , ” meenutab Heino Veldi . </s> <s> Oma tulevase naisega tutvus Ants Käsper 1961. a. “ Minule tähendab naine kodu . </s> <s> Et oleks , kuhu tulla , kus mind oodatakse ja kus minu eest hoolitsetakse . </s> <s> Mina aga vastutan ka naise heaolu eest . ” </s> </p>
+<p> <s> Ta ütleb , et on oma naisega hästi elanud . </s> <s> “ Meil on kolm tütart , neil kõigil on ka lapsed . </s> <s> Laupäeviti on meie juures saunapäev . </s> <s> Siis on suur olemine-arutamine . ” </s> </p>
+<p> <s> Ja nüüd on tal ka elu esimene isiklik sõiduauto , 1999. aasta Audi A4 . </s> <s> “ Ostsin Talleggi ametiauto ära . ” </s> </p>
+<p> <s> Vene ajal oli Tallinna linnuvabriku võimla kuum koht , kus kolmapäeviti prominentne seltskond - näiteks ka Peeter Saul ja Neeme Järvi - võrkpalli mängis . </s> </p>
+<p> <s> See võimla ehitati linnuvabriku legendaarse direktori Aleksander Linnu ajal. </s> </p>
+<p> <s> “ Lind oli minu õpetaja , ” kinnitab Käsper . </s> <s> “ Ta õpetas kuludearvestust ja kokkuhoidu ning inimestega suhtlemist . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Osavad mehed </hi> </s> </p>
+<p> <s> Käsper ei väsi Lindu kiitmast . </s> <s> Kuid sageli käis nende vahel selline vaidlus , et pärast istus Käsper oma kabinetis ja mõtles , kas nüüd laseb Lind ta lahti . </s> <s> Lõpuks leppisid mehed aga alati kokku . </s> <s> Lind oli 17 aastat direktor , Käsper sama kaua peainsener . </s> </p>
+<p> <s> Aleksandri noorem vend , omaaegne põllumajandusminister Vello Lind ütleb , et Ants Käsper oli kohusetundlik mees , aga eelkõige oli ta rahu ise . </s> <s> “ Mitte selline temperamentne nagu mina või minu kadunud vend . </s> <s> Käsper ei tormanud kohe lahingusse , enne istus maha ja mõtles . ” </s> </p>
+<p> <s> Veel väidab Vello Lind , et kui tema vend ja Käsper omavahel midagi kokku leppisid , siis see ka pidas . </s> </p>
+<p> <s> Käsper ise toonitab vajadust mõislikke kompromisse teha . </s> <s> “ Ilma selleta ei ole edasiminekut . ” </s> </p>
+<p> <s> “ Neil olid rollid hästi ära jaotatud , ” teab ka Sven-Allan Sagris , Lagedi põhikooli endine direktor , keda praegu seob Käsperiga Lions-klubi . </s> <s> Ajaloouurija Sagrise sõnul kaitses Lind Tallinna linnuvabriku huve keskkomitees , Käsper aga sõitis samal ajal mööda maailma ringi - Holland , Taani , USA - , kogus kogemusi , uuris asja , õppis usinasti kogu aeg . </s> </p>
+<p> <s> Nõukogude impeeriumis oli tollal üle 500 linnuvabriku . </s> <s> Tallinna oma oli alati esimese viie hulgas . </s> </p>
+<p> <s> Ants Käsper meenutab , et ei partei ega ka muud ülemused sel ajal neid ei torkinud , kui tootmistulemused head olid . </s> <s> “ Kohalikud parteibossid pidid hoopis Aleksander Linnuga arvestama . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Suurt vahet pole </hi> </s> </p>
+<p> <s> Käsper muigab . </s> <s> “ Ega praegusedki bossid eriti torgi . </s> <s> Ka nemad hoiavad oma käed eemale . </s> <s> Kardavad , et äkki muidu läheb kehvemini . ” </s> </p>
+<p> <s> Käsper sõnab veidi irooniliselt , et kui tollal oli viisaastakuplaan , siis praegu nõuavad omanikud kolme aasta äriplaani . </s> <s> “ Ega ausalt öelda väga suurt erinevust polegi . </s> <s> Ainult toona oli omaniku roll viletsam . ” </s> </p>
+<p> <s> Kui ENSV parteiboss Käbin ja Bulgaaria esikommunist Živkov Iru saunas napsu võtsid , tuli kinnipitseeritud viinaklaasid enne piiritusega desinfitseerida . </s> <s> “ Pärast käis see jõeveega , ” naerab Ants Käsper , kes ka olengul viibis . </s> <s> Tollal võis säärane saunapidu Moskvast valuutaeraldisi välja võluda . </s> </p>
+<p> <s> “ Naps Käsperile ei maitsenud , ” nendib Vello Lind . </s> <s> “ No nii 3-5 pitsi ta võttis , selle eest võis ju tollal Moskva meeste käest 3-5 miljonit saada . ” </s> </p>
+<p> <s> Vello Lind : “ Naisi kabistas Ants Käsper küll . </s> <s> Seda võib kohe kindlalt öelda . </s> <s> Ikka tegi väikese pulli ära . </s> <s> Aga ta oli nende asjade suhtes tähelepanelik . ” </s> </p>
+<p> <s> Sven-Allan Sagris : “ Sellele ma eriti vastu ei vaidle . </s> <s> Aga kui Antsule mõni naine väga meeldis , siis jäi ta ka aastateks tema silmarõõmuks . ” </s> </p>
+<p> <s> Eesti vabanemisprotsessi ajal käis Käsper oma sõnul sündmustega kaasas . </s> <s> “ Ega ma palju ette mõelnud ega unistanud , arengust sammu või kaks ees ei olnud . </s> <s> Aga uusi ideid toetasin kindlalt . ” </s> </p>
+<p> <s> <hi rend="rasvane"> Raske aeg </hi> </s> </p>
+<p> <s> Kuid kõik Ants Käsperi elu- ja töökogemused pandi proovile siis , kui ta Tallinna linnuvabrikust Talleggi looma hakkas . </s> <s> “ See üleminekuaeg oli minu elu raskemaid , ” tunnistab mees praegu . </s> </p>
+<p> <s> 1990ndate algul käis Iru saunas kõva vaidlus , kuidas põllumajandusreformi läbi viia . </s> </p>
+<p> <s> Tollane Tallinna linnuvabriku direktor Ants Käsper nõudis , et reformi käigus müüdaks vabriku vara eraettevõtjaile . </s> </p>
+<p> <s> “ Oli jah kõva vaidlus , ” naerab Riigikogu liige Ants Käärma . </s> </p>
+<p> <s> Käsper ütles : ei mingeid osakuid ! </s> <s> Anname kõigile EVPd . </s> </p>
+<p> <s> Käärma raius vastu : ikka osakud ! </s> </p>
+<p> <s> Käsper hoiatas , et talusid pole mõtet alla 50-100 hektari rajada . </s> <s> Ning et talu rajaja peab ikka olema võimeline talu pidama , teadmisi peab olema . </s> </p>
+<p> <s> Nüüd tunnistab Käärma : “ Kui põllumajandusreformi tehes oleks Ants Käsperi ideid sada protsenti järgitud , oleks asi praegu parem . ” </s> <s> Käärma hindab Käsperit eelkõige kui realistlike seisukohtadega kõva töömeest . </s> </p>
+<p> <s> <hi rend="rasvane"> Visa vend , aga laulda ei oska </hi> </s> </p>
+<p> <s> 1993. a moodustati Tallegg AS . </s> <s> Vabrik oli tollal pankroti äärel , laod mune täis , Vene turg kuivas kokku . </s> </p>
+<p> <s> Käsper aga tegi uue meeskonna , tõmbas tootmise kokku , müüs kõik ülearuse - näiteks Maardu mõisa Eesti Pangale - maha , koondas juhte ja töölisi . </s> <s> Samal ajal otsis koostööd välisfirmadega Hollandist ja Belgiast , otsis raha . </s> <s> Vaidles , veenis , motiveeris . </s> </p>
+<p> <s> Eelkõige aga uskus ta endasse . </s> </p>
+<p> <s> 1995. a tuligi esimene väike kasum . </s> <s> “ Kogemus , ” vastab Ants Käsper küsimusele , kuidas ta sai oma tahtmiste-otsuste õigsuses alati nii veendunud olla . </s> </p>
+<p> <s> Vello Linnule imponeeris , et Käsper hakkas inglise keelt õppima . </s> <s> “ Mind pani imestama , et mehel oli veel nii palju tahtmist . ” </s> </p>
+<p> <s> Käsper on ka kalamees . </s> <s> “ Eriti suurt kala ma ei ole saanud . </s> <s> Paar aastat pole käinud , nüüd hakkan jälle . ” </s> </p>
+<p> <s> Heino Veldi nimetab Käsperi nõrkuseks jahikirge . </s> <s> “ Ants laseb täpselt . ” </s> <s> Vana sõbra muid nõrkusi Veldi paljastada ei kavatse , nagu ta ise naerdes kinnitab . </s> </p>
+<p> <s> Küsin , mis muusika Käsperile meeldib . </s> <s> “ “ Viljandi paadimees ” . </s> <s> Rahvalaulud , Georg Ots , “ Saaremaa valss ” , kantri , ” loetleb värske pensionär ja lisab mokaotsast : “ Ma ei ole laulumees . ” </s> </p>
+<p> <s> Ants Käsper on miljonär . </s> <s> Soomlased ja rootslased ostsid tema osaluse Talleggis ära . </s> </p>
+<p> <s> Mullu oma juubeli ajal ütles Käsper Sagrisele , et kui tema lapsed ka mõistlikult elavad-käituvad , siis jätkub raha nendegi elu lõpuni . </s> </p>
+<p> <s> “ Tal on vähemalt 50 miljonit tagataskus , ” arvab Vello Lind . </s> <s> “ Mina võtaksin Vello pakutust umbes 10 miljonit vähemaks , ” vaeb Sven-Allan Sagris . </s> </p>
+<p> <s> “ Eesti mõistes olen ma kindlasti rikas , ” kommenteerib Ants Käsper oma majandusseisu . </s> <s> “ Igatahes raha pärast ma tööd tegema ei pea . ” </s> </p></div3>
+          <div3 type="artikkel"><head> Suzanne Osten : Lapsed tunnevad suurt üksindust </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> Sama mis Eestis Merle Karusoo , on Rootsis Suzanne Osten . </s> <s> Teatriajalukku jääb Suzanne Osteni nimi esimese Rootsi lastetragöödia autorina . </s> </p>
+<p> <s> Ta peab oma elu mõtteks teha professionaalset lasteteatrit . </s> <s> Sest lapsed pole väärt mitte ainult muinasjutte , vaid ka ausalt lavastatud draamasid , kus lugu reeglina ei lõpe õnnelikult . </s> <s> Nagu elus enamasti . </s> </p>
+<p> <s> <hi rend="rasvane"> Suzanne , kas te nõustute Rootsi pedagoogi Ellen Key poolt peaaegu sada aastat tagasi öelduga , et XX sajand on lastesajand ? </hi> </s> <s> Teatud mõttes on see õige . </s> <s> Aga võib väita ka vastupidist . </s> <s> Dostojevski kirjeldas ühes oma romaanis stseeni , kuidas mõlemad - isa ja ema vägivallatsesid lapse kallal . </s> <s> Et kirjeldus oleks tõetruu , pidi ta materjali hankima politseijaoskonnast . </s> </p>
+<p> <s> Niisuguse sisuga protokolle jagus tollal ja neid on küllaga ka rohkem kui sada aastat hiljem . </s> <s> Ning kahjuks igas riigis . </s> </p>
+<p> <s> <hi rend="rasvane"> Kas ka rahulikus ja turvalises Rootsis ? </hi> </s> </p>
+<p> <s> Ka siin . </s> <s> Näiteks lämmatas üks noor isa oma imikust lapse ainuüksi sellepärast , et see karjus . </s> <s> Sellist julmust on allasurutud inimeste hulgas palju . </s> </p>
+<p> <s> Vaesus ja ebaõnn teevad inimese kalgiks . </s> <s> Ning siis juhtub kõike - seksuaalsest ahistamisest kuni tapmiseni . </s> </p>
+<p> <s> Et laps on kaitsetumas olukorras , siis sageli valib täiskasvanu vägivalla ohvriks just lapse . </s> </p>
+<p> <s> Samas tegeleb laste turvalisuse küsimustega väga palju institutsioone . </s> <s> Parlamendiliikmetest alates ja mittetulundusühingutega lõpetades räägitakse palju lapse õigustest ja üht-teist on ka ette võetud . </s> <s> Tõenäoliselt pole laps enam nii lootusetus olukorras kui XIX ja XX sajandi vahetusel . </s> </p>
+<p> <s> <hi rend="rasvane"> Suzanne , te olete kirjutanud , et kuni 40. eluaastani polnud teil kombeks nutta . </hi> </s> <hi rend="rasvane"> <s> Ent nüüd nutate sageli . </s> <s> Mis sundis teid seda vanusega tulnud nõrkust avalikustama ? </s> </hi> </p>
+<p> <s> Selleks on tarvis pisut enam tunda Rootsi tausta . </s> <s> Tollal , kui ma laps olin , oli Rootsis normiks mitte oma tundeid välja näidata . </s> <s> Tuli maha vaikida , mis hingele haiget teeb . </s> <s> Minu ema oli skisofreenik . </s> <s> Ma ei öelnud seda kellelegi . </s> </p>
+<p> <s> Ma tean väga palju inimesi , kellel on seljataga samasugune raske lapsepõlv . </s> <s> Nad kõik vaikisid . </s> </p>
+<p> <s> Tudengiajal aga olin ma aktiivne vasakpoolne . </s> <s> Tunnete väljanäitamist peeti loomulikult kodanlikuks . </s> <s> Kuna meie vihkasime kodanlust , siis oli igasugune tundlemine täiesti välistatud . </s> </p>
+<p> <s> Ent seejärel võttis tasahilju kogu maailmas maad ja tungis ka minu ellu psühhotreeningute aeg . </s> <s> Me hakkasime tegelema lastega . </s> <s> Ühtäkki sain aru , et selle vahel , mida me neile õpetame ja mis on laste tegelik kogemuste pagas , valitseb tohutu suur kuristik . </s> </p>
+<p> <s> Näiteks seletasime lastele , et te peaksite olema üksteise vastu kenad ja kõike üksteisega jagama . </s> <s> Ent koolivägivald oli nii ulatuslik , et nad olid valmis peaaegu et üksteist tapma . </s> <s> Kui lapsel valitsesid ka kodus keerulised suhted , siis tähendas see talle kaelamurdvat ülesannet sellest kõigest puhta nahaga välja tulla . </s> </p>
+<p> <s> <hi rend="rasvane"> Aga täiskasvanute roll ? </hi> </s> </p>
+<p> <s> Täiskasvanud on oma laste suhtes suured idealistid . </s> <s> Lapsevanemate meelest peavad lapsed vaid seda ja teist õppima , mida nad tunnevad , seda emad-isad ei tea . </s> </p>
+<p> <s> Algul ma tegelesin laste intervjueerimisega . </s> <s> Siis ei suutnud ma ikka veel taibata , kuidas saaks lastele kasulik olla . </s> <s> Hakkasin teatrit tegema . </s> </p>
+<p> <s> Ja ühtäkki avanesid mu silmad mu enese lapsepõlve suhtes . </s> <s> Järsku taipasin , kui palju ängi kannan ma lapsepõlvest saati enese teadmata kaasas . </s> </p>
+<p> <s> Kõige rohkem on lapsepõlves kinni kirjanikud ja kunstnikud . </s> <s> Lapsepõlv on nagu kullaauk , kust ammutada mõtteid oma loominguks . </s> <s> Mõtestada iseennast ja maailma . </s> </p>
+<p> <s> 70ndate alguses ujus pinnale mõte , et oma lapsepõlvest peab rääkima , rääkima , rääkima ... </s> <s> Sellega seoses leidsin ma enda jaoks võtme : ma avastasin , et teatri tegemist saab ühendada psühhoteraapiaga . </s> <s> Parasjagu oli meil käsil lapsepõlve muresid käsitlev projekt . </s> </p>
+<p> <s> Teisisõnu : laste probleemid viisid mind mu enda lapsepõlve probleemide juurde , ma rääkisin enesega selgeks kõik skisofreeniaga kaasneva . </s> </p>
+<p> <s> <hi rend="rasvane"> Kes teile teed näitas ? </hi> </s> </p>
+<p> <s> Alice Miller <hi rend="kaldkiri"> ( Šveitsi psühholoog ja autor - toim ) . </hi> </s> <s> Ta kirjutas 80ndatel paar tuliseid väitlusi tekitanud raamatut . </s> <s> Tema “ Andekas laps ” kirjeldab olukorda , kus andekas laps pole kõigest hoolimata õnnelik . </s> <s> Ja seda sellepärast , et täiskasvanud nõuavad lapselt väga palju . </s> </p>
+<p> <s> Imelaps , nagu Alice Miller ka ise oli , peab tegelikult oma vanemaid teenima . </s> <s> Psühhoanalüütilisest küljest vaadates on andeka lapse ainus võimalus tantsida ema-isa pilli järgi . </s> <s> Teha kõike seda , mida vanemad sind tegema sunnivad . </s> <s> Ma alustasin koostööd Alice Milleriga . </s> </p>
+<p> <s> <hi rend="rasvane"> Sellest sündis laineid löönud kuulus rahvusvaheline teatriprojekt . </hi> </s> </p>
+<p> <s> Küllap “ Hitleri lapsepõlv 84 ” seda oli vist jah . </s> <s> Me ei kavatsenud Hitlerit süüst puhtaks pesta , aga katsusime analüüsida tema lapsepõlve . </s> <s> Kunagi oli ju temagi süütu lapsuke . </s> <s> Kuidas ikkagi juhtus , et temast sirgus peaaegu et elajas ? </s> </p>
+<p> <s> Alice Milleri teooria on , et kui sa last regulaarselt peksad - just nagu armastuse märgiks ja loomulikult kasvatuslikul eesmärgil - ning allasurutud lapsel pole kordagi võimalust vägivallatsevale vanemale kätte maksta , siis just sellisest lapsest võib kasvada fašist . </s> <s> Selline , kes vihkab teda ümbritsevaid nõrku inimesi . </s> </p>
+<p> <s> Kui nüüd kaarega tagasi tulla minu kunagise nutmist puudutava avalduse juurde , siis ... </s> <s> Inimesel on õigus oma nõrkust välja näidata , ilma et ta sealjuures nõrk oleks . </s> </p>
+<p> <s> Ma muidugi ei vesista Ameerika tobedaid seebioopereid vaadates , kui aga miski liigutab tõeliselt , siis ma ei pelga poetada pisarat . </s> <s> Ma räägin ennekõike kunstist . </s> </p>
+<p> <s> <hi rend="rasvane"> Suzanne , miks te pöördusite laste temaatika juurde ja kirjutasite oma nii palju kiidetud ja sarjatud näidendi “ Medeia lapsed ” ? </hi> </s> </p>
+<p> <s> Ma ei ole sugugi kogu oma loomingulise tegevuse vältel ainuüksi lastega tegelnud . </s> <s> Mul on filme ja lavastusi , mille keskmes on täiskasvanud . </s> <s> Ent pöördumine laste maailma on väga viljakas tegevus . </s> </p>
+<p> <s> Räägitakse , et kirjanik kirjutab elu vältel kogu aeg ühte ja sedasama raamatut . </s> <s> Mina olen mõelnud , et peaks vaimuhaiguse teema juurde võib-olla tagasi pöörduma . </s> <s> Seega mitte niivõrd laste temaatika , kuivõrd lapsepõlve temaatika . </s> </p>
+<p> <s> See algas tabu-teema lahkamisega . </s> <s> Mis on tabu lapsele ? </s> <s> Surm . </s> <s> Jah , aga see on juba täiesti äärmuseni viidud teema . </s> <s> Mis veel on tabu ? </s> <s> Lahutus . </s> <s> Just sellest niidiotsast ma kinni haarasingi . </s> </p>
+<p> <s> <hi rend="rasvane"> Lahutuse traagilistest tagajärgedest jutustav “ Medeia lapsed ” on siiamaani poleemikat tekitanud . </hi> </s> </p>
+<p> <s> Näiteks Ameerikas ei tohi seda näidendit siiamaani lavastada . </s> <s> Pole ju kombeks teha lastelavastusi kurbadest ja elulistest asjadest . </s> <s> Rootsis aga läks asi 1975. aastal nii-öelda kaubaks . </s> <s> Seda võimaldas sõjajärgne majanduslik õitseng ja sotsiaaldemokraatia - mul lasti mu “ teater teatris ” eksperiment ellu viia ja ma rääkisin seal lahutuse kõikidest külgedest . </s> </p>
+<p> <s> <hi rend="rasvane"> Kas teatri valik oli juhuslik ? </hi> </s> </p>
+<p> <s> Hoopiski mitte . </s> <s> Kui ma tahtnuks lavastada lahutuseteemat päris maalastele või kusagil väikelinnas , siis see lihtsalt ei oleks olnud võimalik . </s> <s> Stockholmis aga on keskmisest vabameelsemad kooliõpetajad ja nii ma teadsin , et pealinn oli ainuvõimalik valik . </s> </p>
+<p> <s> Muide , kui me hiljem oma lavastusega väljasõite tegime , siis nii mõnigi kord keeldusid provintsikoolid meid vastu võtmast . </s> <s> Sama juhtus ka Berliinis . </s> <s> Nad tegid lavastuse , aga koolid eirasid “ Medeia laste ” etendust . </s> </p>
+<p> <s> <hi rend="rasvane"> Algus oli raske , aga kaela see siiski ei murdnud . </hi> </s> </p>
+<p> <s> Meie tähelepanu koondus liberaalsetele õpetajatele . </s> <s> Iseenda huvidest lähtuvalt ei too ju lapsevanemad teismelisi lapsi vaatama etendust , kus täiskasvanuid kritiseeritakse . </s> </p>
+<p> <s> Kõik sõltus pedagoogide heast tahtest . </s> </p>
+<p> <s> Me seletasime neile , et nii nagu täiskasvanud väärivad heal tasemel kunstilist elamust , nõnda väärivad seda ka teismelised . </s> <s> Meie pakkusime seda . </s> </p>
+<p> <s> <hi rend="rasvane"> Mida arvas Rootsi ühiskond teie äärmuslikust aususest ? </hi> </s> </p>
+<p> <s> “ Medeia lapsed ” kui esimene Rootsi lastetragöödia on nüüd klassika . </s> <s> Omal ajal tahtis igaüks seda näha , et teada saada , millega tegu on . </s> <s> Lavastusel oli palju vaenlasi , aga ka sama palju sõpru . </s> </p>
+<p> <s> Rootsi teatri ajaloo seisukohalt pean tähtsaks seda , et need näitlejad , kes ühtäkki olid oma näitlejatööga tähelepanu keskmesse tõusnud , said kinnitust , et lastele mängimine pole midagi teisejärgulist . </s> <s> Kogu ühiskonnale oli see signaal , et lapsed väärivad head teatrit , ja nüüd pajatavad sellest paljud poliitikud . </s> </p>
+<p> <s> Nii et midagi oleme Rootsi ühiskondliku mõtte arengus suutnud muuta küll . </s> <s> Ja jutt ei ole mitte üksnes lasteteatrist . </s> <s> Ma võiksin loetleda lausa kümmekond Rootsi kirjanikku , kes kirjutavad kõrgel kunstilisel tasemel just lastele . </s> <s> Samamoodi võin nimetada kümme Rootsi lavastajat , kes teevad suurepäraseid lasteetendusi . </s> </p>
+<p> <s> <hi rend="rasvane"> Lapsevanemad väidavad alatihti , et laps on väike ega saa sellest või teisest aru . </hi> </s> </p>
+<p> <s> Ma vihastan sellise väite peale hingepõhjani , kuna tegemist on laste alahindamisega . </s> <s> Sellist laste alahindamist on Rootsis paraku üsna palju . </s> </p>
+<p> <s> <hi rend="rasvane"> Kas viimase 27 aastaga on Rootsi laste elus palju muutunud ? </hi> </s> </p>
+<p> <s> Tööstusrevolutsioon kappab täie auruga edasi . </s> <s> See tähendab , et rootslased töötavad väga pingeliselt , mis omakorda tähendab , et aega laste jaoks napib . </s> <s> Kui me 70ndatel usutlesime Rootsi lapsi , siis nad kurtsid , et täiskasvanutel ei jagu nende jaoks aega . </s> <s> Praegu jagub Rootsi emadel-isadel järeltulijate jaoks veelgi vähem aega . </s> </p>
+<p> <s> 80ndate majanduslangus sundis meid sulgema lasteaedu ja noortekeskusi . </s> <s> See kõik ühtekokku on toonud kaasa olukorra , kus lastepsühhiaatrite uste taga looklevad pikad järjekorrad . </s> <s> Ja üks tänapäeva põhimuresid on poiste ja tüdrukute enesetapud . </s> <s> Lapsed on sügavas stressis . </s> </p>
+<p> <s> <hi rend="rasvane"> Stressi peetakse ju täiskasvanute probleemiks . </hi> </s> </p>
+<p> <s> Minu meelest pole suurt vahet , kas inimene on suur või väike . </s> <s> Laste maailm näeb välja üsna samasugune kui täiskasvanute oma . </s> <s> Nad kannatavad samamoodi . </s> <s> Tegelikult kannatavad nad isegi rohkem , sest neil puuduvad täiskasvanutele omased kaitsemehhanismid . </s> </p>
+<p> <s> Lapsed on jäetud üksi , sest põlvkonnad elavad eraldi . </s> <s> Nende vanaisad-vanaemad elavad kusagil eemal ja lapsed on sunnitud olema palju omapäi . </s> <s> Tõsi , nad käivad trennis , balletikoolis , muusikatunnis . </s> <s> Nagu täiskasvanud , on nad väga hõivatud , aga nad ju pole täiskasvanud . </s> </p>
+<p> <s> Nii et üksindus on laste probleem number üks . </s> <s> Ühelt poolt materiaalne rikkus ja teisalt vaimne tühjus . </s> <s> Selline olukord on alarmeeriv . </s> </p>
+<p> <s> <hi rend="rasvane"> Kus näete teie kui kunstnik lahendust ? </hi> </s> </p>
+<p> <s> Ärge seda minult nõudke ! </s> <s> Ma jälgin ühiskonnas toimuvat , aga ei paku lahendusi . </s> <s> Kuna me oleme usutlenud paljusid koolilapsi , siis minu järeldus on : kool on väga hea ja väga halb üheaegselt . </s> </p>
+<p> <s> Palju ripub ära õpetajatest . </s> <s> Rootsi õpetajad kurdavad , et nad peavad olema nii vanemad , sotsioloogid , psühholoogid kui ka õpetajad . </s> <s> Liiga palju rolle ! </s> <s> Samas - läbi aegade on õpetajatel tulnud sellist koormat kanda . </s> <s> Kes seda jaksab , muudab kooli lapse jaoks fantastiliseks kohaks . </s> <s> Võib aga olla ka otse vastupidi : kool on hirmuäratav koht , kus laps tunneb end täielikus kaoses . </s> </p>
+<p> <s> <hi rend="rasvane"> Rääkigem televisiooni osast lapse elus . </hi> </s> <hi rend="rasvane"> <s> On telekas lapse sõber või vaenlane ? </s> </hi> </p>
+<p> <s> Ilmselt keegi ei vaidle vastu , et on otsene seos märulifilmide vaatamise ja vägivalla kasutamise vahel . </s> <s> Mida üksikumana inimene end tunneb , seda enam ta televiisorit vaatab . </s> </p>
+<p> <s> Lastega on samamoodi . </s> <s> Me ei saa eitada , et filmimõrvade vaatamine mõjutab laste alateadvust . </s> <s> Kui kodusoojust pole , siis võib teleka ette naelutatud vägivalla- ja pornofilme vaatavast lapsest kasvada jõhkard . </s> <s> Teisalt võib televisioon olla suurepärane kasvataja , kui vanemad õigeid saateid valivad . </s> </p>
+<p> <s> <hi rend="rasvane"> BBC uuringus on ilmnenud , et lapsepõlves enam kui üks tund päevas telekat vaadanud lastest on saanud suhteliselt tasakaalutud ja agressiivsevõitu täiskasvanud . </hi> </s> </p>
+<p> <s> Ma kirjutan sellele järeldusele kahe käega alla . </s> <s> Kuid uskuge mind , maailmas on tehtud palju uuringuid , mis tõestavad vastupidist : märulifilmide vaatamine ei tee lastele mitte midagi halba . </s> </p>
+<p> <s> Jumal tänatud , et minu oma ellu tuli televisioon alles siis , kui olin kaheteistkümnene . </s> <s> Minu lapsepõlves olid väga olulised koomiksid . </s> <s> Kõik rääkisid , kui halvasti need moraalile mõjuvad , aga ometi ahmisid neid kõik . </s> </p>
+<p> <s> Samas seisus on tänapäeval televisioon . </s> <s> Mind teeb murelikuks Rootsi liberaalne suhtumine pornograafiasse . </s> <s> 12-13aastased on väga uudishimulikud ja pornograafia huvitab neid kangesti . </s> <s> Muide , seksijutud algavad juba 6aastaselt , ilma et lapsel oleks vähimatki aimu , kuhu ja kuidas seda asja panema peaks . </s> </p>
+<p> <s> Mina näiteks mõtlen , kas noortegängi liige käitub grupivägistamise ajal nagu filmis või teeb nagu teised . </s> <s> Mida ta sealjuures tegelikult tunneb ? </s> <s> Need on küsimused , mis mind vaevavad . </s> </p>
+<p> <s> <hi rend="rasvane"> Mis te arvate , miks on oluline tundeid välja näidata , selle asemel et iga hinna eest varjata , mida süda tunneb ? </hi> </s> </p>
+<p> <s> Mulle hakkab kõige enam vastu küünilisus . </s> <s> Et miski pole püha , et millessegi ei saa uskuda , et kõik on selge ja kõik on ammuilma teada . </s> </p>
+<p> <s> Mina ei soovi kuuluda küünikute hulka . </s> <s> Teisest küljest ei kuulu ma tundlejate hulka . </s> <s> Juba lapsepõlves ei meeldinud mulle sentimentaalsed tunnetest nõretavad filmid ja nüüd täiskasvanud peast seda vähem . </s> </p>
+<p> <s> Samas ei mõista ma neid , kes sääraseid seriaale vaadates nutavad , sugugi hukka . </s> <s> Tahan lihtsalt väita , et olen kaunis tõsine inimene , kes soovib juurdepääsu oma tundemaailmale . </s> <s> Kui ma tunnen , et tahan olla õnnelik , siis olen õnnelik . </s> <s> Ja kui ma tunnen , et olen vihane , siis ma ei varja seda ja olengi vihane . </s> </p>
+<p> <s> Ma ei kirjuta kunagi lastetükkidele õnnelikke lõppe sellepärast , et lõpp peab olema õnnelik . </s> </p>
+<p> <s> <hi rend="rasvane"> Kes on teie jaoks Astrid Lindgren ? </hi> </s> </p>
+<p> <s> Üks tuntumaid ja armastatumaid rootslasi . </s> <s> Ma olen teatrilaval mänginud Pipit ja see oli mulle tähtis roll . </s> <s> Mu lapsepõlvekodus oli paljugi teisiti kui mu eakaaslaste kodudes ja nii leidsin ma Pipis hingesugulase . </s> <s> Üksik tüdruk , kellel ema on surnud ja isa on kaugel-kaugel ära . </s> </p>
+<p> <s> Lindgren tabas suurepäraselt ära laste üksindusetunde . </s> <s> Ja sealjuures oskas ta rääkida surmast , ilma et see oleks hirmutav . </s> <s> Lindgren võis olla ka väga tundelis-romantiline maaelu kirjeldaja , aga see pakub mulle kui lavastajale vähem huvi . </s> </p>
+<p> <s> <hi rend="rasvane"> Millega seletate seda , et teie teater Unga Klara on kuulus ka väljaspool Rootsit ? </hi> </s> </p>
+<p> <s> Võib-olla sellepärast , et oleme lastega järjepidevalt tegelnud pea kolmkümmend aastat . </s> <s> Aga vahest sellepärast , et me keskendame tähelepanu lapsepõlvele . </s> </p>
+<p> <s> Meie trupp on tõesti palju reisinud : Caracas , New York , Montreal , Berliin . </s> <s> Sel suvel läheme Lõuna-Aafrika Vabariiki . </s> <s> Sealjuures pole me mitte sagedased lasteteatri festivalide külalised . </s> <s> Ju siis teatakse , et meie kunstiline keel on pisut teistsugune kui üldiselt . </s> <s> Ja nii nagu varem , nõnda ka nüüd jätkame me tabu-teemade lahti rääkimist . </s> </p>
+<p> <s> <hi rend="rasvane"> Marianne Mikko , ETV </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> SUZANNE OSTEN </hi> </s> </p>
+<p> <s> • Sündinud 20. juunil 1944 </s> </p>
+<p> <s> <hi rend="rasvane"> Haridus </hi> • Kunstiajaloolane </s> </p>
+<p> <s> <hi rend="rasvane"> Töö </hi> • Üks esimese sõltumatu teatritrupi Fickteatern loojaid 60ndatel • Stockholmi linnateatri juures asuva laste- ja noorteteatri Unga Klara kunstiline juht 1975- • Draamainstituudi professor 1995 • Filmirežissöör ja stsenarist </s> </p>
+<p> <s> <hi rend="rasvane"> Looming </hi> • Rootsi esimese lastetragöödia “ Medeia lapsed ” kaasautor 1975 • “ Ema ” 1982 • “ Vennad Mozartid ” 1986 • “ Eluohtlik film ” 1988 • “ Kaitseingel ” 1990 • “ Räägi , on nii pime ” 1992 </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Kultuur </head>
+          <div3 type="artikkel"><head> Taevaredel meretaguselt maalt </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Eelmisel neljapäeval peetud “ Taevaredeli ” esietendusel sadas vihma ja lärtsus pori , kuid minna tasus sinna ikkagi - juba lihtsalt Abruka pärast </hi> </s> </p>
+<p> <s> “ Kas siit saab Abrukale “ Taevaredelit ” vaatama ? ” küsin poole üheteistkümne paiku Roomassaare sadamahoone kõrval seisvalt , paati ootavalt naisterahvalt . </s> <s> Naine noogutab vastuseks . </s> </p>
+<p> <s> Läheb veel paar minutit , ja nurga tagant tormab välja seesama naine , kes osutub Abruka Malliks . </s> <s> ( Tegelikult on ta nimi Leelo Laus . ) </s> <s> Sammaldunud kuldnokapuur kaenlas , ronib Malli Roomassaare kohviku ees pingi peale . </s> <s> Rätt lehvib tuules ja naise silmad läigivad heldimuspisaraist - enne Abrukale sõitu peab ta maha võimsa monoloogi , mis ka kõige merekaugema inimese meretagust maad igatsema paneb . </s> </p>
+<p> <s> Peale seda tekib segadus , sest näidendit on tulnud vaatama üle ootuste palju inimesi ja pole kindel , kas kõik paatidesse mahuvad . </s> </p>
+<p> <s> <hi rend="rasvane"> Puhveti taga keeb elu </hi> </s> </p>
+<p> <s> “ Kas te kõik tulete Abrukale “ Taevaredelit ” vaatama ? ” imestab lavastaja Ellen Teemus külalisi paatidesse paigutades . </s> </p>
+<p> <s> Merel on väike torm ja laine loksutab sisikonda parasjagu . </s> <s> Napilt viis minutit enne randumist näen enda ümber klaasistunud silmi . </s> <s> “ Ära räägi minuga . </s> <s> Ma pole hetkel kontaktivõimeline ! ” ägab naisterahvas mu vastas oma naabrile . </s> </p>
+<p> <s> Sadama juures puhveti taga keeb neljapäeval elu . </s> <s> Silma hakkab kohalikke napsumehi ja hullavaid põngerjaid . </s> <s> Lõhnab plotska järgi , müriseb naer ja käed plaksatavad kohtumise rõõmus kokku . </s> </p>
+<p> <s> Puhvetileti taga on särtsakas preili , kes lahkelt teed juhatab ja mu suure koti hoiule võtab . </s> <s> Läheb ikka tubli pool tundi , enne kui tervitused ja värsked külauudised vahetatud saavad ning näitemäng võib alata . </s> </p>
+<p> <s> Teise vaatuse alguses ilmub ratta seljas kohale suure punase nina ja erkoranži tormimantliga Villem ( Väino Laes ) . </s> <s> Temalt saangi teada , et Abruka on Saaremaast nelja kilomeetri kaugusel , et elanikke on 20 ja saare pindala 8,8 km2 . </s> </p>
+<p> <s> Ühele poole Abrukat jääb Vahase saar , teisele poole Kasselaid ja kolmandale poole Linnusitamaa . </s> </p>
+<p> <s> Ellen Teemuse lavastatud ja Jüri Tuuliku kirjutatud “ Taevaredel ” pole traditsiooniline tükk . </s> <s> See koosneb viiest vaatusest , mida mängitakse saare eri osades , kuni ring peale saab . </s> <s> Nõnda moodustub terviklik kompositsioon , mis peegeldab kohalikku kultuurilugu . </s> </p>
+<p> <s> <hi rend="rasvane"> Aeg annab uue tähenduse </hi> </s> </p>
+<p> <s> “ Abruka oo pisike , aga autoriteetne paik . </s> <s> Ärge siis väga ägeks minge . </s> <s> Ärge linnupoegadele peale astuge ja ärge noori puid maha murdke ... ” loevad mänguabruklased Villem , Juula , Milli ja Malli sõnu peale , enne kui publiku saare peale lahti lasevad . </s> </p>
+<p> <s> “ Mulle tundub , et mu lood mõjuvad siin kadakate vahel kruusasel teel paremini kui raamatulehekülgedel , ” mõlgutab loo autor Jüri Tuulik mõtteid lavastuse teemadel . </s> <s> Ja seletab mööduvate tuttavate tervituste ja kallistuste vahel muhedalt edasi : </s> </p>
+<p> <s> “ Ekspluateerisin kuuldemängu ja kirjutasin ta mitte just väga surmtõsiselt ümber . </s> <s> Põhimõtteks oli , et pole midagi armsamat oma kodusaarest . </s> <s> Stsenaariumi kirjutamisel oli aga nukker moment see , et kirjutad kogu aeg komöödiat , aga tead , et tegelikult ainest , millest kirjutad , enam polegi . </s> <s> Vahel tundub , et kõik Abruka lood on kuuldud ja läbi kirjutatud , aga aeg annab uued värvid ja alatoonid ning tähenduse . ” </s> </p>
+<p> <s> Jalutan Jüri Tuulikuga järgmise mänguplatsi suunas , mis on Kuusiku talus . </s> <s> Jüri on mõtlik ja nostalgilises meeleolus , ilm hall ja udune . </s> <s> Mööda vuriseb projektijuht Rein Lemberi roheline veoauto , kuhjaga pealtvaatajaid täis . </s> </p>
+<p> <s> “ Olen siin nii palju kui võimalik , kuid loomingulisest küljest on saar end minu jaoks ammendanud . </s> <s> Praegu meeldibki enim kartulivõtuaeg , sest siis on siin vähe liikumist ja mulle vajalik rahu . ” </s> </p>
+<p> <s> Sageli otsitakse Tuuliku loomingust prototüüpe , kuid neid pole . </s> <s> Enamik lugusid on kuuldud hoopis Kuressaares traalimeeste käest , Tuulik on need kavalalt kokku põiminud . </s> <s> “ Abruklased on aga mu lood omaks võtnud . </s> <s> Ütlevad , et ongi sellised . </s> <s> Küllap seepärast , et igale kohale on tähtis ennast tunnetada ja defineerida , ” oletab Tuulik . </s> </p>
+<p> <s> <hi rend="rasvane"> Külmast vihmast kuuma kalasupini </hi> </s> </p>
+<p> <s> Näitemängu kolmas vaatus toimub Kuusiku talu hoovis , kuid just siis algab võimas vihmasadu . </s> <s> Näitlejad Lea Kuldsepp , Erki Uus ja Marika Mesipuu ennast häirida ei lase - asi see olukorraga kohanduda on . </s> </p>
+<p> <s> Lea Kuldsepale leitakse vihmavari koos truu hoidjaga ja ta saab edasi olla vapper saare naine , kes oma abikaasa Arturi üle kavaldab . </s> <s> Nii ta seisab ja räägib soravalt , suu veidi viltu , oma noorpõlvemälestusi . </s> <s> Taevast kallab vihma juba pangega . </s> </p>
+<p> <s> Teel eelviimasesse mängupaika vana tuuliku ja taeva redeli juures silman noort näitlejannat Marika Mesipuud . </s> </p>
+<p> <s> “ Etendus on ajakohane , mõnes mõttes isegi surematu . </s> <s> Asjale lisab vurhvi seegi , et vanemad lood on tänasega põimitud . </s> <s> Lavastaja Ellen Teemus teab , mida tahab , ” arvab näitlejatar ja lisab : “ Elleniga on huvitav , sest ta paneb otsima uusi võimalusi ja ootab , et me ise ka rollide lahendusi välja pakuksime . ” </s> </p>
+<p> <s> Abrukal on kõiksugu imesid . </s> <s> Siin elab India imemehe Said Baba fänniklubi asutaja ja hirvekari , siin on lopsaka kasvuga salu-lehtmets ja vuravad tigutillukesed autod . </s> </p>
+<p> <s> Hüppan porimülkast mülkasse . </s> <s> Peast käib läbi , et etendus on juba peaaegu läbi ning ees ootab perekond Lemberi taluõu koos kuuma kalasupiga . </s> </p>
+<p> <s> “ Taevaredeli ” lavastamine on tegelikult sümboolse tähendusega ettevõtmine , sest Kuressaare Rahvateater tähistab tänavu oma neljakümnendat tegutsemisaastat . </s> <s> Etenduse saarele viimise idee taga on poole kohaga abruklased Rein ja Krista Lember , kes Ellen Teemusele oma mõtet juba 97. aastast sisendanud on . </s> </p>
+<p> <s> “ See on kommertsmuda ! ” sädistab näitejuht Ellen . </s> <s> “ Vaatan publikut ja õnneks paistab , et neile meeldivad siin kõik asjad , hoolimata vihmast ja porist . ” </s> <s> Lavastaja tundub rahul olevat . </s> </p>
+<p> <s> “ Kõik on kokku naturaalne , nagu ütleb etenduses Abruka kohta Milli . </s> <s> Meie ettevõtmine on kaval - ta võib täiesti läbi kukkuda , aga ka väga hästi õnnestuda , nagu täna . </s> <s> Kui oled Abrukal , siis lihtsalt oled siin , ja midagi pole teha , ” räägib Ellen Teemus . </s> <s> ( Toda Millit mängib Liivi Väli . ) </s> </p>
+<p> <s> <hi rend="rasvane"> Päris elu ja näitemäng kohtuvad </hi> </s> </p>
+<p> <s> Noorena nägi Ellen saaretüdrukuna palju Abruka inimesi ja nad olidki sellised , nagu näidendis näha . </s> <s> Tema meelest on lood naljakad , kuid ometi need inimesed nalja ei tee - nende elu ja maailmavaade ongi sellised . </s> </p>
+<p> <s> Kogu lavastuse juures oli tähtsaim saada kätte Abruka tunne , sest sellises keskkonnas ei saa esitada tugevaid emotsioone või tõsist draamat . </s> <s> Ja see õnnestuski - hoolimata esietenduse mängurabedusest , hakkan tunnetama saart , tema rütmi ja meelelolu . </s> </p>
+<p> <s> Õppinud näitlejana teeb “ Taevaredelis ” kaasa Väino Laes . </s> <s> Rahvateatriga pole ta varem koostööd teinud , aga kuna projekt tundus huvitav ja Eestis esmakordne , siis võttis ta ettepaneku vastu . </s> </p>
+<p> <s> “ Esietendus tuli , nagu tuli , kahjuks segas meid natuke vihm . </s> <s> Minu enda jaoks oli täna ilusaks leiuks ekskursioon surnuaeda koos publikuga . </s> <s> Tekkis kummaline sümbioos , kus tõeline elu ja näitemäng hakkavad põimuma . ” </s> </p>
+<p> <s> Supp söödud ja viimane osa ära vaadatud , hakkab sadamasse minema ka Kuressaarest kohale sõitnud pensionär Endel Nuuk . </s> <s> Oma päevaga on ta rahul , olgugi et natuke vihma sai ja meri tormi keerutas . </s> </p>
+<p> <s> “ Oli tore ja näitlejad meeldisid ka . </s> <s> Päris näitlejate vastu nad ehk ei saa , aga ikka oli hea vaadata . </s> <s> Ma pole siin varem käinud , nüüd sai enne surma Abrukagi ära nähtud ! ” </s> </p>
+<p> <s> <hi rend="rasvane"> Epiloog : tulge tagasi Abrukale ! </hi> </s> </p>
+<p> <s> Kella nelja paiku istun sadamakail ja ootan paati , mis mind tagasi suurele saarele ja sealt suure mandri suurde linna viiks . </s> <s> Kajakad kiljuvad ja kalapojad söövad saiapuru . </s> </p>
+<p> <s> Varasema paadiga ma ära minna ei tahtnud , sest siin on hea olla nii looduse kui inimeste pärast . </s> <s> Kõige rohkem aga Abruka rahu pärast , mis on täielikum ja ürgsem kui sisemaa rahu iial . </s> <s> Seda rahu tahakski enesega koju kaasa viia ja eneses mäletada . </s> </p>
+<p> <s> Esimese satsi publikut koju läkitanud , seisab ka Rein Lember , “ Taevaredeli ” Abrukale tooja , kai peal ja viskab saarlase moodi nalja : </s> </p>
+<p> <s> “ Külalistest tunned rõõmu kaks korda : kui nad tulevad ja kui nad ära lähevad . ” </s> </p>
+<p> <s> Tegelikult valutab mees kodusaare tuleviku pärast südant . </s> <s> Püsielanikke on seal praegu vaid kakskümmend . </s> <s> “ Noori inimesi polegi , sest eks elu ole siin nagu igal pool ääremaadel . </s> <s> Maa värk on maa värk . </s> <s> Inimesed lähevad ikka sinna , kus mugavam elada . </s> <s> Mis sa teed , kui pole perele leiba lauale panna ! ” </s> </p>
+<p> <s> “ Taevaredeli ” üks mõte ongi saart inimestele teadvustada ja tutvustada , ehk tahab siis keegi siia tulla , et jääda alatiseks . </s> </p>
+<p> <s> “ Peaasi , et saar täis ei kasvaks ega muutuks ürgseks saareks , mida võib vaid kalli raha eest näidata , ” räägib Lember , kes ise 23 aastat rahvateatris kaasa teinud ning nüüd peab Abrukale kolimise plaane . </s> </p>
+<p> <s> “ Tegelesin eraettevõtlusega ja tahan seda kuidagi siia üle kantida . </s> <s> Pingsalt mõtlen , mida teha , kuidas omale leiba teenida ja miks mitte ka teistele teenistust pakkuda . </s> <s> Tunnen ennast Abrukal tunduvalt paremini kui suurel saarel . </s> <s> Nii kui laeva peale astun , on kohe kergem hingata , ” kinnitab Lember ja soovitab teistelgi järele proovida . </s> <s> Abrukal on teretulnud kõik . </s> </p>
+<p> <s> “ Taevaredelit ” saab minna Abrukale vaatama veel <hi rend="rasvane"> 11. , 12. , 14. ja 18. juulil </hi> ning <hi rend="rasvane"> 2. , 10. ja 14. augustil . </hi> </s> <s> Lähem info Ellen Teemuselt tel ( 056 ) 69 20 09. </s> </p>
+<p> <s> <hi rend="rasvane"> Moonika Siimets </hi> </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Naeris </head>
+          <div3 type="artikkel"><head> Lähen tööle , teenin raha , ostan õlle , lasen maha </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 </hi> <hi rend="rasvane"> 22 PÕRSAKEST </hi> </s> </p>
+<p> <s> järjest palle võrku lõi Jaapanis Ronaldo emis Sirlu käima lõi poegimiskuvalda </s> </p>
+<p> <s> nagu kuulipildujast põrsakesi poetas kuni nendest kokku sai vutimeeskond toekas </s> </p>
+<p> <s> Sirlu üllatunult kaeb isegi ei usu et ta ilmale on toond topeltalgkoosseisu </s> </p>
+<p> <s> ilmameistriks tulla kuid ei luba nende seisus praktiliselt kogu aeg nad on suluseisus </s> </p>
+<p> <s> <hi rend="rasvane"> CONTRA </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Reklaam : “ ETV viskas mu välja ! ” </hi> </s> </p>
+<p> <s> Juuli algul löödi ETVst minema Reklaam . </s> <s> Nüüd on ta murest murtud , pühib kogu aeg pisaraid ning otsib uut töökohta . </s> </p>
+<p> <s> <hi rend="rasvane"> Reklaam , miks te Naeri toimetuse poole pöördusite ? </hi> </s> </p>
+<p> <s> Kuhu ma siis pöörduma peaksin ? </s> <s> Kas te siis ei mõista , et ETV lõi mu majast välja ja nüüd pole mul enam midagi teha . </s> </p>
+<p> <s> <hi rend="rasvane"> Mis teiega täpselt juhtus ? </hi> </s> </p>
+<p> <s> See oli nii , et maikuu viimasel nädalal tuli mu juurde ETV direktor Ilmar Raag ja teatas , et üks meist peab lahkuma - kas tema või mina . </s> <s> Ma ei saanud suudki lahti teha , kui Ilmar näitas mu peale näpuga , et mina pean ära minema . </s> </p>
+<p> <s> <hi rend="rasvane"> Kuid te ju ei tahtnud majast lahkuda . </hi> </s> </p>
+<p> <s> Just nimelt . </s> <s> Ma ei tahtnud saada varalahkunuks . </s> <s> Punnisin vastu , et olgu , ma lähen , aga lase mul veel pool aastat olla . </s> <s> Mul vaja pere toita , auto- ja majaliising vaja maksta . </s> </p>
+<p> <s> Pakkusin Ilmarile , et okei , ma lähen minema , kuid alles uuest aastast . </s> <s> Ilmar helistas ringhäälingunõukogusse , kuid sealt öeldi , et olgu ma kohe 1. juunist majast välja löödud . </s> </p>
+<p> <s> <hi rend="rasvane"> Mis siis sai ? </hi> </s> </p>
+<p> <s> Mis siis ikka sai . </s> <s> Põgenesin , jooksin Ilmari eest ära . </s> <s> Kuna ETV maja on nii suur , suutsin end veel kuu aega telemaja seinte vahel peita . </s> </p>
+<p> <s> <hi rend="rasvane"> Kuidas see teil õnnestus ? </hi> </s> </p>
+<p> <s> Peitsin end 4. stuudiosse , tegin lae alla väikese pesa . </s> <s> Nii ma seal kükitasin . </s> <s> Ainult siis , kui pimedaks läks ja saated ära lõppesid ning telemajja ainult valvur jäi , käisin maja peal ringi kondamas . </s> <s> Meenub , et ükskord ehmatasin valvuritädi , teinekord aga mängisin Ilmari kabinetis telemaja hiirtega kabet . </s> </p>
+<p> <s> <hi rend="rasvane"> Kuidas õnnestus ETV-l teist lõplikult lahti saada ? </hi> </s> </p>
+<p> <s> Oota , ma vaatan oma märkmikust järele . </s> <s> Nii , see juhtus 1. juulil kell 9. </s> <s> Vaata , need “ Pealtnägija ” poisid , need on ju kõvad uurivad ajakirjanikud . </s> <s> Nii nad uurisid-puurisid , kuni leidsidki minu peidupaiga ETVs . </s> <s> Siis anti mind Ilmari kätte , tema haaras luua ja peksiski mu telemajast välja . </s> </p>
+<p> <s> <hi rend="rasvane"> Kuidas teie elu on edasi läinud ? </hi> </s> </p>
+<p> <s> No mis ta siin läheb . </s> <s> Tööd otsin . </s> <s> Käisin teevee kolmes ja kanal kahes , kuid ei tahetud mind nendeski kohtades . </s> </p>
+<p> <s> <hi rend="rasvane"> Tänan teid eksklusiivintervjuu eest ! </hi> </s> </p>
+<p> <s> Ei ole tänu väärt . </s> <s> Öelge parem , armas neiu , kas te maksate sularahas või saadan arve ? </s> </p>
+<p> <s> <hi rend="rasvane"> Mis arve ? </hi> </s> </p>
+<p> <s> Kõik see , mis ma rääkisin , on reklaam . </s> <s> See oli ju puhas reklaamitrikk , mõistate . </s> </p>
+<p> <s> <hi rend="rasvane"> Ei mõista ! </hi> </s> </p>
+<p> <s> Ega ma siis ilma rahata intervjuud andnud . </s> <s> Minu sekundid on väga kallid . </s> </p>
+<p> <s> <hi rend="rasvane"> Õnne Nõu , </hi> </s> </p>
+<p> <s> suvereporter </s> </p>
+<p> <s> <hi rend="rasvane"> Vastus võlgu </hi> </s> </p>
+<p> <s> • Kas Piilupardiga juhtunud rongiõnnetuse eest on süüdlasi karistatud ? • Kas Kalevipoeg on sõjaväes käinud ? • Kas laiekraanfilm on mõeldud ainult laia silmaringiga filmihuvilistele ? • Kas tärnidega hotellides võivad ainult mundrikandjad ööbida ? • Kes on Buratino ema ? • Miks ei tohi kohtumispaika muuta ? </s> </p>
+<p> <s> <hi rend="rasvane"> JÜRI PAET </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> Kolumn </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> INNA AEG </hi> </s> </p>
+<p> <s> Olen viimase nädala jooksul nii palju kirju saanud , et lausa jube - ma ei jõua neid kõiki lugedagi . </s> <s> Aga ma luban , et loen kõik läbi ja vastan igale kirjale . </s> </p>
+<p> <s> Eelmisel nädalal ilmus sellesamuse rubriigi juures esimest korda minu pilt . </s> <s> Milline eufooria sellest tekkis ! </s> <s> Inimesed olid hulluks minemas , kui said lõpuks teada , milline ma välja näen . </s> <s> Vaat see on ilus elu . </s> </p>
+<p> <s> Veel ilusam elu oli Õllesummeril . </s> <s> Kuna meil vanamehega piletiraha polnud , jõime õlut aia taga . </s> <s> Tegime väikese pikniku , jõime õlut ja sõime hapukurki peale . </s> <s> Mina jagasin meestele autogramme , vanamees jagas aga teistele oma vihaseid pilke - mingu nad minust eemale . </s> </p>
+<p> <s> Eilseks selgitasin välja , miks Õllesummeri ajal Tallinnas sadas . </s> <s> Asi nimelt selles , et summerdajad jõid hästi palju õlut ja see õlu tuli välja lasta . </s> <s> Tekkinud soe aur läks taevasse ja tekitas pilvi . </s> <s> Vihmapilved olid hästi suured ja kõik see , mis üles läks , tuli ka alla tagasi . </s> <s> Umbes samasugune skeem on mulle hästi meelde jäänud ka kooliõpikutest . </s> </p>
+<p> <s> Kui me juba Tallinnas olime , külastasime ka maksuametit ning andsin ennast vabatahtlikult üles . </s> <s> Nüüd ju kimbutab ja uurib maksuamet neid inimesi , kes endaga hästi toime tulevad . </s> <s> Olgu selleks Neivelt , Mõis või kes iganes . </s> <s> See kõik tuletab vägisi meelde kaitsepolitsei algatust , et andku koputajad ennast ise vabatahtlikult üles . </s> <s> Mind pole õnneks veel kohvile kutsutud . </s> <s> Vaat see on ilus elu . </s> </p>
+<p> <s> Kui me juba Tallinnas olime , kohtasime ka Võsa Petsi . </s> <s> Ta on hetkel puhkusel , seetõttu ta meid ei intervjueerinudki . </s> <s> Vaat see on ilus elu . </s> </p>
+<p> <s> <hi rend="rasvane"> Retroviisor </hi> </s> </p>
+<p> <s> Möödunud nädala uudistest jäi mulle meelde vaid kaks : külamees leidis neli päeva kadunud Carli lõpuks üles ja poliitik Maspanov tegeles väidetavalt salapiiritusega . </s> <s> Mis poliitikutesse puutub , siis oleks tarvis lausa põhiseadusse sisse viia punkt , mis neil igasuguse piirituselaadse kraamiga kokkupuutumise nende poliitikukarjääri ajal keelaks . </s> <s> Nad ei tohiks valmistada ega tarbida tooteid , mis seda koledat kraami sisaldavad . </s> </p>
+<p> <s> Mis poisikesse Carli puutub , siis usun , et kogu tema kaotsis oleku aja vahtisid pereemad pisarsilmi õhtuti teleuudiseid ja pereisad tegid samal ajal külmkapi juures rahustava õlle . </s> <s> Kui poiss lõpuks üles leiti , hüüti kindlasti nii mitmegi televiisori ees hõissa ! või tänati jumalat . </s> </p>
+<p> <s> Kui kusagil Etioopias sureb tuhandeid lapsi nälja kätte või kui hutud tutsi lapsi tapavad ja vastupidi , jätab see meid külmaks . </s> <s> Kui aga Carl ära kaob , on kogu rahvas ärevuses . </s> <s> Meid on nii vähe , meile on iga laps tähtis . </s> </p>
+<p> <s> Kuhu see poiss siis ujukate väel minna plaanis ? </s> <s> Kes seda teab . </s> <s> Laste tegemised ja tembud on tihti seletamatud . </s> </p>
+<p> <s> Heidame pilgu ajalukku , nii-öelda retroviisorisse . </s> </p>
+<p> <s> Juba jeesuslapsuke peitis end kuningas Herodese eest mitmesuguste pudulojuste sõime ja jäi ellu . </s> <s> Hiljem korraldas ta tänutäheks neile ja nende sõpradele suurepärase kruiisi Noa laeval . </s> <s> Tema oli tark lapsuke . </s> </p>
+<p> <s> Pavlik Morozov oli ka tark lapsuke . </s> <s> Vanamees ajas peidetud viljast samakat , selmet anda vili riigile . </s> <s> Läks pioneer Morozov organitesse ja ütles , et nii ja naa , vana hoiab riigi vilja vaka all , tarvis eksproprieerida . </s> <s> Nii ka tehti , ja Pavlik sai joodikust isast lahti . </s> <s> Alati valmis ! </s> </p>
+<p> <s> Noor trummilööja oli jälle loll . </s> <s> Kes siis rindepiirkonnas trummi lööb ja laulab . </s> <s> Loomulikult tuleb vaenlase kuul ja lõpetab laulu samal hetkel . </s> </p>
+<p> <s> Veidralt käitus ka Timur , kes oma meeskonnaga pimedas vanainimeste puid lõhkumas käis . </s> <s> Hellitasid lõpuks pensionärid nii ära , et nüüd need muudkui ronivad Toompeale loosungitega : “ Kus Timur ? ” </s> </p>
+<p> <s> Pipi Pikksukk mõnitas politseinikke . </s> <s> Need olid küll Rootsi omad . </s> <s> Meie lapsed neid küll mõnitada ei tohiks , meil saadetakse kohe Kaagverre . </s> </p>
+<p> <s> Kõige lõpuks : vennad Voitkad on viimaks ometi ühiskonda sulandunud . </s> <s> Enam nad muidugi lapsed pole , aga poisikesest peast nad ometigi metsa läksid . </s> <s> Ka Nukitsamehest sai Ants , kui ta metsast välja toodi . </s> </p>
+<p> <s> “ Oh-oh-hoo , ja-jah , ” ütleks selle peale Bullerby laste vanaisa . </s> </p>
+<p> <s> <hi rend="rasvane"> Lembit Remmelgas </hi> </s> </p></div3>
+        </div2>
+        <div2 type="rubriik">
+          <head> Tuna ja täna </head>
+          <div3 type="artikkel"><head> Tuna &amp; täna </head>
+<p> <s> <hi rend="kaldkiri"> 10.07.2002 <bibl> <author> Mati Soomre </author> </bibl> </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> 8. VII </hi> </s> </p>
+<p> <s> 1992 <hi rend="rasvane"> pandi </hi> Marseille'is <hi rend="rasvane"> kokku pusle </hi> ( mosaiikpilt ehk tükimäng , nagu soovitas Lennart Meri ) , <hi rend="rasvane"> mis koosnes 43 924 tükist </hi> ja kattis 4783 m2 . </s> </p>
+<p> <s> Suurimat puslet , mida poest saab osta , toodab Hispaania firma Educa Sallent . </s> <s> Selle mõõtmed on 2,4 x1 , 36 m ja see koosneb 10 000 tükist . </s> <s> Sama firma toodab ka kõige väiksemat puslet , mis vähemalt 1000 tükist koosneb : 46x30 cm . </s> </p>
+<p> <s> <hi rend="rasvane"> 9 VII </hi> </s> </p>
+<p> <s> <hi rend="rasvane"> 2000 </hi> tegi <hi rend="rasvane"> inglane </hi> Jason Rennie <hi rend="rasvane"> Inglismaal Donington Parki ringrajal </hi> mootorrattaga <hi rend="rasvane"> Yamaha YZ250 </hi> 77,1 m <hi rend="rasvane"> pikkuse </hi> hüppe . </s> </p>
+<p> <s> <hi rend="rasvane"> 10. VII </hi> </s> </p>
+<p> <s> 1958 <hi rend="rasvane"> suri </hi> Saksamaal Bremenis südamepuudulikkusse 32aastane ameeriklane Robert Earl Hughes . </s> <s> 3. VII oli Ameerika rändtsirkuse liige Hughes haigestunud leetritesse ja viidud haiglasse , kus ta ei mahtunud palatiuksest sisse , nii et teda raviti tema oma treileris . </s> <s> 1958. a veebruaris kaalus <hi rend="rasvane"> maailma raskeim inimene </hi> ( pildil ) 485 kg , tema rinnaümbermõõt oli 3,15 m , vööümbermõõt 3,20 m. </s> </p>
+<p> <s> Legend pajatab , et ta maeti Bremenisse klaverikastis kraana abil . </s> <s> Tegelikult Hughes balsameeriti , viidi USAsse ning maeti kodukanti Illinoisis erikirstus , mille mõõtmed olid 2,13 x1 , 22x0 , 91 m. </s> </p>
+<p> <s> <hi rend="rasvane"> 11. VII </hi> </s> </p>
+<p> <s> Täna on <hi rend="rasvane"> maailma rahvastikupäev . </hi> </s> <s> Keskpäeval oli meid kokku 6 236 355 795. </s> <s> Igas sekundis sünnib neli ja sureb kaks inimest . </s> <s> Kahe päevaga kasvab maailma rahvaarv Tallinna võrra , aastaga viiekümne Eesti võrra . </s> </p>
+<p> <s> Ameerika füüsik <hi rend="rasvane"> Theodore Harold Maiman </hi> *1927 ( Ehitas 1960 esimese (rubiin)laseri . </s> <s> Laseri ( sõnadest <hi rend="kaldkiri"> <hi rend="rasvane">L</hi>ight <hi rend="rasvane">A</hi>mplification by <hi rend="rasvane">S</hi>timulated <hi rend="rasvane">E</hi>mission of <hi rend="rasvane">R</hi>adiation </hi> 'valguse võimendus kiirguse stimuleeritud eritumise kaudu' ) valguskiir on harilikust valgusest palju koherentsem , monokromaatilisem , intensiivsem ja suunatum . </s> </p>
+<p> <s> Laserikiirt saab koondada valgustäpiks , mille pindala on 1 ¼m2 , või impulssideks , mille kestus on vähem kui 10-13 s. </s> <s> Laserit kasutatakse paljudel aladel , nt silmakirurgias , hambaravis , tööstuses , teabelevis , ka Maa ja Kuu vahemaad mõõtes . </s> <s> Vähemalt laserplaati , laserprinterit ja vöötkoodi laserlugejat teab igaüks . ) </s> </p>
+<p> <s> 1998 <hi rend="rasvane"> saavutas </hi> ameeriklase Tom Seydeli <hi rend="rasvane"> tuletõrjeauto </hi> Brainerdis kiiruse <hi rend="rasvane"> 655 km/h . </hi> </s> <s> Seydel monteeris 1941. a Fordile kaks Rolls-Royce'i reaktiivmootorit , kumbki 6000 hj ehk 4500 kW . </s> </p>
+<p> <s> <hi rend="rasvane"> 12. VII </hi> </s> </p>
+<p> <s> 1996 <hi rend="rasvane"> žongleeris </hi> brasiillanna <hi rend="rasvane"> Cláudia Martini </hi> Caxias do Sulis <hi rend="rasvane"> jalgpalliga </hi> vahetpidamata <hi rend="rasvane"> 7 : 05.25. </hi> Palli võib õhus hoida jalgade , põlvede ja peaga lüües . </s> </p>
+<p> <s> <hi rend="rasvane"> 13. VII </hi> </s> </p>
+<p> <s> 1994 <hi rend="rasvane"> suri </hi> vanim ning <hi rend="rasvane"> edukaim võistukõneleja papagoi , </hi> 1958 Ugandast Jinjast Inglismaale toodud aafrika hallpapagoi Prudle , <hi rend="rasvane"> kes </hi> võitis 1965-1976 kaksteist korda järjest Suurbritannia parima rääkiva papagoi tiitli . </s> </p>
+<p> <s> Iris Frostile kuulunud Prudle <hi rend="rasvane"> oskas 800 sõna . </hi> </s> <s> Üks tema lemmiklauseid oli “ What are you doing ? ” </s> <s> ( Mis sa teed ? ) . </s> <s> Kui ta puurist välja tahtis , kraaksus ta “ Want to come out ! ” </s> <s> ( Tahan välja tulla ! ) . </s> <s> Kui perenaine magama heitis , soovis Prudle talle alati viisakalt “ Head ööd ! ” ja hommikuti ütles “ Tere hommikust ! ” . </s> <s> Pildil hallpapagoi ( Psittacus erithacus ) metsas . </s> </p>
+<p> <s> <hi rend="rasvane"> 14. VII </hi> </s> </p>
+<p> <s> 1969 <hi rend="rasvane"> toimus </hi> 14.-18. VII <hi rend="rasvane"> Salvadori ja Hondurase </hi> vahel nn <hi rend="rasvane"> jalgpallisõda , </hi> mille ajendiks sai Hondurase fännide ründamine MMi valikturniiri mängu ajal San Salvadoris . </s> </p></div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>
+</teiCorpus>
+</teiCorpus>
